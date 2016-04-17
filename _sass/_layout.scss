@@ -2,12 +2,40 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
-
+    min-height: 600px;
     // Positioning context for the mobile navigation icon
     position: relative;
+
+    h3 {
+      a { color: #fdfdfd; }
+      font-family: 'Indie Flower', cursive;
+    }
+
+    h3.left {
+      float: left;
+    }
+
+    h3.right {
+      text-align: right;
+    }
+
+    .image-text {
+      margin-top: 25%;
+
+      h1 {
+        font-family: 'Fredericka the Great', cursive;
+        color: #fdfdfd;
+        text-align: center;
+        font-size: 3em;
+      }
+      h2 {
+        font-family: 'Indie Flower', cursive;
+        color: #fdfdfd;
+        text-align: center;
+        font-size: 2em;
+      }
+    }
 }
 
 .site-title {
