@@ -8,7 +8,6 @@
     position: relative;
 
     h3 {
-      a { color: #fdfdfd; }
       font-family: 'Indie Flower', cursive;
     }
 
@@ -25,16 +24,34 @@
 
       h1 {
         font-family: 'Fredericka the Great', cursive;
-        color: #fdfdfd;
         text-align: center;
         font-size: 3em;
       }
       h2 {
         font-family: 'Indie Flower', cursive;
-        color: #fdfdfd;
         text-align: center;
         font-size: 2em;
       }
+    }
+
+    .black {
+      color: black;
+      a { color: black; }
+    }
+
+    .dark {
+      color: #333300;
+      a { color: #333300; }
+    }
+
+    .more-dark {
+      color: #25250e;
+      a { color: #25250e; }
+    }
+
+    .white {
+      color: white;
+      a { color: white; }
     }
 }
 
