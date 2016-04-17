@@ -2,6 +2,7 @@
 layout: page
 title: Tietoja kirjoittajasta
 permalink: /about/
+header_image_style: "background: url('/assets/etusivu.jpg') no-repeat center center; background-size: auto 100%;"
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
