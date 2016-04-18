@@ -23,7 +23,8 @@ $(document).ready(function() {
   <ul class="post-list">
     {% for post in site.posts %}
       <li class="post-item">
-	<img titl="{{ post.title }}" src="{{ post.post_image }}" />
+	<img title="{{ post.title }}" src="{{ post.post_image }}" />
+	<div class="post-meta">{{ post.date | date: '%d.%m.%Y' }}</div>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>

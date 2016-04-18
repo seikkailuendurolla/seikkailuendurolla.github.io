@@ -227,15 +227,17 @@
 
     > li {
         cursor: pointer;
-        margin-bottom: $spacing-unit;
-        margin-left: $spacing-unit;
-        width: $content-width/2-100;
+        margin-left: 0;
+        margin-bottom: $spacing-unit/2;
+        margin-right: $spacing-unit/2;
+        width: $content-width/2-45;
         box-shadow: 0 1px 2px rgba(0,0,0,0.1);
         background-color: #fdfdfd;
         float: left;
 
         h2, p {
-          margin: $spacing-unit/2;
+          margin-left: $spacing-unit/2;
+          margin-right: $spacing-unit/2;
         }
     }
 }
@@ -247,6 +249,8 @@
 .post-meta {
     font-size: $small-font-size;
     color: $grey-color;
+    margin-left: $spacing-unit/2;
+    padding-top: $spacing-unit/2;
 }
 
 .post-link {
