@@ -5,11 +5,24 @@ header_slogan_class: dark
 header_image_style: "background-image: url('/assets/etusivu.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-position: center center; background-size: auto 100%;"
 ---
 
+<script type="text/javascript">
+//<![CDATA[
+
+$(document).ready(function() {
+  $('.post-item').click(function() {
+    var url = $(this).find("a").attr("href");
+    location = url;
+  });
+});
+
+//]]>
+</script>
+
 <div class="home">
 
   <ul class="post-list">
     {% for post in site.posts %}
-      <li>
+      <li class="post-item">
 	<img titl="{{ post.title }}" src="{{ post.post_image }}" />
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
