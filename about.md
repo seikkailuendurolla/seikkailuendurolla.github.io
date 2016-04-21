@@ -7,13 +7,13 @@ header_slogan_class: black
 header_image_style: "background-image: url('/assets/luonto-harrastus.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-position: center center; background-size: auto 100%;"
 ---
 
-Moottoripyöräilystä on varmaankin jokaisella suomalaisella jonkinlainen käsitys. Näkemykset varmaankin jonkin verran eroavat riipuen siitä onko asiasta omakohtaista kokemusta. Uutisointi muokkaa omalta osaltaan yleistä mielipidettä tiettyyn suuntaan, pääosin onnettomuusuutisoinnin kautta.
+Moottoripyöräilystä on varmaankin jokaisella suomalaisella jonkinlainen käsitys. Näkemykset eroavat toisistaan riipuen mm. siitä onko asiasta omakohtaista kokemusta. Uutisointi muokkaa omalta osaltaan yleistä mielipidettä tiettyyn suuntaan, pääosin onnettomuusuutisoinnin kautta.
 
 Tässä blogissa haluan kirjoittaa moottoripyöräilystä näkökulmasta, joka ei luultavasti ole kovin hyvin tunnettua suuren yleisön keskuudessa. Toivonpa jopa saavani herätettyä kipinän lukijoihin ja sitä kautta mukaan uusia harrastajia.
 
-Olen ruuhkavuosien keskellä oleva lapsiperheen isä ja harrastan mootoripyöräilyä Keski-Suomeen upeita sorateitä ja polkuja tutkien. Moottoripyöräni ei siis ole Saksan autobahnille suunniteltu vauhtihirmu vaan hyvillä maasto-ominaisuuksilla varustettu iso matkaenduro. Moottoripyörä, jolla onnistuu ojan ylittäminen, mutta myös matka-ajo pitkällekin reissulle.
+Olen ruuhkavuosien keskellä elävä lapsiperheen isä ja harrastan mootoripyöräilyä Keski-Suomeen upeita sorateitä ja polkuja tutkien. Moottoripyöräni ei siis ole Saksan autobahnille suunniteltu vauhtihirmu vaan hyvillä maasto-ominaisuuksilla varustettu iso matkaenduro. Moottoripyörä, jolla onnistuu ojan ylittäminen, mutta myös matka-ajo pitkällekin reissulle.
 
-Suoritin moottoripyöräkorttini 16-vuotiaana ja haaveilin hankkivani "oikean" moottoripyörän sopivan tilaisuuden koittaessa. Perheellistyin pian työelämään siirtymisen jälkeen ja vastuu perheestä hälvensi haaveita moottoripyöräilystä. Tiivistyihän käsitykseni moottoripyöräilystä seuraaviin sanohin: isot ylinopeudet, ajokorti kuivumaan ja pahat onnettomuudet!
+Suoritin moottoripyöräkorttini 16-vuotiaana ja haaveilin hankkivani "oikean" moottoripyörän sopivan tilaisuuden koittaessa. Perheellistyin pian työelämään siirtymisen jälkeen ja vastuu perheestä hälvensi haaveita moottoripyöräilystä. Tiivistyihän käsitykseni moottoripyöräilystä seuraaviin sanohin: isot ylinopeudet, ajokortti kuivumaan ja pahat onnettomuudet!
 
 Lienee kiistatonta, että mootoripyöräilyyn liittyy vauhdin hurma ja vapauden tunne. Harrastukseni uudelleen aloitaamisen sytykkeenä oli hoksata, että vauhdin hurman saavuttaminen ei olekaan kiinni moottoripyörän absoluuttisesta nopeudesta vaan ajettavasta ympäristöstä. 80km/h nopeus ei tunnu juuri miltään lentokentän kiitotiellä ajettuna. Se tuntuu suurinpiirtein samalta, kun ajaisi autolla moottoritiellä 60km/h. Vastaavasti mutkaisella soratiellä ajettaessa tuo 80km/h on kova vauhti. Tällaisia yleisrajoituksen (80km/h) piirissä olevia sorateitä löytyy Keski-Suomesta valtava määrä.
 
