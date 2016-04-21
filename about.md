@@ -11,7 +11,7 @@ Moottoripyöräilystä on varmaankin jokaisella suomalaisella jonkinlainen käsi
 
 Tässä blogissa haluan kirjoittaa moottoripyöräilystä näkökulmasta, joka ei luultavasti ole kovin hyvin tunnettua suuren yleisön keskuudessa. Toivonpa jopa saavani herätettyä kipinän lukijoihin ja sitä kautta mukaan uusia harrastajia.
 
-Olen ruuhkavuosien keskellä elävä lapsiperheen isä ja harrastan mootoripyöräilyä Keski-Suomeen upeita sorateitä ja polkuja tutkien. Moottoripyöräni ei siis ole Saksan autobahnille suunniteltu vauhtihirmu vaan hyvillä maasto-ominaisuuksilla varustettu iso matkaenduro. Moottoripyörä, jolla onnistuu ojan ylittäminen, mutta myös matka-ajo pitkällekin reissulle.
+Olen ruuhkavuosien keskellä elävä lapsiperheen isä ja harrastan mootoripyöräilyä Keski-Suomen upeita sorateitä ja polkuja tutkien. Moottoripyöräni ei siis ole Saksan autobahnille suunniteltu vauhtihirmu vaan hyvillä maasto-ominaisuuksilla varustettu iso matkaenduro. Moottoripyörä, jolla onnistuu ojan ylittäminen, mutta myös matka-ajo pitkällekin reissulle.
 
 Suoritin moottoripyöräkorttini 16-vuotiaana ja haaveilin hankkivani "oikean" moottoripyörän sopivan tilaisuuden koittaessa. Perheellistyin pian työelämään siirtymisen jälkeen ja vastuu perheestä hälvensi haaveita moottoripyöräilystä. Mielikuvissani moottoripyöräilyyn liittyi suuren ylinopeudet, ajokortin menettäminen ja kohtalokkaat onnettomuudet. Epäsopiva harrastus perheelliselle?
 
