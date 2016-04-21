@@ -9,9 +9,9 @@ header_image_style: "background-image: url('/assets/luonto-harrastus.jpg'); back
 
 Moottoripyöräilystä on varmaankin jokaisella suomalaisella jonkinlainen käsitys. Näkemykset eroavat toisistaan riipuen mm. siitä onko asiasta omakohtaista kokemusta. Uutisointi muokkaa omalta osaltaan yleistä mielipidettä tiettyyn suuntaan, pääosin onnettomuusuutisoinnin kautta.
 
-Tässä blogissa haluan kirjoittaa moottoripyöräilystä näkökulmasta, joka ei luultavasti ole kovin hyvin tunnettua suuren yleisön keskuudessa. Toivonpa jopa saavani herätettyä kipinän lukijoihin ja sitä kautta mukaan uusia harrastajia.
+Tässä blogissani haluan kirjoittaa moottoripyöräilystä näkökulmasta, joka ei luultavasti ole kovin hyvin tunnettua suuren yleisön keskuudessa. Toivonpa jopa saavani herätettyä innostuksen lukijoihin ja sitä kautta mukaan uusia harrastajia.
 
-Olen ruuhkavuosien keskellä elävä lapsiperheen isä ja harrastan mootoripyöräilyä Keski-Suomen upeita sorateitä ja polkuja tutkien. Moottoripyöräni ei siis ole Saksan autobahnille suunniteltu vauhtihirmu vaan hyvillä maasto-ominaisuuksilla varustettu iso matkaenduro. Moottoripyörä, jolla onnistuu ojan ylittäminen, mutta myös matka-ajo pitkällekin reissulle.
+Olen ruuhkavuosien keskellä elävä lapsiperheen isä ja harrastan mootoripyöräilyä Keski-Suomen upeita sorateitä ja polkuja tutkien. Moottoripyöräni ei siis ole Saksan autobahnille suunniteltu vauhtihirmu vaan hyvillä maasto-ominaisuuksilla varustettu iso matkaenduro. Moottoripyörä, jolla onnistuu ojan ylittäminen, mutta myös matka-ajo pitkälläkin reissulla.
 
 Suoritin moottoripyöräkorttini 16-vuotiaana ja haaveilin hankkivani "oikean" moottoripyörän sopivan tilaisuuden koittaessa. Perheellistyin pian työelämään siirtymisen jälkeen ja vastuu perheestä hälvensi haaveita moottoripyöräilystä. Mielikuvissani moottoripyöräilyyn liittyi suuren ylinopeudet, ajokortin menettäminen ja kohtalokkaat onnettomuudet. Epäsopiva harrastus perheelliselle?
 
@@ -19,6 +19,6 @@ Lienee kiistatonta, että mootoripyöräilyyn liittyy vauhdin hurma ja vapauden 
 
 Ajokortin sälyttämiseen paras tapa on noudattaa nopeusrajoituksia. Pienentämällä ajettavaa tietä saavutetaan lopulta riittävä taso vauhdin hurmalle. Lisäksi tällainen ajaminen on myös turvallisempaa, koska vauhdit ovat hitaanpia ja pienillä teillä on vähemmän muuta liikennettä. Toki soratieajossa on omat erityispiirteensä, jotka tulee ottaa huomioon.
 
-Blogissani teemoina ovat turvallinen moottoripyöräily tieliikennelakia kunnioittaen, luonnosta nauttiminen ja edurolla seikkailu Keski-Suomen upeissa maisemissa. Kalustoon liittyvät kirjoitukset tulevat luonnolisesti koskemaan enduroita ja ennenkaikkea matkaenduroita. Kirjoitukseni suuntaan erityisesti uusille harrastajille tai vasta harrastuksen aloittamista pohtiville. Kertyneen kokemukseni lisäksi tietolähteenä käytän Pohjolan Kurapyöräilijät yhteisöä [matkaendurot.net](http://www.matkaendurot.net/phpBB3/index.php) keskustelufoorumilla.
+Blogissani teemoina ovat turvallinen moottoripyöräily tieliikennelakia kunnioittaen, luonnosta nauttiminen ja matkaedurolla seikkailu Keski-Suomen upeissa maisemissa. Kalustoon liittyvät kirjoitukset tulevat luonnolisesti koskemaan enduroita ja ennenkaikkea matkaenduroita. Kirjoitukseni suuntaan erityisesti uusille harrastajille tai vasta harrastuksen aloittamista pohtiville. Kertyneen kokemukseni lisäksi tietolähteenä käytän Pohjolan Kurapyöräilijät yhteisöä [matkaendurot.net](http://www.matkaendurot.net/phpBB3/index.php) keskustelufoorumilla.
 
 Blogin yhteistyökumppanina on Jyväskyläläinen moottoripyöräliike [Bike Forum Oy](http://bikeforum.fi/). Bike Forum edustaa Jyväskylässä kahta tärkeää seikkailupyörämerkkiä [KTM:ää](http://bikeforum.fi/ajoneuvot/moottoripyorat/ktm-moottoripyorat/) ja [Hondaa](http://bikeforum.fi/ajoneuvot/moottoripyorat/honda-moottoripyorat/).
