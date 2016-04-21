@@ -13,7 +13,7 @@ Tässä blogissa haluan kirjoittaa moottoripyöräilystä näkökulmasta, joka e
 
 Olen ruuhkavuosien keskellä elävä lapsiperheen isä ja harrastan mootoripyöräilyä Keski-Suomeen upeita sorateitä ja polkuja tutkien. Moottoripyöräni ei siis ole Saksan autobahnille suunniteltu vauhtihirmu vaan hyvillä maasto-ominaisuuksilla varustettu iso matkaenduro. Moottoripyörä, jolla onnistuu ojan ylittäminen, mutta myös matka-ajo pitkällekin reissulle.
 
-Suoritin moottoripyöräkorttini 16-vuotiaana ja haaveilin hankkivani "oikean" moottoripyörän sopivan tilaisuuden koittaessa. Perheellistyin pian työelämään siirtymisen jälkeen ja vastuu perheestä hälvensi haaveita moottoripyöräilystä. Tiivistyihän käsitykseni moottoripyöräilystä seuraaviin sanohin: isot ylinopeudet, ajokortti kuivumaan ja pahat onnettomuudet!
+Suoritin moottoripyöräkorttini 16-vuotiaana ja haaveilin hankkivani "oikean" moottoripyörän sopivan tilaisuuden koittaessa. Perheellistyin pian työelämään siirtymisen jälkeen ja vastuu perheestä hälvensi haaveita moottoripyöräilystä. Mielikuvissani moottoripyöräilyyn liittyi suuren ylinopeudet, ajokortin menettäminen ja kohtalokkaat onnettomuudet. Epäsopiva harrastus perheelliselle?
 
 Lienee kiistatonta, että mootoripyöräilyyn liittyy vauhdin hurma ja vapauden tunne. Harrastukseni uudelleen aloitaamisen sytykkeenä oli hoksata, että vauhdin hurman saavuttaminen ei olekaan kiinni moottoripyörän absoluuttisesta nopeudesta vaan ajettavasta ympäristöstä. 80km/h nopeus ei tunnu juuri miltään lentokentän kiitotiellä ajettuna. Se tuntuu suurinpiirtein samalta, kun ajaisi autolla moottoritiellä 60km/h. Vastaavasti mutkaisella soratiellä ajettaessa tuo 80km/h on kova vauhti. Tällaisia yleisrajoituksen (80km/h) piirissä olevia sorateitä löytyy Keski-Suomesta valtava määrä.
 
