@@ -7,7 +7,8 @@ header_slogan_class: black
 header_image_style: "background-image: url('/assets/luonto-harrastus.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-position: center center; background-size: auto 100%;"
 ---
 
-Moottoripyöräilystä on varmaankin jokaisella suomalaisella jonkinlainen käsitys. Näkemykset eroavat toisistaan riipuen mm. siitä onko asiasta omakohtaista kokemusta. Uutisointi muokkaa omalta osaltaan yleistä mielipidettä tiettyyn suuntaan, pääosin onnettomuusuutisoinnin kautta.
+
+Moottoripyöräilystä on varmaankin jokaisella jonkinlainen käsitys. Näkemykset eroavat toisistaan riipuen mm. siitä onko asiasta omakohtaista kokemusta. Media muokkaa omalta osaltaan yleistä mielipidettä, pääosin onnettomuusuutisoinnin kautta.
 
 Tässä blogissani haluan kirjoittaa moottoripyöräilystä näkökulmasta, joka ei luultavasti ole kovin hyvin tunnettua suuren yleisön keskuudessa. Toivonpa jopa saavani herätettyä innostuksen lukijoihin ja sitä kautta mukaan uusia harrastajia.
 
