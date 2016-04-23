@@ -7,6 +7,15 @@
     // Positioning context for the mobile navigation icon
     position: relative;
 
+    .nav {
+       box-shadow: 0 1px 3px rgba(0,0,0,0.8);
+       width: 100%;
+       position: fixed;
+       background: rgba(0, 0, 0, 0.7);
+       margin: 0;
+       padding: 0;
+    }
+
     h3 {
       font-family: 'Indie Flower', cursive;
     }
@@ -20,7 +29,7 @@
     }
 
     .image-text {
-      margin-top: 25%;
+      padding-top: 25%;
 
       h1 {
         font-family: 'Fredericka the Great', cursive;
@@ -143,8 +152,8 @@
  * Site footer
  */
 .site-footer {
+    box-shadow: 0 -1px 3px rgba(0,0,0,0.8);
     background-color: #333;
-    border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
