@@ -8,9 +8,7 @@ header_image_style: "background-image: url('/assets/luonto-harrastus.jpg'); back
 ---
 
 
-Moottoripyöräilystä on varmaankin jokaisella jonkinlainen käsitys. Näkemykset eroavat toisistaan riipuen mm. siitä onko asiasta omakohtaista kokemusta. Media muokkaa omalta osaltaan yleistä mielipidettä, pääosin onnettomuusuutisoinnin kautta.
-
-Tässä blogissani haluan kirjoittaa moottoripyöräilystä näkökulmasta, joka ei luultavasti ole kovin hyvin tunnettua suuren yleisön keskuudessa. Toivonpa jopa saavani herätettyä innostuksen lukijoihin ja sitä kautta mukaan uusia harrastajia.
+Millainen mielikuva sinulla on moottoripyöräilystä? Tässä blogissa haluan kirjoittaa moottoripyöräilystä näkökulmasta, joka ei ole kaikille suomalaisille vielä tuttua.
 
 Olen ruuhkavuosien keskellä elävä lapsiperheen isä ja harrastan mootoripyöräilyä Keski-Suomen upeita sorateitä ja polkuja tutkien. Moottoripyöräni ei siis ole Saksan autobahnille suunniteltu vauhtihirmu vaan hyvillä maasto-ominaisuuksilla varustettu iso matkaenduro. Moottoripyörä, jolla onnistuu ojan ylittäminen, mutta myös matka-ajo pitkälläkin reissulla.
 
