@@ -2,9 +2,8 @@
 layout: page
 title: Tietoja kirjoittajasta
 permalink: /about/
-header_link_class: dark
-header_slogan_class: black
-header_image_style: "background-image: url('/assets/luonto-harrastus.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-position: center center; background-size: auto 100%;"
+header_slogan_class: white
+header_image_style: "background-image: url('/assets/matkaenduro-laavu.jpg')"
 ---
 
 
