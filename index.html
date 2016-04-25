@@ -28,6 +28,7 @@ $(document).ready(function() {
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
 	<p>{{ post.excerpt }}</p>
+	<p><a href="{{ post.url | prepend: site.baseurl }}">Lue lisää</a></p>
       </li>
     {% endfor %}
   </ul>
