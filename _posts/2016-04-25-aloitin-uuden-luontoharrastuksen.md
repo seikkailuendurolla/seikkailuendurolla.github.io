@@ -10,9 +10,9 @@ Kevät on tullut ja lumi rupeaa olemaan sulanut, tosin varjoisista notkelmista s
 
 Sää on aurinkoinen ja vielä on muutama tunti aikaa, ennen kuin aurinko painuu puiden taakse piiloon. Kelirikkoaika rupeaa olemaan takana päin ja soratiet ovat hyvässä kunnosa. Osa teistä on juuri lanattu ja pinta on pehmeä. Kokemusta ei ole vielä kertynyt kovin montaa kilometriä, joten ajelen varovasti. Kiire ei ole mihinkään, koska olenhan jo oikeastaan perillä, luonnon keskellä, kevään tuoksuessa ilmassa. Keuruu on oikeastaan vain kiintopiste, ei varsinainen tavoite, joka pitäisi ehdottomasti saavuttaa.
 
-Teeriparvi pyrähtää lentoon tienvireisestä männiköstä. Parivi lentää aluksi tiensuuntaisesti, kunnes kaartaa oikealle. Löysään kaasua ja nopeuteni ei ole juuri lintuja nopeampi. Kenties soidinalue lähettyvillä ja teeret matkalla iltasoitimelle tai lähipuustoon yöpymään.
+Teeriparvi pyrähtää lentoon tienvireisestä männiköstä. Parvi lentää aluksi tiensuuntaisesti, kunnes kaartaa oikealle. Löysään kaasua ja nopeuteni ei ole juuri lintuja nopeampi. Kenties soidinalue lähettyvillä ja teeret matkalla iltasoitimelle tai lähipuustoon yöpymään.
 
-Sää, tuoksut, eläinten havainnointi, kaikki nämä ovat aistittavissa voimakkaammin mootoripyörällä ajaessa. Eihän päällä ole suojaavaa metallikuorta, joka hidastaisi ärsykkeiden saapumisen aisteille. Huikea tunne, jota on vaikea pukea sanoisi. Se on monivivahteinen, josta pääsee kunnolla perille vain itse kokemalla.
+Sää, tuoksut, eläinten havainnointi, kaikki nämä ovat aistittavissa voimakkaammin moottoripyörällä ajaessa. Eihän päällä ole suojaavaa metallikuorta, joka hidastaisi ärsykkeiden saapumisen aisteille. Huikea tunne, jota on vaikea pukea sanoisi. Se on monivivahteinen, josta pääsee kunnolla perille vain itse kokemalla.
 
 Tie kaartuu oikealle ja vastaan tulee jyrkkä mäki. Näkyyvys on kuitenkin hyvä, koska tien vieressä ei ole puustoa. Rinteen puolivälissä istuu tuttu eläin, metsäjänis. Keväällä eläimet ovat runsaasti liikkeellä ja ne ovat tavallista kesympiä.
 
@@ -22,7 +22,7 @@ Samassa tajuan, että onhan minulla olemassa muitakin vaihtoehtoja. Käytössän
 
 Saavun t-risteykseen. Pysähdyn hetkeksi ja seuraan yli lentävää metsoa. Välillä kaarevat siivet ovat liitoasennossa, kunnes ne taas lyövät tehokkaita siiveniskuja ja vievät lintua eteenpäin. Musta ja iso ukkometso. Edessä on hakkuuaukea, jonka keskelle on jätetty suuria mäntyjä. Ilmeisesti siemenpuiksi. Metso istahtaa männynoksalle ja  katselee rauhallisesti ympärilleen. Yksi komeimmista Suomen luonnon eläimistä. Seuraan vielä hetken ja jatkan sitten matkaani.
 
-Reissun jälkeen olen tyytyväinen. Kolme upeaa eläinhavaintoa. Valitsemaani mootoripyöräilylajiin yhdistyy luonnon seuraamiseen tavala, jota en etukäteen hoksannut ajatella.
+Reissun jälkeen olen tyytyväinen. Kolme upeaa eläinhavaintoa. Valitsemaani mootoripyöräilylajiin yhdistyy luonnon seuraamiseen tavalla, jota en etukäteen hoksannut ajatella.
 
 Ps.
 
