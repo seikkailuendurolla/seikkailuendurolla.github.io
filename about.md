@@ -9,7 +9,7 @@ header_image_style: "background-image: url('/assets/matkaenduro-laavu.jpg')"
 
 Millainen mielikuva sinulla on moottoripyöräilystä? Tässä blogissa haluan kirjoittaa moottoripyöräilystä näkökulmasta, joka ei ole kaikille suomalaisille vielä tuttua.
 
-Olen ruuhkavuosien keskellä elävä lapsiperheen isä ja harrastan mootoripyöräilyä Keski-Suomen upeita sorateitä ja polkuja tutkien. Moottoripyöräni ei siis ole Saksan autobahnille suunniteltu vauhtihirmu vaan hyvillä maasto-ominaisuuksilla varustettu iso matkaenduro. Moottoripyörä, jolla onnistuu ojan ylittäminen, mutta myös matka-ajo pitkälläkin reissulla.
+Olen ruuhkavuosien keskellä elävä lapsiperheen isä ja harrastan moottoripyöräilyä Keski-Suomen upeita sorateitä ja polkuja tutkien. Moottoripyöräni ei siis ole Saksan autobahnille suunniteltu vauhtihirmu vaan hyvillä maasto-ominaisuuksilla varustettu iso matkaenduro. Moottoripyörä, jolla onnistuu ojan ylittäminen, mutta myös matka-ajo pitkälläkin reissulla.
 
 Suoritin moottoripyöräkorttini 16-vuotiaana ja haaveilin hankkivani "oikean" moottoripyörän sopivan tilaisuuden koittaessa. Perheellistyin pian työelämään siirtymisen jälkeen ja vastuu perheestä hälvensi haaveita moottoripyöräilystä. Mielikuvissani moottoripyöräilyyn liittyi suuret ylinopeudet, ajokortin menettäminen ja kohtalokkaat onnettomuudet. Epäsopiva harrastus perheelliselle?
 
