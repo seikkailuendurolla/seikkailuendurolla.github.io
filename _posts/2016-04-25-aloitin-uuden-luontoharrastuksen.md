@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aloitin uuden luontoharrastuksen, moottoripyörilyn
+title: Aloitin uuden luontoharrastuksen, moottoripyöräilyn
 header_slogan_class: white
 header_image_style: "background-image: url('/assets/matkaenduro-laavu.jpg')"
 post_image: /assets/matkaenduro-laavu.jpg
