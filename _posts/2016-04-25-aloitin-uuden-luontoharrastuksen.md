@@ -6,7 +6,7 @@ header_image_style: "background-image: url('/assets/matkaenduro-laavu.jpg')"
 post_image: /assets/matkaenduro-laavu.jpg
 ---
 
-Kevät on saapunut ja vain varjoisista notkelmista voi löytää vielä lunta. Olen juuri hankkinut ensimäisen täysitehoisen moottoripyöräni ja soratiet kutsuvat. Suuntaan Jyväskylästä Keuruulle ajatuksella, että pyrin välttämään asfalttiteitä ja kiertelen mahdollisimman pieniä sortateitä pitkin. Navigaattoria ei pyörässäni vielä ole, joten painan mieleeni reitin älypuhelimeni kartalta. Risteyksiä on reitillä paljon ja joudun tarkistamaan reittiä kartalta useaan otteeseen. Tiestö muuttuu nopeasti minulle täysin tuntemattomaksi vaikka olenkin alueella jo yli 10 vuotta asunut.
+Kevät on saapunut ja vain varjoisista notkelmista voi löytää vielä lunta. Olen juuri hankkinut ensimmäisen täysitehoisen moottoripyöräni ja soratiet kutsuvat. Suuntaan Jyväskylästä Keuruulle ajatuksella, että pyrin välttämään asfalttiteitä ja kiertelen mahdollisimman pieniä sorateitä pitkin. Navigaattoria ei pyörässäni vielä ole, joten painan mieleeni reitin älypuhelimeni kartalta. Risteyksiä on reitillä paljon ja joudun tarkistamaan reittiä kartalta useaan otteeseen. Tiestö muuttuu nopeasti minulle täysin tuntemattomaksi vaikka olenkin alueella jo yli 10 vuotta asunut.
 
 Auringonlaskuun on vielä muutama tunti aikaa ja sää on kirkas. Kelirikkoaika alkaa olemaan ohi ja soratiet ovat hyvässä kunnossa. Osa teistä on juuri lanattu ja pinta on pehmeä. Kokemusta ei ole vielä kertynyt kovin montaa kilometriä, joten ajelen varovasti. Kiirettä ei ole mihinkään, koska olenhan jo oikeastaan perillä luonnon keskellä kevään tuoksuessa ilmassa. Keuruu on oikeastaan vain kiintopiste, ei varsinainen tavoite joka pitäisi ehdottomasti saavuttaa.
 
