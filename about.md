@@ -3,7 +3,7 @@ layout: page
 title: Tietoja kirjoittajasta
 permalink: /about/
 header_slogan_class: white
-header_image_style: "background-image: url('/assets/matkaenduro-laavu.jpg')"
+header_image_style: "background-image: url('/assets/about-me.jpg')"
 ---
 Millainen mielikuva sinulla on moottoripyöräilystä? Tässä blogissa haluan kirjoittaa moottoripyöräilystä näkökulmasta, joka ei ole kaikille suomalaisille vielä tuttua.
 
