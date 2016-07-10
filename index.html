@@ -20,7 +20,7 @@ $(document).ready(function() {
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts reversed %}
       <li class="post-item">
 	<img title="{{ post.title }}" src="{{ post.post_image }}" />
 	<div class="post-meta">{{ post.date | date: '%d.%m.%Y' }}</div>
