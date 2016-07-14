@@ -21,6 +21,10 @@ $(document).ready(function() {
 
   <ul class="post-list">
     {% for post in site.posts reversed %}
+      {% if post.draft == true %}
+        {% continue %}
+      {% endif %}
+
       <li class="post-item">
 	<img title="{{ post.title }}" src="{{ post.post_image }}" />
 	<div class="post-meta">{{ post.date | date: '%d.%m.%Y' }}</div>
