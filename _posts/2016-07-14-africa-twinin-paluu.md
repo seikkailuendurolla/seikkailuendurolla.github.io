@@ -4,7 +4,6 @@ title: Africa Twinin paluu
 header_slogan_class: white
 header_image_style: "background-image: url('/assets/africa-twin1.jpg')"
 post_image: /assets/africa-twin1.jpg
-draft: true
 ---
 Perehtyessäni ensimmäistä kertaa kunnolla matkaenduroihin en voinut välttyä törmäämästä Honda XRV 750 Africa Twin moottoripyörään. Omassa ikäluokassaan tämä malli tuntui saavan osakseen poikkeuksellista arvostusta. Vanhan Africa Twinin valmistus lopetettiin 2003 ja vuosikymmen vaihteessa keskusteltiin jo kovasti siitä, milloin Africa Twin palaa Hondan mallistoon. Mallistosta oli poistunut kaikki 21-tuumaisella eturenkaalla olevat matkaendurot ja yleinen toive oli, että KTM:n dominoimaan markinaan saataisiin Hondalta kilpailija.
 
