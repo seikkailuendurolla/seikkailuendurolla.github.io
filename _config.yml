@@ -6,8 +6,12 @@ description: > # this means to ignore newlines until "baseurl:"
   Kirjoituksia seikkailusta isolla edurolla Keski-Suomen sorateillä ja poluilla.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://seikkailuendurol.la" # the base hostname & protocol for your site
-twitter_username: seikkailuendurolla
-github_username:  seikkailuendurolla
+footer-links:
+  twitter: seikkailuenduro
+  instagram: seikkailuendurol.la
+  pinterest: endurolla
+  youtube: channel/UCECjJ0MdUXjYzbkDekKlDUA
+#  googleplus:
 
 # Build settings
 markdown: kramdown
