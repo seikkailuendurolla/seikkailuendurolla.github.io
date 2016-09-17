@@ -7,7 +7,7 @@ post_image: /assets/tyomatka1.jpg
 ---
 
 
-Kaikki syyt olla ajamatta moottoripyörällä ovat tekosyitä. Matkaendurolla ajettassa asia on vain järjestelykysymys. Parhaimmilla yhdistät harrastuksen asioihin, joita joka tapauksessa tekisit ja siten sinun ei tarvitse taikoa vuorokauteen uusia käytettävissä olevia tunteja. Tässä kirjoituksessa kerron omista käytännön ideoistani. Ne eivät luonnollisestikkaan sovi sellaisenaan kaikille, mutta ehkä näiden avulla keksit omat keinosi.
+Kaikki syyt olla ajamatta moottoripyörällä ovat tekosyitä. Matkaendurolla ajettassa asia on vain järjestelykysymys. Parhaimmillaan yhdistät harrastuksen asioihin, joita joka tapauksessa tekisit ja siten sinun ei tarvitse taikoa vuorokauteen uusia käytettävissä olevia tunteja. Tässä kirjoituksessa kerron omista käytännön ideoistani. Ne eivät luonnollisestikkaan sovi sellaisenaan kaikille, mutta ehkä näiden avulla keksit omat keinosi.
 
 Lähtötilanne minulla oli se, että harrastukseen ei ollut käytettävissä yhtään aikaa. Työ, perhe, kotiaskareet ja vanhat harrastukset veivät täysin aikani ja tekemisen puutetta ei ollut.
 
