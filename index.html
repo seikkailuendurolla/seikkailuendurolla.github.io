@@ -20,7 +20,7 @@ $(document).ready(function() {
 <div class="home">
 
   <ul class="post-list">
-    {% for post in site.posts reversed %}
+    {% for post in site.posts %}
       {% if post.draft == true %}
         {% continue %}
       {% endif %}
