@@ -4,12 +4,12 @@ title: Talvimoottoripyöräily ei ole extreame-laji
 header_slogan_class: white
 header_image_style: "background-image: url('/assets/kevat_jaalla.jpg')"
 post_image: /assets/kevat_jaalla.jpg
+excerpt_separator: <!--more-->
 ---
 
+<img src="/assets/talvi1.jpg" width="280" style="float: right; padding: 5px;" />
 
-<img src="/assets/talvi1.jpg" width="300" style="float: right; padding: 5px;" />
-
-Aurinko alkaa nousta esiin puiden takaa. Taivas on lähes pilvetön ja pakkasta on seitsemän astetta. On kevättalven sää, jota voisi luonehdia tavalliseksi ja erinomainen keli talvimoottoripyöräilyyn. Tulen risteysalueelle ja pysähdyn väistämään oikealta tulevaa autoa. Kuski katsoo minua silmät pyöreinä ja on vähällä pyyhkäistä tien penkkaan, kun unohtaa keskittyä ajamiseen. Seuraan peilistä, että auto selviää eteenpäin ja kaarran sitten vasemmalle jatkaakseni matkaa.
+Aurinko alkaa nousta esiin puiden takaa. Taivas on lähes pilvetön ja pakkasta on seitsemän astetta. On kevättalven sää, jota voisi luonehtia tavalliseksikin ja siten erinomainen keli talvimoottoripyöräilyyn. Tulen risteysalueelle ja pysähdyn väistämään oikealta tulevaa autoa. Kuski katsoo minua silmät pyöreinä ja on vähällä pyyhkäistä tien penkkaan, kun unohtaa keskittyä ajamiseen. <!--more-->Seuraan peilistä, että auto selviää eteenpäin ja kaarran sitten vasemmalle jatkaakseni matkaa.
 
 Monella talvimoottoripyöräilijällä on varmaankin vastaavia kokemuksia. Ihmiset ihmettelevät, ihailevat tai pitävät pähkähulluna. Ilmeet ovat joskus varsin kuvauksellisia. Lajia luullaan vaaralliseksi ja mahdottomaksi kylmyyden takia. Paljastan tässä nyt, ehkä jonku talvikuskin harmiksi, että talvimoottoripyöräily on tavallisen ihmisen hommaa. Ajaminen talvella ei vaadi mitään erityisiä ominaisuuksia tai kykyjä. Turvalliseen ajaamiseen riittää terve järki ja tieto, aivan niin kuin kesälläkin.
 
@@ -17,16 +17,18 @@ Kaikki lähtee liikkeelle olosuhteiden, sään ja ajoalustan tuntemisesta. Miten
 
 Ajelen talvella erillaisilla sorateille ja poluilla, kuten kesälläkin. Näillä ajoteillä pito-ominaisuudet ovat keskimäärin samanlaiset kuin kesällä. Näin ollen vauhdit ovat suurinpiirtein samoja kuin kesällä. Joissakin olosuhteissa pito on talvella jopa parempi, koska ohut hiekka antaa periksi, toisin kuin kovaksi tamppaantunut jäinen tie.
 
-<img src="/assets/talvi3.jpg" />
-
 Kelien mennessä plussan puolelle tiet pehmenevät ja tällöin pito voi kadota yllättäenkin. Samoin, jos tielle on satanut niin paljon lunta, ettei nasta yllä enää jäiseen tien pintaan.
 
 Kylmyydeltä suojautuminen on puhtaasti pukeutumiskysymys. Aika moni ajelee talvella moottorikelkalla eikä moottoripyöräily ole sen kummoisempaa.
 
+<img src="/assets/talvi4.jpg" width="300" style="float: left; padding-right: 8px;" />
+
 Pakkasten saapuminen on edurolla seikkailijalle mieluinen asia. Tällöin Suomeen valmistuu 37 tuhatta neliökilmetriä uutta ajoympäristöä. Vesistöihin on mukava tutustua jääkanella huristellen ja lähiympäristöstä tulee tutuksi nopeasti täysin uusia alueita. Moni järvi olisi minulle täysin tuntematon ilman moottoripyöräharrastusta. Hienoinpiin paikkoihin on mukava palata kesällä toisenlaisissa olosuhteissa vaikka kanootilla.
 
-<img src="/assets/talvi2.jpg" style="float: left; padding-right: 8px;" />
+<img src="/assets/talvi2.jpg" style="float: right; padding-left: 8px;" />
 
 Moni luulee, että talvimoottoripyöräily ei onnistu ilman lämmintä autotallia. Kyllä se onnistuu eikä tarvitse tehdä edes isoa investointia. Riittää, kun moottoripyörään hankkii suojahupun ja tavallisen auton sisätilalämmittimen. Ennen käynnistystä sisätilalämmitin laitetaan vain puhaltamaan  hupun alla lämmintä ilmaa sylinterejä kohti. Tämän jälkeen pyörä surahtaa käyntiin kuin palmun alla.
 
 Millainen moottoripyörä sitten soveltuu talviajeluun? Nyrkkisääntönä voisin sanoa, että jos pyörässäsi on 21 tuumainen eturengas, se luultavasti soveltuu hyvin talviajoon. Toki moni ajaa talvella matkaeduroilla, joissa on 19 tuumainen eturengas. Monen mielestä talvimoottoripyörän pitää olla kevyt enduro. Tällainen pyörä on toki paras haasteelliseen maastonon ja auraamattomalla tiellä ajeluun. Kovapintaisilla auratuilla sorateillä mielestäni on kuitenkin parempi ajaa isolla matkaendurolla. Jotenkin meno on silloin vakaanpaa ja isot tuuliohjaimet vähentävät viiman purevuutta. Sopivin pyörä omaan käyttöön löytyy parhaiten kokeilemalla.
+
+<img src="/assets/talvi3.jpg" />
