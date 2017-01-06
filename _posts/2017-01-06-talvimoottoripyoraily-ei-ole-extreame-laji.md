@@ -25,7 +25,7 @@ Kylmyydeltä suojautuminen on puhtaasti pukeutumiskysymys. Aika moni ajelee talv
 
 <img src="/assets/talvi4.jpg" width="300" style="float: left; padding-right: 8px;" />
 
-Pakkasten saapuminen on edurolla seikkailijalle mieluinen asia. Tällöin Suomeen valmistuu 37 tuhatta neliökilmetriä uutta ajoympäristöä. Vesistöihin on mukava tutustua jääkannella huristellen ja lähiympäristöstä tulee tutuksi nopeasti täysin uusia alueita. Moni järvi olisi minulle täysin tuntematon ilman moottoripyöräharrastusta. Hienoinpiin paikkoihin on mukava palata kesällä toisenlaisissa olosuhteissa vaikka kanootilla.
+Pakkasten saapuminen on edurolla seikkailijalle mieluinen asia. Tällöin Suomeen valmistuu 32 tuhatta neliökilmetriä uutta ajoympäristöä. Vesistöihin on mukava tutustua jääkannella huristellen ja lähiympäristöstä tulee tutuksi nopeasti täysin uusia alueita. Moni järvi olisi minulle täysin tuntematon ilman moottoripyöräharrastusta. Hienoinpiin paikkoihin on mukava palata kesällä toisenlaisissa olosuhteissa vaikka kanootilla.
 
 <img src="/assets/talvi2.jpg" style="float: right; padding-left: 8px;" />
 
