@@ -55,5 +55,6 @@ Vaihteita uudessa mallissa on yksi pykälä enemmän. Lisäksi kun tehoa ja vä�
 
 Africa Twin vaikuttaa kokonaisuudessaan sopivalta pyörältä omiin käyttötarkoituksiini. On hyvin todennäköistä, että joskus tulevaisuudessa hankin kyseisen pyörämallin.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gi79H5ZPtn0" frameborder="0" allowfullscreen></iframe>
-
+<div class="post-video">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/gi79H5ZPtn0" frameborder="0" allowfullscreen></iframe>
+</div>

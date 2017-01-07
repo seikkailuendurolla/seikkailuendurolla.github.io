@@ -17,7 +17,9 @@ Kaikki lähtee liikkeelle olosuhteiden, sään ja ajoalustan tuntemisesta. Miten
 
 Ajelen talvella erilaisilla sorateille ja poluilla, kuten kesälläkin. Näillä ajoteillä pito-ominaisuudet ovat hyvillä talvirenkailla keskimäärin samanlaiset kuin kesällä. Näin ollen vauhdit ovat suurinpiirtein samoja kuin kesällä. Joissakin olosuhteissa pito on talvella jopa parempi, koska kesällä ohut hiekka antaa periksi, toisin kuin kovaksi tamppaantunut jäinen tie.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VQGgi5lPMfE" frameborder="0" allowfullscreen></iframe>
+<div class="post-video">
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/VQGgi5lPMfE" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Kelien mennessä plussan puolelle tiet pehmenevät ja tällöin pito voi kadota yllättäenkin. Samoin, jos tielle on satanut niin paljon lunta, ettei nasta yllä enää jäiseen tien pintaan.
 
