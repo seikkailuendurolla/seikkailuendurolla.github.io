@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talvimoottoripyöräily ei ole extreame-laji
+title: Tal&shy;vi&shy;moot&shy;to&shy;ri&shy;pyö&shy;räi&shy;ly ei ole extreame-laji
 header_slogan_class: white
 header_image_style: "background-image: url('/assets/kevat_jaalla.jpg')"
 post_image: /assets/kevat_jaalla.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mistä aikaa moottoripyörä-harrastukselle?
+title: Mistä aikaa moot&shy;to&shy;ri&shy;pyö&shy;rä&shy;har&shy;ras&shy;tuk&shy;sel&shy;le?
 header_slogan_class: white
 header_image_style: "background-image: url('/assets/tyomatka1.jpg')"
 post_image: /assets/tyomatka1.jpg
