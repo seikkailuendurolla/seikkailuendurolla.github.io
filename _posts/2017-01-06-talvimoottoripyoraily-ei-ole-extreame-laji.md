@@ -31,7 +31,7 @@ Pakkasten saapuminen on edurolla seikkailijalle mieluinen asia. Tällöin Suomee
 
 <img src="/assets/talvi2.jpg" style="float: right; padding-left: 8px;" />
 
-Moni luulee, että talvimoottoripyöräily ei onnistu ilman lämmintä autotallia. Kyllä se onnistuu eikä vaadi edes isoja investointeja. Riittää, kun moottoripyörään hankkii suojahupun ja tavallisen auton sisätilalämmittimen. Ennen käynnistystä sisätilalämmitin laitetaan vain puhaltamaan  hupun alla lämmintä ilmaa sylinterejä kohti. Tämän jälkeen pyörä surahtaa käyntiin kuin palmun alla.
+Moni luulee, että tal&shy;vi&shy;moot&shy;to&shy;ri&shy;pyö&shy;räi&shy;ly ei onnistu ilman lämmintä autotallia. Kyllä se onnistuu eikä vaadi edes isoja investointeja. Riittää, kun moottoripyörään hankkii suojahupun ja tavallisen auton sisätilalämmittimen. Ennen käynnistystä sisätilalämmitin laitetaan vain puhaltamaan  hupun alla lämmintä ilmaa sylinterejä kohti. Tämän jälkeen pyörä surahtaa käyntiin kuin palmun alla.
 
 Millainen moottoripyörä sitten soveltuu talviajeluun? Nyrkkisääntönä voisin sanoa, että jos pyörässäsi on 21 tuumainen eturengas, se luultavasti soveltuu hyvin talviajoon. Toki moni ajaa talvella matkaeduroilla, joissa on 19 tuumainen eturengas. Monen mielestä talvimoottoripyörän pitää olla kevytenduro. Tällainen pyörä on toki paras haasteelliseen maastoon ja auraamattomalla tiellä ajeluun. Kovapintaisilla auratuilla sorateillä mielestäni on kuitenkin parempi ajaa isolla matkaendurolla. Meno on silloin vakaanpaa ja isot tuuliohjaimet vähentävät viiman purevuutta. Sopivin pyörä omaan käyttöön löytyy parhaiten kokeilemalla.
 
