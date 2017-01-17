@@ -4,6 +4,7 @@ title: Tal&shy;vi&shy;moot&shy;to&shy;ri&shy;pyö&shy;räi&shy;ly ei ole extream
 header_slogan_class: white
 header_image_style: "background-image: url('/assets/kevat_jaalla.jpg')"
 post_image: /assets/kevat_jaalla.jpg
+keywords: "talvimoottoripyöräily, mööttoripyöräily talvella, matkaenduro, seikkailu endurolla"
 excerpt_separator: <!--more-->
 ---
 
