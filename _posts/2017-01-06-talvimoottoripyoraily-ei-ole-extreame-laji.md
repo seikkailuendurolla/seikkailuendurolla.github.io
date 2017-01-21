@@ -37,3 +37,7 @@ Moni luulee, että tal&shy;vi&shy;moot&shy;to&shy;ri&shy;pyö&shy;räi&shy;ly ei
 Millainen moottoripyörä sitten soveltuu talviajeluun? Nyrkkisääntönä voisin sanoa, että jos pyörässäsi on 21 tuumainen eturengas, se luultavasti soveltuu hyvin talviajoon. Toki moni ajaa talvella matkaeduroilla, joissa on 19 tuumainen eturengas. Monen mielestä talvimoottoripyörän pitää olla kevytenduro. Tällainen pyörä on toki paras haasteelliseen maastoon ja auraamattomalla tiellä ajeluun. Kovapintaisilla auratuilla sorateillä mielestäni on kuitenkin parempi ajaa isolla matkaendurolla. Meno on silloin vakaanpaa ja isot tuuliohjaimet vähentävät viiman purevuutta. Sopivin pyörä omaan käyttöön löytyy parhaiten kokeilemalla.
 
 <img src="/assets/talvi3.jpg" />
+
+<i>
+Tämä kirjoitus on julkaistu 16.1. myös <a href="http://www.motouutiset.fi/fi/moottoripyorat/matkalla/4899/Talvimoottoripy%C3%B6r%C3%A4ily-ei-ole-extreamelaji-Honda-Africa-Twin.htm" onclick="trackOutboundLink('http://www.motouutiset.fi/fi/moottoripyorat/matkalla/4899/Talvimoottoripy%C3%B6r%C3%A4ily-ei-ole-extreamelaji-Honda-Africa-Twin.htm');" target="_blank">Motouutiset.fi-lehdessä</a>
+</i>
