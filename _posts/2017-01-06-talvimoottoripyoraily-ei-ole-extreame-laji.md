@@ -39,5 +39,5 @@ Millainen moottoripyörä sitten soveltuu talviajeluun? Nyrkkisääntönä voisi
 <img src="/assets/talvi3.jpg" />
 
 <i>
-Tämä kirjoitus on julkaistu 16.1. myös <a href="http://www.motouutiset.fi/fi/moottoripyorat/matkalla/4899/Talvimoottoripy%C3%B6r%C3%A4ily-ei-ole-extreamelaji-Honda-Africa-Twin.htm" onclick="trackOutboundLink('http://www.motouutiset.fi/fi/moottoripyorat/matkalla/4899/Talvimoottoripy%C3%B6r%C3%A4ily-ei-ole-extreamelaji-Honda-Africa-Twin.htm');" target="_blank">Motouutiset.fi-lehdessä</a>
+Tämä kirjoitus on julkaistu 16.1. myös <a href="http://www.motouutiset.fi/fi/moottoripyorat/matkalla/4899/Talvimoottoripy%C3%B6r%C3%A4ily-ei-ole-extreamelaji-Honda-Africa-Twin.htm" onclick="trackOutboundLink('http://www.motouutiset.fi/fi/moottoripyorat/matkalla/4899/Talvimoottoripy%C3%B6r%C3%A4ily-ei-ole-extreamelaji-Honda-Africa-Twin.htm'); return false;">Motouutiset.fi-lehdessä</a>
 </i>
