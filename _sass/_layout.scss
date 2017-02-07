@@ -267,7 +267,15 @@
 	@media (min-width: $on-palm) {
             width: $content-width/2-45;
             margin-right: $spacing-unit/2;
-            float: left;
+
+            &.clear-float {
+                clear: both;
+                float: left;
+            }
+
+            &.left {
+                float: left;
+            }
 	}
 
 	@media (max-width: $on-palm) {
