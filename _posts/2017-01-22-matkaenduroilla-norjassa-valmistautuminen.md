@@ -38,7 +38,7 @@ Reissu oli iso elämys ja kaikilta osin hieno matka. Jos kuitenkin
 unohdetaan siitä kaikki moottoripyöräilyn ulkopuoliset asiat, voin
 todeta Norjassa käynnin jälkeenkin Keski-Suomen olevan erinomainen
 paikka endurolla seikkailuun. Tällä tahdon sanoa sitä, ettei tässä
-lajissa FIXME paljostakaan jää paitsi vaikka harrastelisi vain
+lajissa paljostakaan jää paitsi vaikka harrastelisi vain
 kotikonnuilla. Sorateissä ajettavaa nimittäin riittää muutaman sadan
 kilometrin säteeltä Jyväskylästä niin paljon, ettei niitä kaikkia
 koskaan ehdi ajaa läpi. Todettakoon vielä, ettei ole sattumaa, että
