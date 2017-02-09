@@ -112,7 +112,7 @@ myöhään illalla.
 <div class="post-column-2">
   <img src="/assets/kuski3.jpg" />
   <p>
-    KTM Adventure 990 R ohjaimissa oli Janne. A-kortti tuli hommattua
+    <b>KTM Adventure 990 R</b> ohjaimissa oli Janne. A-kortti tuli hommattua
 heti 16 vuotiaana, mutta ensimmäinen oma pyörä Suzuki DR 800 tuli
 omistukseen 2012. Sitä ennen kaverien ja tuttujen moottoripyöriä on
 testattu laidasta laitaan. Ensimmäisellä ajokilla kertyi mittariin
@@ -124,7 +124,7 @@ oli tälle vuodelle toinen, joten alue oli jossain määrin jo tuttua.
 <div class="post-column-2">
   <img src="/assets/kuski2.jpg" />
   <p>
-    Heikki ajeli reissussa BMW F 650 GS:llä. Pyörä on hänen
+    Heikki ajeli reissussa <b>BMW F 650 GS</b>:llä. Pyörä on hänen
 ensimmäisensä ja kokemusta tällä on kertynyt moottoripyöräilystä kahden
 kesän verran. Tähän asti on koluttu lähinnä Suomen sorateitä ja reissu
 ulkomaille on ensimmäinen. "Pikku Gessu" on hyvä peruspyörä ja sillä
@@ -138,7 +138,7 @@ tilalle.
   <img src="/assets/kuski5.jpg" />
   <p>
     Elias sai hyppysiinsä mootoripyöräkortin muutamaan viikkoa ennen
-reissua ja samana päivänä tehtiin kaupat Yamaha XT 660 pyörästä.
+reissua ja samana päivänä tehtiin kaupat <b>Yamaha XT 660</b> pyörästä.
 Supermotossa ei ensisijaisesti painoteta reissuominaisuuksia, joten
 tämä pyörä oli varmaankin reissun "rankin" ajopeli. Tällaisista
 lähtökohdista ei ihan ketä tahansa uskaltaisi ottaa reissuun mukaan.
@@ -151,7 +151,7 @@ antanut eriomaiset käsittelytataidot kaksipyöräiselle.
   <img src="/assets/kuski4.jpg" />
   <p>
     Esko innostui matkaenduroisa viime keväänä ja vaihtoikin
-katupyöränsä Honda XL 700 Transalp:iin. Kesän mittaan soratiekokemusta
+katupyöränsä <b>Honda XL 700 Transalp</b>:iin. Kesän mittaan soratiekokemusta
 ehti kertyä rutkasti ja tulipa siinä sivussa koulutettua A-luokan
 ajokortti uudelle motoristille. Katupyörien lisäksi kokemusta on
 ehtinyt kertyä useita tunteja endurosta, joka kyllä näkyi isommankin
@@ -163,7 +163,7 @@ pykälää isompi matkaenduro.
 <div class="post-column-2">
   <img src="/assets/kuski1.jpg" />
   <p>
-    Allekirjoittaneella oli reissussa alla Honda XRV 750 Africa Twin.
+    Allekirjoittaneella oli reissussa alla <b>Honda XRV 750 Africa Twin</b>.
 Suoritin moottoripyöräkortin heti kun se oli mahdollista ja ensimmäiset
 vuodet ajelin Kawasaki KDX 125 endurolla. Autokortin saatuani
 moottoripyöräilyssä oli pitkä tauko, kunnes sitten 2012 ostin
