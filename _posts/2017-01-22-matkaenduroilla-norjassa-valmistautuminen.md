@@ -68,5 +68,5 @@ Pohdimme yhtenä vaihtoehtona majoitukseen telttailua matkaenduro hengessä. Lei
 
 <div style="clear:both" />
 <i>
-Tämä on ensimmäinen kirjoitus blogisarjasta, joka kertoo moottoripyörämatkasta Norjaan. Mikäli haluat sähköpostiisi viestin blogisarjan seuraavista julkaisuista lähetä sähköpostiosoitteesi minulle osoitteeseen: seikkailuendurol.la@gmail.com
+Tämä on ensimmäinen kirjoitus blogisarjasta, joka kertoo moottoripyörämatkasta Norjaan. Lähetä sähköpostiosoitteesi minulle, mikäli haluat ilmoituksen seuraavista julkaisuista. Osoitteeni on <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 </i>
