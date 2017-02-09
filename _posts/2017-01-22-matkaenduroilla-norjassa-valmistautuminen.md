@@ -33,8 +33,6 @@ Pienempien teidän etsimiseen käytimme Ruotsissa [kartor.eniro.se](http://karto
 
 Pohdimme yhtenä vaihtoehtona majoitukseen telttailua matkaenduro hengessä. Leirintäalueiden mökit (Cabin) olivat kuitenkin sen verran edullisia ja sisälsivät myös mm. mahdollisuuden suihkussa käyntiin, ettei telttailua vakavammin harkittu. Huonon kelin sattuessa märkien ajovarusteiden kanssa olisi myös helpompi toimia mökeissä. Varasimme ensimmäisen yön majoituksen etukäteen, koska saapuisimme paikalla vasta myöhään illalla.
 
-<!-- <img src="/assets/kuski1.jpg" width="280" style="float: right; padding: 5px;" /> -->
-
 # Kuljettajien esittely
 
 <div class="post-column-2">
