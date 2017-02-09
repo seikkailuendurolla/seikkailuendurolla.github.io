@@ -35,7 +35,7 @@ Pohdimme yhtenä vaihtoehtona majoitukseen telttailua matkaenduro hengessä. Lei
 
 <!-- <img src="/assets/kuski1.jpg" width="280" style="float: right; padding: 5px;" /> -->
 
-# Kuskien esittely
+# Kuljettajien esittely
 
 <div class="post-column-2">
   <img src="/assets/kuski3.jpg" />
@@ -64,6 +64,11 @@ Pohdimme yhtenä vaihtoehtona majoitukseen telttailua matkaenduro hengessä. Lei
 <div class="post-column-2">
   <img src="/assets/kuski1.jpg" />
   <p>
-    Allekirjoittaneella oli reissussa alla Honda XRV 750 Africa Twiin. Suoritin moottoripyöräkortin 16 vuotiaana ja ensimmäiset vuodet ajelin Kawasaki KDX 125 endurolla. Autokortin saatuani moottoripyöräilyssä oli pitkä tauko, kunnes sitten 2010 ostin ensimmäisen isomman pyöräni Suzuki DR 800:en. Välillä kokeilin kevyempääkin pyörää, mutta päädyin kuitenkin legendaariseen Africa Twiniin. Norjassa olen käynyt kerran aikaisemmin, mutta tämä reissu oli esimmäinen ulkomaanmatka moottoripyöräillen.
+    Allekirjoittaneella oli reissussa alla Honda XRV 750 Africa Twin. Suoritin moottoripyöräkortin heti kun se oli mahdollista ja ensimmäiset vuodet ajelin Kawasaki KDX 125 endurolla. Autokortin saatuani moottoripyöräilyssä oli pitkä tauko, kunnes sitten 2012 ostin ensimmäisen isomman pyöräni Suzuki DR 800:en. Välillä kokeilin kevyempääkin pyörää, mutta päädyin kuitenkin legendaariseen Africa Twiniin. Norjassa olen käynyt kerran aikaisemmin, mutta tämä reissu oli esimmäinen ulkomaanmatka moottoripyöräillen.
   </p>
 </div>
+
+<div style="clear:both" />
+<i>
+Tämä on ensimmäinen kirjoitus blogisarjasta, joka kertoo moottoripyörämatkasta Norjaan. Mikäli haluat sähköpostiisi viestin blogisarjan seuraavista julkaisuista lähetä sähköpostiosoitteesi minulle osoitteeseen: seikkailuendurol.la@gmail.com
+</i>
