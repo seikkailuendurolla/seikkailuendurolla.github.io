@@ -5,7 +5,6 @@ header_slogan_class: white
 header_image_style: "background-image: url('/assets/norja2.jpg');"
 post_image: /assets/norja2.jpg
 keywords: "mööttoripyöräily, matkaenduro, seikkailu endurolla"
-draft: true
 ---
 
 Noin kymmenen vuotta sitten olin käymässä ensimmäistä kertaa Norjassa.
@@ -104,7 +103,7 @@ Pohdimme yhtenä vaihtoehtona majoitukseen telttailua "matkaenduro
 edullisia ja sisälsivät myös mm. mahdollisuuden suihkussa käyntiin,
 ettei telttailua vakavammin harkittu. Huonon kelin sattuessa märkien
 ajovarusteiden kanssa olisi myös helpompi toimia mökeissä. Varasimme
-ensimmäisen yön majoituksen etukäteen, koska saapuisimme paikalla vasta
+ensimmäisen yön majoituksen etukäteen, koska saapuisimme paikalle vasta
 myöhään illalla.
 
 # Kuljettajien esittely
@@ -137,20 +136,20 @@ tilalle.
 <div class="post-column-2">
   <img src="/assets/kuski5.jpg" />
   <p>
-    Elias sai hyppysiinsä mootoripyöräkortin muutamaan viikkoa ennen
+    Elias sai hyppysiinsä mootoripyöräkortin muutama viikkoa ennen
 reissua ja samana päivänä tehtiin kaupat <b>Yamaha XT 660</b> pyörästä.
 Supermotossa ei ensisijaisesti painoteta reissuominaisuuksia, joten
 tämä pyörä oli varmaankin reissun "rankin" ajopeli. Tällaisista
 lähtökohdista ei ihan ketä tahansa uskaltaisi ottaa reissuun mukaan.
 Tämä herra onkin sitä sitkeämpää sorttia ja reissussa hän olikin aina
 ensimmäisenä valmiina jatkamaan matkaa. Aiempi crossi-harrastus on toki
-antanut eriomaiset käsittelytataidot kaksipyöräiselle.
+antanut erinomaiset käsittelytataidot kaksipyöräiselle.
   </p>
 </div>
 <div class="post-column-2">
   <img src="/assets/kuski4.jpg" />
   <p>
-    Esko innostui matkaenduroisa viime keväänä ja vaihtoikin
+    Esko innostui matkaenduroista viime keväänä ja vaihtoikin
 katupyöränsä <b>Honda XL 700 Transalp</b>:iin. Kesän mittaan soratiekokemusta
 ehti kertyä rutkasti ja tulipa siinä sivussa koulutettua A-luokan
 ajokortti uudelle motoristille. Katupyörien lisäksi kokemusta on
