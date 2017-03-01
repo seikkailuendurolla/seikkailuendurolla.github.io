@@ -174,6 +174,10 @@ esimmäinen ulkomaanmatka moottoripyöräillen.
 </div>
 
 <div style="clear:both" />
+<div>Lue myös muut blogisarjan kirjoitukset:</div>
+<a href="/2017/03/01/matkaenduroilla-norjassa-sunnuntai" style="float: right;">Seuraava kirjoitus</a>
+<p>&nbsp;</p>
+
 <i>
 Tämä on ensimmäinen kirjoitus blogisarjasta, joka kertoo
 moottoripyörämatkasta Norjaan. Lähetä sähköpostiosoitteesi minulle,
