@@ -14,7 +14,7 @@ välillä lämmintä joskaan ei hellelukemia. Illaksi oli luvassa vesisadetta, j
 <img src="/assets/norja3.jpg" width="300" style="float: right; padding: 5px;" />
 
 Tunnelma oli odottavainen. Tiedossa oli paljon asioita, joista ei ollut aiempaa kokemusta vaikka itse moottoripyörällä ajaminen
-kohtuullisen tuttua onkin. Millaista on porukalla ajaminen monta päivää putkeen? Kestääkö pyörät vai tuleeko teknisiä ongelmia?
+kohtuullisen tuttua olikin. Millaista on porukalla ajaminen monta päivää putkeen? Kestääkö pyörät vai tuleeko teknisiä ongelmia?
 Millainen sää on ja kestääkö varusteet, jos vettä tulee monta päivää peräkkäin? Mitä jos sattuu liikenneonnettomuus?
 
 Sopivan nöyrä asenne ja ylimääräisen uhon sivuuttaminen luo hyvän pohjan turvalliselle reissulle. Näin ollen  edellä mainittujen
