@@ -75,6 +75,13 @@ Motoristiserkumme otti meidän iloisesti vastaan vaikka saavuimme hänen luoksee
 herkulliset tortillat iltapalaksi. Purimme varusteemme pesuhuoneeseen ja saunaan. Varusteiden järjestelyn ja iltapalan nauttimisen
 jälkeen kävimme yölevolle, olisihan seuraavana päivänä tiedossa reissun pisin päivämatka.
 
+<div>Lue myös muut blogisarjan kirjoitukset:</div>
+<a href="/2017/02/11/matkaenduroilla-norjassa-valmistautuminen" style="float: left;">Edellinen kirjoitus</a>
+<!--
+<a href="" style="float: right;">Seuraava kirjoitus</a>
+-->
+<p>&nbsp;</p>
+
 <div style="clear:both" />
 <i>
 Tämä on toinen kirjoitus blogisarjasta, joka kertoo moottoripyörämatkasta Norjaan. Lähetä sähköpostiosoitteesi minulle, mikäli haluat
