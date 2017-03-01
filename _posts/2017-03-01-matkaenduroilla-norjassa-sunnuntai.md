@@ -9,7 +9,7 @@ draft: true
 ---
 
 Heinäkuu läheni loppuaan ja vietettiin kuun viimeistä päivää. Säätila oli viime päivinä ollut Suomen kesälle tyypillistä. Vaihtelevaa,
-välillä lämmintä joskaan ei hellelukemia. Illaksi oli luvassa vesisadetta, juuri sopivasti, kun kuuden päivän moottoripyöräreissu alkaisi.
+välillä lämmintä joskaan ei hellelukemia. Illaksi oli luvassa vesisadetta, juuri kun kuuden päivän moottoripyöräreissu alkaisi.
 
 Tunnelma oli odottavainen. Tiedossa oli paljon asioita, joista ei ollut aiempaa kokemusta vaikka itse moottoripyörällä ajaminen
 kohtuullisen tuttua olikin. Millaista on porukalla ajaminen monta päivää putkeen? Kestääkö pyörät vai tuleeko teknisiä ongelmia?
@@ -19,7 +19,7 @@ Sopivan nöyrä asenne ja ylimääräisen uhon sivuuttaminen luo hyvän pohjan t
 kysymysten läpikäynti ja erilaisiin yllättäviin tilanteisiin varautuminen on ihan tarpeellista.
 
 
-Reissu oli suunniteltu alkavaksi varsinaisesti maanantaiaamuna Oulusta. Aluksi ajatuksena oli, että jokainen ajelee Ouluun omaan
+Reissu oli suunniteltu alkavaksi maanantaiaamuna Oulusta. Aluksi ajatuksena oli, että jokainen ajelee Ouluun omaan
 tahtiinsa. Päädyimme kuitenkin ajamaan porukalla, koska reittimme risteävät joka tapauksessa jossakin kohtaa.
 
 <img src="/assets/norja3.jpg" width="300" style="float: right; padding: 5px;" />
@@ -38,7 +38,7 @@ Haapavedellä ja siellä voisivat odotella minua kahvikupin äärellä.
 
 Tie oli suomalaisittain perinteistä soratietä. Ajourat olivat tasaiseksi tiivistyneet ja tien reunoissa sekä ajourien välissä oli
 irtosoraa. Näin liikettä vasemmassa yläkulmassa. Vauhtia ei ollut paljoa ja näkyvyys oli hyvä. Löysäsin vähän kaasua ja irroitin
-katseeni tiestä. Vieressäni lensi kanahaukka. Eroitin mahanpuolelta selvästi poikkiraidat, joten yksilö oli aikuinen. Etenimme hetken
+katseeni tiestä. Vieressäni lensi kanahaukka. Erotin mahanpuolelta selvästi poikkiraidat, joten yksilö oli aikuinen. Etenimme hetken
 aikaa yhtä matkaa, kunnes haukka kaartoi vasemmalle metsän suojaan. Myöhemmin kohtasin vielä metsäjäniksen saman tien varrella. Osa
 eläinlajeista aktivoituu iltahämärän aikaan.
 
@@ -46,9 +46,9 @@ Saavuin kohtaamispisteelle puoli yhdeksän aikoihin ja tarkistin viestit. Muu po
 jatkanut matkaa ehtiäkseen Haapavedelle ennen huoltoaseman sulkeutumisaikaa.
 
 Navigaattorin akku alkoi olla lopussa, joten kytkin virtakaapelin kiinni. Jatkoin matkaani soralla ajoittain näkyviä
-kurapyöräilijöiden rantuja seuraten. Keli huononi entisestään. Alkoi hämärtää ja sateen lisäksi salamoida. Muutama salama iski aika
+kurapyöräilijöiden rantuja seuraten. Keli huononi entisestään. Alkoi hämärtää ja sateen lisäksi salamoida. Muutama salama iski
 lähellä, äänen kuulumisessa ei ollut juurikaan viivettä välähdykseen nähden. Polttoaine loppui ja jouduin siirtymään varatankille.
-Ensimmäisestä etapista taisikin tulla kunnon tulikaste!
+Ensimmäisestä etapista tulikin kunnon tulikaste!
 
 Tuli sitten lähdettyä liikenteeseen vajaalla tankilla ja ajatuksella, että kyllähän siellä aina jossakin tankkauspisteitä löytyy.
 Navigaattorin mukaan ilman kymmenen kilometrin lisämatkaa yhtään tankkiasemaan ei olisi ennen Haapavettä. Näissä tunnelmissa ei
