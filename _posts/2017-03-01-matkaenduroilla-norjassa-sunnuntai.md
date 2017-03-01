@@ -5,7 +5,6 @@ header_slogan_class: white
 header_image_style: "background-image: url('/assets/norja2.jpg');"
 post_image: /assets/norja2.jpg
 keywords: "mööttoripyöräily, matkaenduro, seikkailu endurolla"
-draft: true
 ---
 
 Heinäkuu läheni loppuaan ja vietettiin kuun viimeistä päivää. Säätila oli viime päivinä ollut Suomen kesälle tyypillistä. Vaihtelevaa,
