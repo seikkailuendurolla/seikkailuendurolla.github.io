@@ -142,3 +142,8 @@ vuorta. Kymmenen vuotta sitten yövyimme vaimoni kanssa tässä samaisessa
 paikassa. Silloinen haave oli nyt toteutunut, olin Norjassa 
 kaksipyöräisellä. Onnellinen hetki.
 
+Lopuksi vielä päivän reitti. Matkaa kertyi yhteensä 677km.
+
+<iframe 
+src="https://www.google.com/maps/d/embed?mid=13agDnJZuEDCRSH2CRned1xzugvA" 
+width="640" height="480"></iframe>
