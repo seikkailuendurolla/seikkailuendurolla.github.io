@@ -67,6 +67,9 @@ saapumisajaksi klo. 22:00 paikallista aikaa. Vastaanotto olisi siihen
 aikaan mennyt jo kiinni, mutta yrittäjä jousti tilanteessa ja lupasi 
 olla paikalla ko. ajankohtana. Aikataulu oli sen verran tiukka, ettei 
 loppumatkasta voitu juurikaan pysähdellä.
+
+<img src="/assets/norja5.jpg" style="padding: 5px;" />
+ 
  
 Jockfallista matka jatkui kohti pohjoista. Tie oli aluksi aika isoa. 
 Kalixjoki on sen verran leveä, ettei siitä pääse monestakaan kohtaa yli. 
@@ -107,6 +110,8 @@ huolimatta. Juuri levitetty murske ei ole mukavimpia alustoja
 ajettavaksi, mutta toi toki vaihtelua päällystetylle tielle. Norjan 
 rajan lähestyä maisemat alkoivat jylhistyä ja vuoret oli suomipojalle 
 mukavaa katseltavaa, vaikka keli olikin sateinen.
+
+<img src="/assets/norja6.jpg" style="float: left; padding: 5px;" />
  
 Sateen ropistessa saavuimme leirintäalueelle. Pysähdyimme vastaanoton 
 eteen ja riisuimme kypärät pois päästä. Vastaanoton täti ihmetteli 
