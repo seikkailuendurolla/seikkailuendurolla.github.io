@@ -41,11 +41,13 @@ Täällä tankkasimme pikaisesti ja jatkoimme matkaa kohti Jockfallin
 putousta. Tie kulki Kalixjoen vartta pitkin. Olin valinnut 
 vasemmanpuoleisen tien, koska se näytti kartan mukaan olevan pienempi 
 tie.
+
+<img src="/assets/norja4.jpg" style="float: right; padding: 5px;" />
  
 Matkan edetessä tie tuli peltoaukealle ja laakson pohjassa näkyi joki. 
 Pellon yllä oli erikoinen sateenkaari; massiivinen ja lyhyellä matkaa 
 kaareutuva. Ilmeisesti Ruotsissa sateenkaaretkin ovat erilaisia ;)
- 
+
 Reittisuunnittelua tehdessäni varmistin Google Maps:n katunäkymän 
 avulla, millaisesta tiestä kulloinkin oli kyse. Oikeastaan sattumalta 
 katsoin reittiä juuri Jockfallin kohdalta ja totesin putouksen jo 
