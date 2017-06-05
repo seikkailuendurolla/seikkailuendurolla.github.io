@@ -149,3 +149,20 @@ Lopuksi vielä päivän reitti. Matkaa kertyi yhteensä 677km.
 <iframe 
 src="https://www.google.com/maps/d/embed?mid=13agDnJZuEDCRSH2CRned1xzugvA" 
 width="640" height="480"></iframe>
+
+<div>Lue myös muut blogisarjan kirjoitukset:</div>
+<a href="/2017/03/01/matkaenduroilla-norjassa-sunnuntai" 
+style="float: left;">Edellinen kirjoitus</a>
+<!--
+<a href="" style="float: right;">Seuraava kirjoitus</a>
+-->
+<p>&nbsp;</p>
+
+<div style="clear:both" />
+<i>
+Tämä on kolmas kirjoitus blogisarjasta, joka kertoo 
+moottoripyörämatkasta Norjaan. Lähetä sähköpostiosoitteesi minulle, 
+mikäli haluat ilmoituksen seuraavista julkaisuista. Osoitteeni on <a 
+href="mailto:{{ site.email }}">{{ site.email }}</a>.
+</i>
+
