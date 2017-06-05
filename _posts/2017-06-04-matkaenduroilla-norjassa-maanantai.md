@@ -54,7 +54,7 @@ katsoin reittiä juuri Jockfallin kohdalta ja totesin putouksen jo
 kuvissa näyttävän hienolta. Luonnollisesti paikan päällä nähtynä paikka 
 on vielä vaikuttavampi. Kalixjoki on yksi Euroopan parhaista 
 [lohenkalastuspaikoista](http://www.jockfall.com/fi/kalastus/).
- 
+
 Putouksen vieressä oli ravintola, joten päätimme ruokailla samalla 
 pysähdyksellä, ajatuksella, että seuraavaksi pysähdymme syömään 
 iltapalaa vasta päästyämme Norjan puolelle. Päivän tavoitteenna oli 
@@ -102,6 +102,8 @@ pidempää taukoa. Kiiruna oli ainoa paikka, josta voisimme hankkia
 elintarvikkeet ilta- ja aamupalaa varten. Näin ollen päädyimme 
 ratkaisuun, että minä ja Heikki jatkoimme matkaa heti ja muu porukka jäi 
 hoitamaan ruokaostokset.
+
+<img src="/assets/norja7.jpg" style="float: right; padding: 5px;" />
  
 E10 on aika iso tie. Lämpötila oli laskenut kahdeksaan asteeseen. Pian 
 Kiirunan jälkeen tiellä oli muutamassa kohtaa menossa tietyö ja 
@@ -111,8 +113,6 @@ ajettavaksi, mutta toi toki vaihtelua päällystetylle tielle. Norjan
 rajan lähestyä maisemat alkoivat jylhistyä ja vuoret oli suomipojalle 
 mukavaa katseltavaa, vaikka keli olikin sateinen.
 
-<img src="/assets/norja6.jpg" style="float: left; padding: 5px;" />
- 
 Sateen ropistessa saavuimme leirintäalueelle. Pysähdyimme vastaanoton 
 eteen ja riisuimme kypärät pois päästä. Vastaanoton täti ihmetteli 
 ensimmäiseksi, että meitäkö on vain kaksi? Totesimme, että perästä tulee 
@@ -121,7 +121,9 @@ että meitäkö onkin viisi, eikä neljä. Olin varannut majoituksen hyvissä
 ajoin ja sillä hetkellä reissuun oli lähdössä neljä henkilöä. Myöhemmin 
 tilanne muuttui, mutta en vaivautunut päivittämään varausta, ajattelin 
 vähän säästää majoituskuluissa. Eiköhän yksi (minä) mahdu nukkumaan 
-lattialle. Yritimme tätä selittää, mutta tässä kohtaa paikan omistaja 
+lattialle. <img src="/assets/norja6.jpg" style="float: left;
+padding: 5px;" /> Yritimme 
+tätä selittää, mutta tässä kohtaa paikan omistaja 
 oli tiukkana. Hän sanoi, ettemme mahdu märkien varusteiden kanssa yhteen 
 mökkiin vaan meidän pitää ottaa kaksi, yksi kahden hengen ja toinen 
 kolmen hengen mökki. Tämäpä sopi meille, jos kerran sellaiset mökit 
