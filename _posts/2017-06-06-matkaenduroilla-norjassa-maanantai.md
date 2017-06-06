@@ -6,7 +6,6 @@ header_image_style: "background-image: url('/assets/norja8.jpg');"
 post_image: /assets/norja8.jpg
 keywords: "mööttoripyöräily, matkaenduro, seikkailu endurolla"
 excerpt_separator: <!--more-->
-draft: true
 ---
 
 Heräsin puiden lomasta pilkottavan auringon säteisiin. Edellisen illan 
