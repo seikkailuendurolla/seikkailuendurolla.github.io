@@ -144,11 +144,25 @@ vuorta. Kymmenen vuotta sitten yövyimme vaimoni kanssa tässä samaisessa
 paikassa. Silloinen haave oli nyt toteutunut, olin Norjassa 
 kaksipyöräisellä. Onnellinen hetki.
 
-Lopuksi vielä päivän reitti. Matkaa kertyi yhteensä 677km.
+Seuraavassa kartassa on päivän aikana kuljettu reitti. Matkaa kertyi 
+yhteensä 677km.
 
-<iframe 
-src="https://www.google.com/maps/d/embed?mid=13agDnJZuEDCRSH2CRned1xzugvA" 
-width="640" height="480"></iframe>
+<div class="post-video">
+  <iframe 
+    src="https://www.google.com/maps/d/embed?mid=13agDnJZuEDCRSH2CRned1xzugvA" 
+    width="640" height="480"></iframe>
+</div>
+
+<div>&nbsp;</div>
+
+Seuraavalla videolla otteita Ruotsin teiltä.
+
+<div class="post-video">
+     <iframe width="560" height="315" 
+src="https://www.youtube.com/embed/TjtNTgNNjOQ" frameborder="0" 
+allowfullscreen></iframe>
+</div>
+<div>&nbsp;</div>
 
 <div>Lue myös muut blogisarjan kirjoitukset:</div>
 <a href="/2017/03/01/matkaenduroilla-norjassa-sunnuntai" 
@@ -165,4 +179,5 @@ moottoripyörämatkasta Norjaan. Lähetä sähköpostiosoitteesi minulle,
 mikäli haluat ilmoituksen seuraavista julkaisuista. Osoitteeni on <a 
 href="mailto:{{ site.email }}">{{ site.email }}</a>.
 </i>
+
 
