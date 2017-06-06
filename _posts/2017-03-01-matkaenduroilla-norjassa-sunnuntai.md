@@ -76,9 +76,9 @@ jälkeen kävimme yölevolle, olisihan seuraavana päivänä tiedossa reissun pi
 
 <div>Lue myös muut blogisarjan kirjoitukset:</div>
 <a href="/2017/02/11/matkaenduroilla-norjassa-valmistautuminen" style="float: left;">Edellinen kirjoitus</a>
-<!--
-<a href="" style="float: right;">Seuraava kirjoitus</a>
--->
+
+<a href="/2017/06/06/matkaenduroilla-norjassa-maanantai" style="float: right;">Seuraava kirjoitus</a>
+
 <p>&nbsp;</p>
 
 <div style="clear:both" />
