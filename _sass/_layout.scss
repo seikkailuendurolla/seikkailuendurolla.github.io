@@ -404,6 +404,46 @@
     height: 100%;
 }
 
+.post-advert h3 {
+    line-height: 22px;
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-family: 'Archivo Black', sans-serif;
+}
+
+.post-advert {
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 20px;
+    font-weight: 700;
+
+    float: right;
+    margin-left: 10px;
+    padding: 10px;
+    width: 310px;
+    background-color: #bb2420;
+    color: white;
+}
+.post-advert img {
+    margin-top: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.post-advert button {
+    border-radius: 30px;
+    background-color: white;
+    color: #8f1a17;
+    border: none;
+    font-weight: 900;
+    margin: 5px;
+    text-transform: uppercase;
+    padding: 8px 15px;
+    float: right;
+}
+
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
