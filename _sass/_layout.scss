@@ -419,11 +419,18 @@
     font-weight: 700;
 
     float: right;
-    margin-left: 10px;
     padding: 10px;
-    width: 310px;
     background-color: #bb2420;
     color: white;
+
+    @media (max-width: $on-palm) {
+	margin: 0px 0px 10px 0px;
+        width: auto;
+    }
+    @media (min-width: $on-palm) {
+	margin-left: 10px;
+	width: 310px;
+    }
 }
 .post-advert img {
     margin-top: 10px;
@@ -438,7 +445,7 @@
     color: #8f1a17;
     border: none;
     font-weight: 900;
-    margin: 5px;
+    margin: 10px;
     text-transform: uppercase;
     padding: 8px 15px;
     float: right;
