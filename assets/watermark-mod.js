@@ -33,6 +33,10 @@ $(document).ready(function() {
             .image(watermark.image[position](0.5))
             .then(function(marked) {
                 preview.replaceChild(marked, img);
+            })
+            .then(function () {
+                preview.style.width = "100%";
+                preview.style.display = "block";
             });
 
     }
