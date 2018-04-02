@@ -483,7 +483,7 @@ tr:nth-child(even) {
 }
 
 button {
-    font-size: 5em;
+    font-size: 4em;
     margin: 0px;
     float: left;
 }
@@ -494,10 +494,14 @@ button {
 
 .button-list div {
     margin: 0 auto;
-    width: 200px;
+    width: 9em;
 }
 
 #image {
     padding-bottom: 20px;
     font-size: 1em;
+}
+
+#preview img {
+    padding-top: 20px;
 }
