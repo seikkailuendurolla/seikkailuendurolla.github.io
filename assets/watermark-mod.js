@@ -29,8 +29,6 @@ $(document).ready(function() {
             original = img;
         }
 
-        //var watermarkImage = document.getElementById('watermark').files[0];
-        var watermarkImage = document.getElementById('watermark')
         watermark([original, "/assets/big-logo.png"])
             .image(watermark.image[position](0.5))
             .then(function(marked) {
