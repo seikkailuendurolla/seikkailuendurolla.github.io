@@ -3,6 +3,7 @@ $(document).ready(function() {
     var original;
     var preview = document.getElementById('preview')
     var opacity = document.getElementById('opacity')
+    var scale = document.getElementById('scale')
     var body = $('body');
     var spinner;
 
@@ -47,7 +48,7 @@ $(document).ready(function() {
             original = img;
         }
         watermark([original, "/assets/big-logo.png"])
-            .image(watermark.image[position](opacity.value))
+            .image(watermark.image[position](opacity.value, scale.value))
             .then(function(marked) {
                 preview.replaceChild(marked, img);
             })
