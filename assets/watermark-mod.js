@@ -1,9 +1,13 @@
+
 $(document).ready(function() {
     var original;
     var preview = document.getElementById('preview')
     var opacity = document.getElementById('opacity')
+    var spinner = new Spinner({scale: 4, top: '50%', left: '50%', position: 'fixed'}).spin();
 
     document.getElementById("image").addEventListener("change", function (e) {
+        $('body').append(spinner.el);
+        $('body').css('opacity', 0.5);
 
         watermark([e.target.files[0]])
             .image(function(target) { return target;  })
@@ -37,6 +41,8 @@ $(document).ready(function() {
             .then(function () {
                 preview.style.width = "100%";
                 preview.style.display = "block";
+                spinner.stop();
+                $('body').css('opacity', 1);
             });
 
     }
