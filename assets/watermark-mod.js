@@ -1,6 +1,7 @@
 $(document).ready(function() {
     var original;
     var preview = document.getElementById('preview')
+    var opacity = document.getElementById('opacity')
 
     document.getElementById("image").addEventListener("change", function (e) {
 
@@ -28,9 +29,8 @@ $(document).ready(function() {
         if (! original) {
             original = img;
         }
-
         watermark([original, "/assets/big-logo.png"])
-            .image(watermark.image[position](0.5))
+            .image(watermark.image[position](opacity.value))
             .then(function(marked) {
                 preview.replaceChild(marked, img);
             })
