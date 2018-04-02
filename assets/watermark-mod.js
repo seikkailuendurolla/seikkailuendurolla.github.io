@@ -7,6 +7,8 @@ $(document).ready(function() {
         watermark([e.target.files[0]])
             .image(function(target) { return target;  })
             .then(function (img) {
+                preview.style.display = "none";
+                preview.style.width = img.width;
                 preview.appendChild(img);
             })
             .then(function () {
@@ -15,9 +17,7 @@ $(document).ready(function() {
     });
 
     $('button').on("click", function(b) {
-        console.log("BUTTON");
         var position = b.target.value;
-        console.log(position);
 
         updatePreview(position);
     });
