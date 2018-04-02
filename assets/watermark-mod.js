@@ -3,11 +3,11 @@ $(document).ready(function() {
     var original;
     var preview = document.getElementById('preview')
     var opacity = document.getElementById('opacity')
-    var spinner = new Spinner({scale: 4, top: '50%', left: '50%', position: 'fixed'}).spin();
+    var body = $('body');
+    var spinner;
 
     document.getElementById("image").addEventListener("change", function (e) {
-        $('body').append(spinner.el);
-        $('body').css('opacity', 0.5);
+        setSpinner();
 
         watermark([e.target.files[0]])
             .image(function(target) { return target;  })
@@ -22,10 +22,17 @@ $(document).ready(function() {
     });
 
     $('button').on("click", function(b) {
+        setSpinner();
         var position = b.target.value;
 
         updatePreview(position);
     });
+
+    function setSpinner() {
+        spinner = new Spinner({scale: 4, top: '50%', left: '50%', position: 'fixed'}).spin();
+        body.append(spinner.el);
+        body.css('opacity', 0.5);
+    }
 
     function updatePreview(position) {
         var img = preview.querySelector('img');
