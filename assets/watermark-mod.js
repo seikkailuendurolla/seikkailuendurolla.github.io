@@ -9,6 +9,12 @@ $(document).ready(function() {
     document.getElementById("image").addEventListener("change", function (e) {
         setSpinner();
 
+        var oldImage = preview.querySelector('img');
+        if (oldImage != null) {
+            preview.removeChild(oldImage);
+            original = null;
+        }
+
         watermark([e.target.files[0]])
             .image(function(target) { return target;  })
             .then(function (img) {
