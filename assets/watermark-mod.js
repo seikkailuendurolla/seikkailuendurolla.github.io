@@ -12,7 +12,7 @@ $(document).ready(function() {
                 preview.appendChild(img);
             })
             .then(function () {
-                updatePreview("upperLeft");
+                updatePreview("lowerRight");
             });
     });
 
