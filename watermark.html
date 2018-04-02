@@ -1,0 +1,30 @@
+---
+layout: default
+header_slogan_class: white
+header_image_style: "background-image: url('/assets/ktm-1190-adventure-r-1.jpg')"
+---
+
+<script type="text/javascript">
+//<![CDATA[
+
+$(document).ready(function() {
+  $('.post-item').click(function() {
+    var url = $(this).find("a").attr("href");
+    location = url;
+  });
+});
+
+//]]>
+</script>
+
+<script src="/assets/watermark-mod.js"></script>
+
+<div class="home">
+<form>
+  <div>Kuva: <input type="file" id="image"></div>
+  <div>Vesileima: <input type="file" id="watermark"></div>
+</form>
+
+<div id="preview">
+</div>
+</div>
