@@ -632,7 +632,6 @@ return /******/ (function(modules) { // webpackBootstrap
 	 */
 	function atPos(xFn, yFn, alpha, scale) {
 	  alpha || (alpha = 1.0);
-	  scale || (scale = 1);
 	  return function (target, watermark) {
             var w = watermark.width * scale;
             var h = watermark.height * scale;
@@ -656,6 +655,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 * @return {Function}
 	 */
 	function lowerRight(alpha, scale) {
+	  scale || (scale = 1);
 	  return atPos(function (target, mark) {
 	    return target.width - (mark.width*scale + 10);
 	  }, function (target, mark) {
@@ -671,6 +671,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 * @return {Function}
 	 */
 	function upperRight(alpha, scale) {
+	  scale || (scale = 1);
 	  return atPos(function (target, mark) {
 	    return target.width - (mark.width*scale + 10);
 	  }, function (target, mark) {
@@ -686,6 +687,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 * @return {Function}
 	 */
 	function lowerLeft(alpha, scale) {
+	  scale || (scale = 1);
 	  return atPos(function (target, mark) {
 	    return 10;
 	  }, function (target, mark) {
@@ -701,6 +703,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	 * @return {Function}
 	 */
 	function upperLeft(alpha, scale) {
+	  scale || (scale = 1);
 	  return atPos(function (target, mark) {
 	    return 10;
 	  }, function (target, mark) {
