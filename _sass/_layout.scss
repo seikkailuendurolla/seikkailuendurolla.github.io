@@ -481,3 +481,23 @@ tr:nth-child(even) {
 .table-advert {
     border: 0;
 }
+
+button {
+    font-size: 5em;
+    margin: 0px;
+    float: left;
+}
+
+.button-list {
+    text-align: center;
+}
+
+.button-list div {
+    margin: 0 auto;
+    width: 200px;
+}
+
+#image {
+    padding-bottom: 20px;
+    font-size: 1em;
+}
