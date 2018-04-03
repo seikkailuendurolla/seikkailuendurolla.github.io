@@ -511,6 +511,31 @@ button {
     margin-bottom: 20px;
 }
 #scale {
-    font-size: 1em;
-    margin-bottom: 20px;
+    font-size: 2em;
+    float: left;
+}
+
+.scale {
+    vertical-align: middle;
+}
+
+.scale-container {
+    display: flex;
+    align-items: center;
+}
+
+.position-container {
+    float: left;
+}
+
+.position-container div {
+    width: 100%;
+}
+
+.buttons {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 400px;
 }

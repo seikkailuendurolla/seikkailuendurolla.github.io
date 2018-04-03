@@ -3,7 +3,7 @@ $(document).ready(function() {
     var original;
     var preview = document.getElementById('preview')
     var opacity = document.getElementById('opacity')
-    var scale = document.getElementById('scale')
+    var scale;
     var body = $('body');
     var spinner;
 
@@ -28,11 +28,27 @@ $(document).ready(function() {
             });
     });
 
-    $('button').on("click", function(b) {
+    $('button.position').on("click", function(b) {
         setSpinner();
         var position = b.target.value;
 
         updatePreview(position);
+    });
+
+    $('button.scale').on("click", function(b) {
+        var scale_html = parseInt($('#scale').html())
+
+        if (b.target.value == "increase") {
+            scale_html += 10;
+        } else {
+            scale_html -= 10;
+        }
+
+        $('#scale').html(scale_html)
+        scale = scale_html / 100
+
+        console.log("scale");
+        console.log(scale);
     });
 
     function setSpinner() {
@@ -48,7 +64,7 @@ $(document).ready(function() {
             original = img;
         }
         watermark([original, "/assets/big-logo.png"])
-            .image(watermark.image[position](opacity.value, scale.value))
+            .image(watermark.image[position](opacity.value, scale))
             .then(function(marked) {
                 preview.replaceChild(marked, img);
             })
