@@ -8,9 +8,9 @@ $(document).ready(function() {
     var body = $('body');
     var spinner;
 
-    watermarkImage.value = document.cookie;
+    watermarkImage.value = Cookies.get("watermarkImage");
 
-    if (watermarkImage.value === "") {
+    if (watermarkImage.value === "undefined") {
         watermarkImage.value = "http://seikkailuendurol.la/assets/big-logo.png";
     }
 
@@ -73,7 +73,8 @@ $(document).ready(function() {
     }
 
     function updatePreview(position) {
-        document.cookie = watermarkImage.value;
+        Cookies.set("watermarkImage", watermarkImage.value);
+
         var img = preview.querySelector('img');
 
         if (! original) {
