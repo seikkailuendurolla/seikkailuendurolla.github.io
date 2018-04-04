@@ -3,9 +3,22 @@ $(document).ready(function() {
     var original;
     var preview = document.getElementById('preview')
     var opacity = document.getElementById('opacity')
+    var watermarkImage = document.getElementById('watermark')
     var scale;
     var body = $('body');
     var spinner;
+
+    watermarkImage.value = document.cookie;
+
+    if (watermarkImage.value === "") {
+        watermarkImage.value = "http://seikkailuendurol.la/assets/big-logo.png";
+    }
+
+    var options = {
+        init: function (img) {
+            img.crossOrigin = 'anonymous';
+        }
+    };
 
     document.getElementById("image").addEventListener("change", function (e) {
         setSpinner();
@@ -58,12 +71,13 @@ $(document).ready(function() {
     }
 
     function updatePreview(position) {
+        document.cookie = watermarkImage.value;
         var img = preview.querySelector('img');
 
         if (! original) {
             original = img;
         }
-        watermark([original, "/assets/big-logo.png"])
+        watermark([original, watermarkImage.value], options)
             .image(watermark.image[position](opacity.value, scale))
             .then(function(marked) {
                 preview.replaceChild(marked, img);
