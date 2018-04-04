@@ -70,6 +70,11 @@ $(document).ready(function() {
         body.css('opacity', 0.5);
     }
 
+    function stopSpinner() {
+        spinner.stop();
+        $('body').css('opacity', 1);
+    }
+
     function updatePreview(position) {
         document.cookie = watermarkImage.value;
         var img = preview.querySelector('img');
@@ -77,6 +82,13 @@ $(document).ready(function() {
         if (! original) {
             original = img;
         }
+
+        if (original === null) {
+            alert("Valitse ensin kuva");
+            stopSpinner();
+            return;
+        }
+
         watermark([original, watermarkImage.value], options)
             .image(watermark.image[position](opacity.value, scale))
             .then(function(marked) {
@@ -85,8 +97,7 @@ $(document).ready(function() {
             .then(function () {
                 preview.style.width = "100%";
                 preview.style.display = "block";
-                spinner.stop();
-                $('body').css('opacity', 1);
+                stopSpinner();
             });
 
     }
