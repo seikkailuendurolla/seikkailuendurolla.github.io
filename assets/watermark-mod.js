@@ -59,9 +59,6 @@ $(document).ready(function() {
 
         $('#scale').html(scale_html)
         scale = scale_html / 100
-
-        console.log("scale");
-        console.log(scale);
     });
 
     function setSpinner() {
