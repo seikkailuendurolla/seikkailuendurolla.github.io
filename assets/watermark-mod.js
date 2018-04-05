@@ -1,9 +1,10 @@
 
 $(document).ready(function() {
     var original;
-    var preview = document.getElementById('preview')
-    var opacity = document.getElementById('opacity')
-    var watermarkImage = document.getElementById('watermark')
+    var preview = document.getElementById('preview');
+    var previewLabel = document.getElementById('preview-label');
+    var opacity = document.getElementById('opacity');
+    var watermarkImage = document.getElementById('watermark');
     var scale;
     var body = $('body');
     var spinner;
@@ -101,6 +102,7 @@ $(document).ready(function() {
             .then(function () {
                 preview.style.width = "100%";
                 preview.style.display = "block";
+                previewLabel.style.display = "block";
                 stopSpinner();
             });
 
