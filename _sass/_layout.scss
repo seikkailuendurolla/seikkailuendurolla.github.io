@@ -515,18 +515,29 @@ button {
     font-size: 1em;
     margin-bottom: 20px;
 }
+#watermark {
+    font-size: 1em;
+    margin-bottom: 20px;
+}
+
 #scale {
     font-size: 2em;
     float: left;
+    margin-left: 1.1em;
 }
 
 .scale {
-    vertical-align: middle;
+    float: left;
 }
 
 .scale-container {
-    display: flex;
-    align-items: center;
+    float: left;
+    margin-right: 1em;
+}
+
+#scale-suffix {
+    font-size: 2em;
+    float: left;
 }
 
 .position-container {

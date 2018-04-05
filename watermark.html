@@ -22,10 +22,10 @@ $(document).ready(function() {
 
 <div class="home">
   <form>
-
-    <div>Logo: <input type="text" name="watermark" id="watermark" /></div>
-    <div>Kuva: <input type="file" id="image"></div>
-    <div>Läpinäkyvyys
+    <h2>Valokuvan vesileimaus logolla</h2>
+    <div>Logo <input type="text" name="watermark" id="watermark" /></div>
+    <div>Kuva <input type="file" id="image"></div>
+    <div>Logon läpinäkyvyys
       <select name="optacity" id="opacity">
         <option value="1">0%</option>
         <option value="0.9">10%</option>
@@ -42,8 +42,18 @@ $(document).ready(function() {
 
 
     <div class="buttons">
+      <div class="scale-container">
+        <div>Logon koko</div>
+        <div>
+          <div id="scale">100</div>
+          <div id="scale-suffix">%</div>
+        </div>
+        <button type="button" value="decrease" class="scale">&#65293;</button>
+        <button type="button" value="increase" class="scale">&#65291;</button>
+      </div>
       <div class="position-container">
         <div>
+          <div>Logon sijainti</div>
           <button type="button" value="upperLeft" class="position">&#x2196;</button>
           <button type="button" value="upperRight" class="position">&#x2197;</button>
         </div>
@@ -51,11 +61,6 @@ $(document).ready(function() {
           <button type="button" value="lowerLeft" class="position">&#x2199;</button>
           <button type="button" value="lowerRight" class="position">&#x2198;</button>
         </div>
-      </div>
-      <div class="scale-container">
-        <div id="scale">100</div>
-        <button type="button" value="decrease" class="scale">&#65293;</button>
-        <button type="button" value="increase" class="scale">&#65291;</button>
       </div>
     </div>
   </form>
