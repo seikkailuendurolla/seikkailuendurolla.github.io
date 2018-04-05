@@ -21,44 +21,45 @@ $(document).ready(function() {
 <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
 
 <div class="home">
-<form>
-  <div>Logo: <input type="text" name="watermark" id="watermark" /></div>
-  <div>Kuva: <input type="file" id="image"></div>
-  <div>Läpinäkyvyys
-    <select name="optacity" id="opacity">
-      <option value="1">0%</option>
-      <option value="0.9">10%</option>
-      <option value="0.8">20%</option>
-      <option value="0.7">30%</option>
-      <option value="0.6">40%</option>
-      <option value="0.5" selected>50%</option>
-      <option value="0.4">60%</option>
-      <option value="0.3">70%</option>
-      <option value="0.2">80%</option>
-      <option value="0.1">90%</option>
-    </select>
-  </div>
+  <form>
+
+    <div>Logo: <input type="text" name="watermark" id="watermark" /></div>
+    <div>Kuva: <input type="file" id="image"></div>
+    <div>Läpinäkyvyys
+      <select name="optacity" id="opacity">
+        <option value="1">0%</option>
+        <option value="0.9">10%</option>
+        <option value="0.8">20%</option>
+        <option value="0.7">30%</option>
+        <option value="0.6">40%</option>
+        <option value="0.5" selected>50%</option>
+        <option value="0.4">60%</option>
+        <option value="0.3">70%</option>
+        <option value="0.2">80%</option>
+        <option value="0.1">90%</option>
+      </select>
+    </div>
 
 
-  <div class="buttons">
-    <div class="position-container">
-      <div>
-        <button type="button" value="upperLeft" class="position">&#x2196;</button>
-        <button type="button" value="upperRight" class="position">&#x2197;</button>
+    <div class="buttons">
+      <div class="position-container">
+        <div>
+          <button type="button" value="upperLeft" class="position">&#x2196;</button>
+          <button type="button" value="upperRight" class="position">&#x2197;</button>
+        </div>
+        <div>
+          <button type="button" value="lowerLeft" class="position">&#x2199;</button>
+          <button type="button" value="lowerRight" class="position">&#x2198;</button>
+        </div>
       </div>
-      <div>
-        <button type="button" value="lowerLeft" class="position">&#x2199;</button>
-        <button type="button" value="lowerRight" class="position">&#x2198;</button>
+      <div class="scale-container">
+        <div id="scale">100</div>
+        <button type="button" value="decrease" class="scale">&#65293;</button>
+        <button type="button" value="increase" class="scale">&#65291;</button>
       </div>
     </div>
-    <div class="scale-container">
-      <div id="scale">100</div>
-      <button type="button" value="decrease" class="scale">&#65293;</button>
-      <button type="button" value="increase" class="scale">&#65291;</button>
-    </div>
-  </div>
-</form>
+  </form>
 
-<div id="preview">
-</div>
+  <div id="preview">
+  </div>
 </div>
