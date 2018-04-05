@@ -87,6 +87,12 @@ $(document).ready(function() {
             return;
         }
 
+        if (watermarkImage.value === "") {
+            alert("Valitse ensin logo");
+            stopSpinner();
+            return;
+        }
+
         watermark([original, watermarkImage.value], options)
             .image(watermark.image[position](opacity.value, scale))
             .then(function(marked) {
