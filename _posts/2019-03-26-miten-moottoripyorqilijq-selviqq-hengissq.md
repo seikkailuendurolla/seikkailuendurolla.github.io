@@ -36,6 +36,8 @@ lajin työn kautta tunteva viranomainen, joka on yleensä paikalla, kun
 jotain ikävää
 liikenteessä tapahtuu.
 
+<img src="/assets/ktm-1190-poliisimoottoripyora-xrv750-1.jpg" width="400" style="float: right; padding: 5px;" />
+
 Vilppu oli työskennellyt poliisina 8 vuotta, kun hakeutui 
 moottoripyöräpoliisikoulutukseen. Nyt hän on toiminut nyt 
 moottoripyöräpoliisina 12 vuotta. Kilometrejä kertyy vuosittain n. 7000 
@@ -202,6 +204,8 @@ Olisiko harrastajienkin tarpeen kerrata asioita ajokauden alussa?
 
 ### KTM matkaenduro poliisin mottoripyöränä
 
+<img src="/assets/ktm-1190-poliisimoottoripyora-xrv750-2.jpg" width="400" style="float: left; padding: 5px;" />
+
 Olin positiivisesti yllättynyt, että Jyväskylässä poliisilla on käytössä 
 palveluspyöränä KTM
 1190 Adventure. Se kuvastaa mallin 
@@ -236,3 +240,4 @@ miten hyvin uusin KTM Super Adventure toimisi kovassa vauhdissa.
 Oletettavasti semiautomaattinen jousitus kovaan ajoon säädettynä toimisi 
 paremmin hälytystehtävissä.
 
+<img src="/assets/ktm-1190-poliisimoottoripyora.jpg" style="padding: 5px;" />
