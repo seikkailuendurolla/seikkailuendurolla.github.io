@@ -39,10 +39,11 @@ liikenteessä tapahtuu.
 <img src="/assets/ktm-1190-poliisimoottoripyora-xrv750-1.jpg" width="400" style="float: right; padding: 5px;" />
 
 Vilppu oli työskennellyt poliisina 8 vuotta, kun hakeutui 
-moottoripyöräpoliisikoulutukseen. Nyt hän on toiminut nyt 
+moottoripyöräpoliisikoulutukseen. Nyt hän on toiminut
 moottoripyöräpoliisina 12 vuotta. Kilometrejä kertyy vuosittain n. 7000 
 ja kesäpäivinä työvuoron ajosta saattaa jopa puolet olla hälytysajoa. 12 
 tunnin työvuoroja mahtuu kesään moottoripyörällä 40-50 kappaletta.
+
 Moottoripyöräpoliisin monipuolinen peruskurssi kestää seitsemän viikkoa 
 ja se
 jakaantuu kahdelle kesälle. Erilaisilla maastoradoilla harjoitellaan 
@@ -75,7 +76,8 @@ liikennettä etkä aja ylinopeutta. Uskoakseni kaikki tämän kirjoituksen
 lukijat kuuluvat tähän 20% potentiaaliseen riskitasoon, joten tässä 
 jutussa keskityn siihen, kuinka vielä tätäkin lukua saadaan pienemmäksi.
 
-Kolme tärkeintä turvallisuutta parantavaa seikkaa
+### Kolme tärkeintä turvallisuutta parantavaa seikkaa
+
 Kysyin Vilpulta, mitkä ovat hänen työkokemuksensa perusteella kolme 
 tärkeintä asiaa,
 joilla moottoripyöräilijä voisi välttää joutumista onnettomuuksiin.
@@ -167,7 +169,7 @@ pitävälle asfalttipinnalle. Jottei asia olisi liian helppo, irtosoralla
 tehokas jarrutus tapahtuu tietenkin takarenkaalla, jota avustetaan 
 eturenkaan jarrulla olosuhteen mukaan. 
 
-Edellä mainittuja asioita tärkeämpiäkin toki löytyy, esimerkiksi kypärä 
+Edellä mainittuja asioita tärkeämpiäkin toki löytyy, esimerkiksi kypärän 
 käyttö. Tavoitteenani
 on kuitenkin tiedon avulla parantaa liikenneturvallisuutta entisestään 
 ja siksi tässä
@@ -175,7 +177,8 @@ yhteydessä nostan edellä mainitut asiat esiin, joihin kannattaa
 kiinnittää huomiota. Tilastot ja poliisin käytännön kokemus ovat 
 osoittaneet, että näihin seikkoihin kannattaa kiinnittää
 huomiota.
-Kirjoitusta pohtiessani kyselin Seikkailuendurol.la facebook sivustolla 
+
+Kirjoitusta pohtiessani kyselin [Seikkailuendurol.la facebook sivustolla](https://www.facebook.com/seikkailuendurolla/) 
 harrastajien ajatuksia samaan kysymykseen. Ilokseni huomasin, että 
 kurapyöräilijät ovat varsin valveutunutta porukkaa. Seuraavassa muutama 
 kommentti poimittuna:
@@ -241,8 +244,8 @@ Oletettavasti semiautomaattinen jousitus kovaan ajoon säädettynä toimisi
 paremmin hälytystehtävissä.
 
 <img src="/assets/ktm-1190-poliisimoottoripyora.jpg" style="padding: 5px;" />
-*Poliisin moottoripyörästä löytyy monipuolinen varustelu. Tutkalla 
+<span style="font-size: 0.9em">*Poliisin moottoripyörästä löytyy monipuolinen varustelu. Tutkalla 
 pystyy katsomaan nopeuksia sekä eteen että taakse. Tutka pystyy 
 erikseen kertomaan nopeimman ajoneuvon nopeuden halutusta suunnasta. 
 Lisäksi löytyy hallintalaitteet videokameralle, radiolle ja toki 
-myös perinteinen navigaattori*
+myös perinteinen navigaattori.*</span>
