@@ -2,13 +2,13 @@
 layout: post
 title: Miten moottoripyöräilijä selviää hengissä liikenteessä?
 header_slogan_class: white
-header_image_style: "background-image: url('/assets/ktm-1190-adventure-r-1.jpg'); @media (min-width: 1062px) {background-position: center bottom;}"
+header_image_style: "background-image: url('/assets/ktm-1190-poliisimoottoripyora-xrv750-3.jpg'); @media (min-width: 1062px) {background-position: center bottom;}"
 post_image: /assets/ktm-1190-adventure-r-1.jpg
 keywords: "mööttoripyöräily, matkaenduro, seikkailu endurolla"
 image: ktm-1190-adventure-r-2.jpg
 description: KTM
 #excerpt_separator: <!--more-->
-draft: false
+draft: true
 ---
 
 Onko moottoripyöräily vaarallinen harrastus? Huomaan, että moni 
@@ -241,3 +241,8 @@ Oletettavasti semiautomaattinen jousitus kovaan ajoon säädettynä toimisi
 paremmin hälytystehtävissä.
 
 <img src="/assets/ktm-1190-poliisimoottoripyora.jpg" style="padding: 5px;" />
+*Poliisin moottoripyörästä löytyy monipuolinen varustelu. Tutkalla 
+pystyy katsomaan nopeuksia sekä eteen että taakse. Tutka pystyy 
+erikseen kertomaan nopeimman ajoneuvon nopeuden halutusta suunnasta. 
+Lisäksi löytyy hallintalaitteet videokameralle, radiolle ja toki 
+myös perinteinen navigaattori*
