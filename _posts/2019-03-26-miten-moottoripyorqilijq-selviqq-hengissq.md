@@ -78,7 +78,7 @@ Kysyin Vilpulta, mitkä ovat hänen työkokemuksensa perusteella kolme
 tärkeintä asiaa,
 joilla moottoripyöräilijä voisi välttää joutumista onnettomuuksiin.
 
-I Ennakointi . Moottoripyörä on jo kokonsa (kapeuden) vuoksi 
+**I Ennakointi.** Moottoripyörä on jo kokonsa (kapeuden) vuoksi 
 huomattavasti hankalampi autoilijoiden huomata. Seuraa tarkasti muuta 
 liikennettä. Ennakoi mahdolliset kaistanvaihdot, vastaan tulevat ja 
 kääntymässä olevat autot sekä risteyksissä sivuilta tulevat jne. 
@@ -91,7 +91,7 @@ ja visioi mahdollisia vaaroja liikennenäkymässäsi.
 Tällöin voit välttää paremmin onnettomuuksia, vaikka muut tien käyttäjät 
 eivät huomaisikaan sinua.
 
-II Varo kolmion takaa tulevaa liikennettä ja kääntymässä olevia. 
+**II Varo kolmion takaa tulevaa liikennettä ja kääntymässä olevia.** 
 Vuosikymmen sitten olin perheen kanssa autolla
 liikenteessä ja tulin Jyväskylässä keskussairaalan suunnasta Keuruulle 
 menevälle tielle (18).
@@ -141,7 +141,7 @@ päivän aikana niitä tulee vastaan vain muutama. Hetkellinen vauhdin
 pudotus on pieni
 vaiva, mutta todennäköisyys joutua onnettomuuteen putoaa huomattavasti!
 
-III Jarrutus. Hyvin todennäköisesti osaat jarruttaa moottoripyörällä 
+**III Jarrutus.** Hyvin todennäköisesti osaat jarruttaa moottoripyörällä 
 hyvin. Hyvin myös, jos
 vähän laitettaisiin sinua jarrutustestiin. Mutta miksi 
 onnettomuustilanteissa tulee usein
@@ -177,18 +177,20 @@ Kirjoitusta pohtiessani kyselin Seikkailuendurol.la facebook sivustolla
 harrastajien ajatuksia samaan kysymykseen. Ilokseni huomasin, että 
 kurapyöräilijät ovat varsin valveutunutta porukkaa. Seuraavassa muutama 
 kommentti poimittuna:
-● “Oma asenne”
-● “Muun liikenteen huomioiminen, ennakoiva ajo”
-● “Varusteet”
-● “Aja kuin olisit näkymätön”
-● “Kunnolliset renkaat soratiellä”
-● “Tilannenopeudet, muiden huomioiminen”
-● “Ajotaito, pyöränhallinta”
-● “Oleta että kaikki liikenteessä ovat sokeita, kuuroja, itsetuhoisia 
+
+* “Oma asenne”
+* “Muun liikenteen huomioiminen, ennakoiva ajo”
+* “Varusteet”
+* “Aja kuin olisit näkymätön”
+* “Kunnolliset renkaat soratiellä”
+* “Tilannenopeudet, muiden huomioiminen”
+* “Ajotaito, pyöränhallinta”
+* “Oleta että kaikki liikenteessä ovat sokeita, kuuroja, itsetuhoisia 
 idiootteja, eli katso
 eteen, taakse, sivulle ja seuraa liikennettä sekä tien pintaa pitkälle!”
-● “Vainoharhaisuus, pessimismi, omien taitojen vähättely.”
-● “Pyörän ominaisuuksien tunteminen.”
+* “Vainoharhaisuus, pessimismi, omien taitojen vähättely.”
+* “Pyörän ominaisuuksien tunteminen.”
+
 Moottoripyöräpoliiseille järjestetään joka kevät ennen ajokauden alkua 
 pakollinen kaksipäiväinen nk. lämmittelykurssi, jossa kerrataan 
 ajotekniikkaa ja palautellaan mieliin lajiin liittyvät erityispiirteet 
@@ -198,10 +200,11 @@ moottoripyöräpoliiseille
 ole sattunut yhtään kuolemaan johtanutta onnettomuutta. 
 Olisiko harrastajienkin tarpeen kerrata asioita ajokauden alussa?
 
-KTM matkaenduro poliisin mottoripyöränä
+### KTM matkaenduro poliisin mottoripyöränä
+
 Olin positiivisesti yllättynyt, että Jyväskylässä poliisilla on käytössä 
 palveluspyöränä KTM
-1190 Adventure ja KTM 1290 Adventure. Se kuvastaa mallin 
+1190 Adventure. Se kuvastaa mallin 
 monipuolisuutta, kun pyörä on hyväksytty poliisinkin
 käyttöön. Poliisin ajoista 95% on kuitenkin katuajoa ja ominaisuuksia 
 täytyy löytyä
