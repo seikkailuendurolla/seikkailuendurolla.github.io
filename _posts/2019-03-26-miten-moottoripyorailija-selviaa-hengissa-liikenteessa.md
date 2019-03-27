@@ -5,7 +5,7 @@ header_slogan_class: white
 header_image_style: "background-image: url('/assets/ktm-1190-poliisimoottoripyora-xrv750-3.jpg'); @media (min-width: 1062px) {background-position: center bottom;}"
 post_image: /assets/ktm-1190-poliisimoottoripyora-xrv750-3.jpg
 keywords: "mööttoripyöräily, matkaenduro, seikkailu endurolla"
-image: ktm-1190-adventure-r-2.jpg
+image: ktm-1190-poliisimoottoripyora-xrv750-3.jpg
 description: KTM
 #excerpt_separator: <!--more-->
 draft: false
