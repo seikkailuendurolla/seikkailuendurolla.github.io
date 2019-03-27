@@ -8,7 +8,7 @@ keywords: "mööttoripyöräily, matkaenduro, seikkailu endurolla"
 image: ktm-1190-adventure-r-2.jpg
 description: KTM
 #excerpt_separator: <!--more-->
-draft: true
+draft: false
 ---
 
 Onko moottoripyöräily vaarallinen harrastus? Huomaan, että moni 
