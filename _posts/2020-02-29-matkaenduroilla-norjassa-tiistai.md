@@ -112,7 +112,7 @@ style="float: left;">Edellinen kirjoitus</a>
 <div style="clear:both" />
 <i>
 Tämä on neljäs kirjoitus blogisarjasta, joka kertoo 
-moottoripyörämatkasta Norjaan. Lähetä sähköpostiosoitteesi minulle, 
+moottoripyörämatkasta Norjaan elokuun alussa 2016. Lähetä sähköpostiosoitteesi minulle, 
 mikäli haluat ilmoituksen seuraavista julkaisuista. Osoitteeni on <a 
 href="mailto:{{ site.email }}">{{ site.email }}</a>.
 </i>
