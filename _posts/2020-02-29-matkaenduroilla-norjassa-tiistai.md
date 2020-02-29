@@ -5,7 +5,8 @@ header_slogan_class: white
 header_image_style: "background-image: url('/assets/norja9.jpg');"
 post_image: /assets/norja2.jpg
 image: /assets/norja9.jpg
-keywords: "mööttoripyöräily, matkaenduro, seikkailu endurolla"
+keywords: "moottoripyöräily, matkaenduro, seikkailu endurolla, norja"
+description: Tiistaina ajamme läpi Lofoottien saariryhmän. Tavoitteena on päästä käymään eteläisimmässä Å:n kyllässä asti.
 excerpt_separator: <!--more-->
 ---
 

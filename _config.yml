@@ -3,7 +3,7 @@
 title: Moottoripyöräilyä Keski-Suomen sorateillä ja poluilla
 email: seikkailuendurol.la@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Kirjoituksia seikkailusta isolla matkaendurolla Keski-Suomen sorateillä ja poluilla.>
+  Kirjoituksia seikkailusta isolla matkaendurolla Keski-Suomen sorateillä ja poluilla.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://seikkailuendurol.la" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title
