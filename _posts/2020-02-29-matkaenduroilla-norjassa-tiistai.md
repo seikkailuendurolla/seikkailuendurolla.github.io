@@ -4,6 +4,7 @@ title: Matkaenduroilla Norjassa, tiistai
 header_slogan_class: white
 header_image_style: "background-image: url('/assets/norja9.jpg');"
 post_image: /assets/norja2.jpg
+image: /assets/norja9.jpg
 keywords: "mööttoripyöräily, matkaenduro, seikkailu endurolla"
 excerpt_separator: <!--more-->
 ---
