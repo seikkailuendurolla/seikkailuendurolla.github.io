@@ -16,7 +16,8 @@ vedetään mielestäni väärä johtopäätös, että maa olisi erityisen kallis
 matkustamiseen. Matkailuelinkeino tarjoaa palvelujaan pääasiassa 
 ulkomaalaisille, joten heidän on huomioitava turistien maksuvalmius. 
 Esimerkiksi yöpymiseen löytyy leirintäalueilta pieniä hirsimökkejä 
-(Cabins/Hytter), jotka ovat yhtä edullisia kuin Suomessa. Edellinen yö maksoi 
+(Cabins/Hytter), jotka ovat yhtä edullisia kuin Suomessa.
+<!--more-->Edellinen yö maksoi 
 meille n. 10 euroa henkilöltä. Mökissä yöpyjien käytössä on yhteinen keittiö, 
 josta löytyy keittolevy, uuni, astiastot jne. Lisäksi käytettävissä on 
 suihku. Norjalaisena erikoisuutena suihkun lämmin vesi toimii kolikoilla. 
