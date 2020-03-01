@@ -4,9 +4,9 @@ title: Matkaenduroilla Norjassa, keskiviikko
 header_slogan_class: white
 header_image_style: "background-image: url('/assets/norja12.jpg');"
 post_image: /assets/norja2.jpg
-image: /assets/norja9.jpg
+image: /assets/norja12.jpg
 keywords: "moottoripyöräily, matkaenduro, seikkailu endurolla, norja"
-description: Keskiviikkona pääsimme vihdoin kunnolla soratielle.
+description: Keskiviikkona pääsimme vihdoin kunnolla soratielle. Vuoristossa ajelu oli huikea kokemus.
 excerpt_separator: <!--more-->
 ---
 
