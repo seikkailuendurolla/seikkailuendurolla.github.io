@@ -2,7 +2,7 @@
 layout: post
 title: Matkaenduroilla Norjassa, keskiviikko
 header_slogan_class: white
-header_image_style: "background-image: url('/assets/norja9.jpg');"
+header_image_style: "background-image: url('/assets/norja12.jpg');"
 post_image: /assets/norja2.jpg
 image: /assets/norja9.jpg
 keywords: "moottoripyöräily, matkaenduro, seikkailu endurolla, norja"
@@ -10,12 +10,14 @@ description: Keskiviikkona pääsimme vihdoin kunnolla soratielle.
 excerpt_separator: <!--more-->
 ---
 
+<img src="/assets/norja13.jpg" style="float: right; padding: 5px;" />
+
 Norjaa pidetään kalliina turistikohteena. On totta, että palkkataso ja 
 vastaavasti elinkustannukset ovat siellä selvästi Suomea korkeammat. Tästä 
 vedetään mielestäni väärä johtopäätös, että maa olisi erityisen kallis 
 matkustamiseen. Matkailuelinkeino tarjoaa palvelujaan pääasiassa 
 ulkomaalaisille, joten heidän on huomioitava turistien maksuvalmius. 
-Esimerkiksi yöpymiseen löytyy leirintäalueilta pieniä hirsimökkejä 
+Esimerkiksi yöpymiseen löytyy leirintäalueilta pieniä mökkejä 
 (Cabins/Hytter), jotka ovat yhtä edullisia kuin Suomessa.
 <!--more-->Edellinen yö maksoi 
 meille n. 10 euroa henkilöltä. Mökissä yöpyjien käytössä on yhteinen keittiö, 
@@ -78,16 +80,19 @@ edestakaisin ajaminen ei harmittanut.
 Ilta oli jo pitkällä ja suuntasimme matkan kohti Kjøpsvikiä, jonne oli matkaa 
 reilu 100km. Seuraavan yön pääsimme viettämään Suomalaisen tuttavan luona.
 
+Seuraavassa kartassa on päivän aikana kuljettu reitti. Matkaa kertyi
+yhteensä 448km.
+
 <div class="post-video">
   <iframe 
-    src="https://www.google.com/maps/d/embed?mid=1E0dNcc38ALEASm6D9vHv_tFvPwJtFRJN"
+    src="https://www.google.com/maps/d/embed?mid=1YfQc5MUJY5oTw1H4V66HPpcQeRdEvKFg"
     width="640" height="480"></iframe>
 </div>
 
 <div>&nbsp;</div>
 
 <div>Lue myös muut blogisarjan kirjoitukset:</div>
-<a href="/2017/06/06/matkaenduroilla-norjassa-maanantai" 
+<a href="/2020/02/29/matkaenduroilla-norjassa-tiistai" 
 style="float: left;">Edellinen kirjoitus</a>
 <!--
 <a href="" style="float: right;">Seuraava kirjoitus</a>
@@ -96,7 +101,7 @@ style="float: left;">Edellinen kirjoitus</a>
 
 <div style="clear:both" />
 <i>
-Tämä on neljäs kirjoitus blogisarjasta, joka kertoo 
+Tämä on viides kirjoitus blogisarjasta, joka kertoo 
 moottoripyörämatkasta Norjaan elokuun alussa 2016. Lähetä sähköpostiosoitteesi minulle, 
 mikäli haluat ilmoituksen seuraavista julkaisuista. Osoitteeni on <a 
 href="mailto:{{ site.email }}">{{ site.email }}</a>.
