@@ -26,6 +26,8 @@ suihku. Norjalaisena erikoisuutena suihkun lämmin vesi toimii kolikoilla.
 Leirintäalueiden käyttäjien kannattaa varata Norjan kolikoita tätä 
 käyttötarkoitusta varten.
 
+<img src="/assets/norja14.jpg" width="305" style="float: left; padding-right: 10px;" />
+
 Lähdimme liikkeelle puoli yhdentoista  jälkeen. Edessä oli paluu Narvikiin 
 isoa tietä ajaen. Alkumatkasta hieman ripotteli vettä, mutta pääsimme ajamaan 
 poutasäässä aina Tjeldsundbruan sillalle asti. Pilvet kertoivat selvää kieltä 
@@ -59,6 +61,8 @@ kerran tämän pyörän kanssa tuntui, että ei haittaisi, jos pyörässä olisi
 enemmänkin voimaa. Pito oli asfaltilla luonnollisesti hyvä, mutta mutkat oli 
 ajettava turvallisesti. Suoralla saikin vääntää nupin kaakkoon, koska nousu 
 oli jyrkkä.
+
+<img src="/assets/norja15.jpg" style="float: right; padding: 5px;" />
 
 600 metrin korkeudessa tie muuttui soratieksi. Nousua jatkui aina 900 metriin 
 asti, jolloin sade lakkasi ja sumu väistyi, koska olimme tulleet pilvien 
