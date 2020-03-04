@@ -30,11 +30,13 @@ käyttötarkoitusta varten.
 
 Lähdimme liikkeelle puoli yhdentoista  jälkeen. Edessä oli paluu Narvikiin 
 isoa tietä ajaen. Alkumatkasta hieman ripotteli vettä, mutta pääsimme ajamaan 
-poutasäässä aina Tjeldsundbruan sillalle asti. Pilvet kertoivat selvää kieltä 
-tulevasta sateesta, joten pysähdyimme pukemaan sadevarusteet päälle.
+poutasäässä aina [Tjeldsundbruan sillalle](https://goo.gl/maps/x2itj7d8ghtexbJm9){:target="_blank"}
+asti. Pilvet kertoivat selvää kieltä  tulevasta sateesta, joten pysähdyimme
+pukemaan sadevarusteet päälle.
 
-Iltapäivä oli jo pitkällä kun saavuimme Narvikiin. Pysähdyimme syömään Peppes 
-pizzeriassa. Syödessämme sattui hauska yhteensattuma; Meillä oli tarjoilijana 
+Iltapäivä oli jo pitkällä kun saavuimme Narvikiin. Pysähdyimme syömään
+[Peppes pizzeriassa.](https://g.page/peppes-pizza-narvik){:target="_blank"}
+Syödessämme sattui hauska yhteensattuma; Meillä oli tarjoilijana 
 nuori herrasmies, jonka äiti oli Lappeenrannasta kotoisin oleva Suomalainen. 
 Hän oli lapsuudessaan asunut Turussa viiden vuoden ajan. Pääsimmepä siten 
 tällä kertaa puhumaan suomea.
@@ -43,10 +45,16 @@ Matkaendurokuskien näkökulmasta pari viimeistä päivää olivat olleet turhan
 asfaltti voittoisia. Siten olikin mukava seuraavaksi suunnata kohti 
 vuoristoa, jossa ennakkotietojen mukaan pitäisi löytyä soratietä.
 
-Lähdimme Narvikista E6 tietä etelän suuntaan. Trong-Skjomen vuonon kohdalta 
+Lähdimme Narvikista E6 tietä etelän suuntaan.
+[Trong-Skjomen vuonon](https://goo.gl/maps/KokVjQqwHVg8u25W7){:target="_blank"}
+kohdalta 
 käännyimme vasemmalle Skjomenveien tielle. Vuonon reunassa oleva tie oli 
-mukavan pieni ja mutkia riitti. Elvegårdista jatkoimme vielä eteenpäin reilun 
-kymmenen kilometrin verran. Saavuimme vuoriston juurelle, josta kartan mukaan 
+mukavan pieni ja mutkia riitti.
+[Elvegårdista](https://goo.gl/maps/hBqetMNebJvTXozz9){:target="_blank"}
+jatkoimme vielä eteenpäin reilun 
+kymmenen kilometrin verran. Saavuimme vuoriston
+[juurelle,](https://goo.gl/maps/3SQTtwQaZBGFHkfa7){:target="_blank"}
+josta kartan mukaan 
 tie lähti nopeasti nousemaan ja oli ns. serpentiinitietä. Tämän tien päässä 
 ja varrella ei karttatietojen mukaan ollut lainkaan asutusta. Tie oli 
 ilmeisesti vesivoimalaitoksen huoltotie. Olinkin vähän hämmästynyt, kun 
@@ -81,8 +89,10 @@ Vuoristosta ei päässyt ajamaan läpi vaan meidän täytyi palata E6 tiellä sa
 reittiä, kun tulimmekin. Paikka oli kyllä näkemisen arvoinen, joten 
 edestakaisin ajaminen ei harmittanut.
 
-Ilta oli jo pitkällä ja suuntasimme matkan kohti Kjøpsvikiä, jonne oli matkaa 
-reilu 100km. Seuraavan yön pääsimme viettämään Suomalaisen tuttavan luona.
+Ilta oli jo pitkällä ja suuntasimme matkan kohti
+[Kjøpsvikiä,](https://goo.gl/maps/oik11PKsH6xjwou6A){:target="_blank"}
+jonne oli matkaa reilu 100km. Seuraavan yön pääsimme viettämään Suomalaisen
+tuttavan luona.
 
 Seuraavassa kartassa on päivän aikana kuljettu reitti. Matkaa kertyi
 yhteensä 448km.
