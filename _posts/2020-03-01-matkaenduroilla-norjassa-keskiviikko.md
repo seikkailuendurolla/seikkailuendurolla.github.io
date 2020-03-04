@@ -10,6 +10,13 @@ description: Keskiviikkona pääsimme vihdoin kunnolla soratielle. Vuoristossa a
 excerpt_separator: <!--more-->
 ---
 
+<div class="post-video">
+     <iframe width="560" height="315" 
+src="https://www.youtube.com/embed/0cFVGcf0LLk" frameborder="0" 
+allowfullscreen></iframe>
+</div>
+<div>&nbsp;</div>
+
 <img src="/assets/norja13.jpg" style="float: right; padding: 5px;" />
 
 Norjaa pidetään kalliina turistikohteena. On totta, että palkkataso ja 
