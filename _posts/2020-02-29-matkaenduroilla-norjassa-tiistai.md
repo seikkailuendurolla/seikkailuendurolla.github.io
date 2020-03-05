@@ -104,11 +104,9 @@ yhteensä 542km.
 <div>&nbsp;</div>
 
 <div>Lue myös muut blogisarjan kirjoitukset:</div>
-<a href="/2017/06/06/matkaenduroilla-norjassa-maanantai" 
-style="float: left;">Edellinen kirjoitus</a>
-<!--
-<a href="" style="float: right;">Seuraava kirjoitus</a>
--->
+<a href="/2017/06/06/matkaenduroilla-norjassa-maanantai" style="float: left;">Edellinen kirjoitus</a>
+<a href="/2020/03/05/matkaenduroilla-norjassa-keskiviikko" style="float: right;">Seuraava kirjoitus</a>
+
 <p>&nbsp;</p>
 
 <div style="clear:both" />
