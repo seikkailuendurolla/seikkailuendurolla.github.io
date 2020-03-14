@@ -5,14 +5,14 @@ $(document).ready(function() {
     var previewLabel = document.getElementById('preview-label');
     var opacity = document.getElementById('opacity');
     var watermarkImage = document.getElementById('watermark');
-    var scale;
+    var scale = 2;
     var body = $('body');
     var spinner;
 
     watermarkImage.value = Cookies.get("watermarkImage");
 
     if (watermarkImage.value === "undefined") {
-        watermarkImage.value = "https://seikkailuendurol.la/assets/big-logo.png";
+        watermarkImage.value = "https://seikkailuendurol.la/assets/logo.png";
     }
 
     var options = {
