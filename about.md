@@ -17,4 +17,4 @@ Ajokortin säilyttämiseen paras tapa on noudattaa nopeusrajoituksia. Pienentäm
 
 Blogissani teemoina ovat turvallinen moottoripyöräily tieliikennelakia kunnioittaen, luonnosta nauttiminen ja matkaedurolla seikkailu Keski-Suomen upeissa maisemissa. Kalustoon liittyvät kirjoitukset tulevat luonnollisesti koskemaan enduroita ja ennen kaikkea matkaenduroita. Kirjoitukseni suuntaan erityisesti uusille harrastajille tai vasta harrastuksen aloittamista pohtiville. Kertyneen kokemukseni lisäksi tietolähteenä käytän Pohjolan Kurapyöräilijät yhteisöä [matkaendurot.net](http://www.matkaendurot.net/phpBB3/index.php) keskustelufoorumilla.
 
-Blogin yhteistyökumppanina on Jyväskyläläinen moottoripyöräliike [Marine](https://marine.fi). Marine edustaa Jyväskylässä mm. kolmea tärkeää seikkailupyörämerkkiä [KTM:ää](https://ktm.com), Hondaa ja Yamahaa.
+Blogin yhteistyökumppanina on Jyväskyläläinen moottoripyöräliike [Marine](https://marine.fi){:target="_blank"}. Marine edustaa Jyväskylässä mm. kolmea tärkeää seikkailupyörämerkkiä KTM:ää, Hondaa ja Yamahaa.
