@@ -97,22 +97,22 @@ yhteensä 523km.
 <div><a href="/2017/02/11/matkaenduroilla-norjassa-valmistautuminen">
 Matkaenduroilla Norjassa, valmistautuminen</a></div>
 
-<div><a href="2017/03/01/matkaenduroilla-norjassa-sunnuntai">
+<div><a href="/2017/03/01/matkaenduroilla-norjassa-sunnuntai">
 Matkaenduroilla Norjassa, sunnuntai</a></div>
 
-<div><a href="2017/06/06/matkaenduroilla-norjassa-maanantai">
+<div><a href="/2017/06/06/matkaenduroilla-norjassa-maanantai">
 Matkaenduroilla Norjassa, maanantai</a></div>
 
-<div><a href="2020/02/29/matkaenduroilla-norjassa-tiistai">
+<div><a href="/2020/02/29/matkaenduroilla-norjassa-tiistai">
 Matkaenduroilla Norjassa, tiistai</a></div>
 
-<div><a href="2020/03/05/matkaenduroilla-norjassa-keskiviikko">
+<div><a href="/2020/03/05/matkaenduroilla-norjassa-keskiviikko">
 Matkaenduroilla Norjassa, keskiviikko</a></div>
 
-<div><a href="2020/04/05/matkaenduroilla-norjassa-torstai">
+<div><a href="/2020/04/05/matkaenduroilla-norjassa-torstai">
 Matkaenduroilla Norjassa, torstai</a></div>
 
-<div><b>Matkaenduroilla Norjassa, kotiinpaluu</b></div>
+<div>Matkaenduroilla Norjassa, kotiinpaluu</div>
 
 	
 <div>&nbsp;</div>

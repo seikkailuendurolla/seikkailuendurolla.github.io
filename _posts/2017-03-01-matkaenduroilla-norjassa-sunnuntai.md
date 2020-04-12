@@ -74,15 +74,35 @@ Motoristiserkumme otti meidän iloisesti vastaan vaikka saavuimme hänen luoksee
 herkulliset tortillat iltapalaksi. Purimme varusteemme pesuhuoneeseen ja saunaan. Varusteiden järjestelyn ja iltapalan nauttimisen
 jälkeen kävimme yölevolle, olisihan seuraavana päivänä tiedossa reissun pisin päivämatka.
 
-<div>Lue myös muut blogisarjan kirjoitukset:</div>
-<a href="/2017/02/11/matkaenduroilla-norjassa-valmistautuminen" style="float: left;">Edellinen kirjoitus</a>
+<div><b>Lue myös muut blogisarjan kirjoitukset:</b></div>
 
-<a href="/2017/06/06/matkaenduroilla-norjassa-maanantai" style="float: right;">Seuraava kirjoitus</a>
+<div><a href="/2017/02/11/matkaenduroilla-norjassa-valmistautuminen">
+Matkaenduroilla Norjassa, valmistautuminen</a></div>
 
-<p>&nbsp;</p>
+<div>
+Matkaenduroilla Norjassa, sunnuntai</div>
 
-<div style="clear:both" />
+<div><a href="/2017/06/06/matkaenduroilla-norjassa-maanantai">
+Matkaenduroilla Norjassa, maanantai</a></div>
+
+<div><a href="/2020/02/29/matkaenduroilla-norjassa-tiistai">
+Matkaenduroilla Norjassa, tiistai</a></div>
+
+<div><a href="/2020/03/05/matkaenduroilla-norjassa-keskiviikko">
+Matkaenduroilla Norjassa, keskiviikko</a></div>
+
+<div><a href="/2020/04/05/matkaenduroilla-norjassa-torstai">
+Matkaenduroilla Norjassa, torstai</a></div>
+
+<div><a href="/2020/04/12/matkaenduroilla-norjassa-kotiinpaluu">
+Matkaenduroilla Norjassa, kotiinpaluu</a></div>
+
+<div>&nbsp;</div>
+
 <i>
-Tämä on toinen kirjoitus blogisarjasta, joka kertoo moottoripyörämatkasta Norjaan elokuun alussa 2016. Lähetä sähköpostiosoitteesi minulle, mikäli haluat
-ilmoituksen seuraavista julkaisuista. Osoitteeni on <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Tämä on viimeinen kirjoitus blogisarjasta, joka kertoo
+moottoripyörämatkasta Norjaan elokuun alussa 2016. Sivun lopussa
+olevalla lomakkeella voit tilata itsellesi ilmoituksen
+sähköpostiisi uusista blogin kirjoituksista.
 </i>
+

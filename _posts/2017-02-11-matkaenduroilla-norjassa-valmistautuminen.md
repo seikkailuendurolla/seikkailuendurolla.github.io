@@ -174,13 +174,35 @@ esimmäinen ulkomaanmatka moottoripyöräillen.
 </div>
 
 <div style="clear:both" />
-<div>Lue myös muut blogisarjan kirjoitukset:</div>
-<a href="/2017/03/01/matkaenduroilla-norjassa-sunnuntai" style="float: right;">Seuraava kirjoitus</a>
-<p>&nbsp;</p>
+
+<div><b>Lue myös muut blogisarjan kirjoitukset:</b></div>
+
+<div>Matkaenduroilla Norjassa, valmistautuminen</div>
+
+<div><a href="/2017/03/01/matkaenduroilla-norjassa-sunnuntai">
+Matkaenduroilla Norjassa, sunnuntai</a></div>
+
+<div><a href="/2017/06/06/matkaenduroilla-norjassa-maanantai">
+Matkaenduroilla Norjassa, maanantai</a></div>
+
+<div><a href="/2020/02/29/matkaenduroilla-norjassa-tiistai">
+Matkaenduroilla Norjassa, tiistai</a></div>
+
+<div><a href="/2020/03/05/matkaenduroilla-norjassa-keskiviikko">
+Matkaenduroilla Norjassa, keskiviikko</a></div>
+
+<div><a href="/2020/04/05/matkaenduroilla-norjassa-torstai">
+Matkaenduroilla Norjassa, torstai</a></div>
+
+<div><a href="/2020/04/12/matkaenduroilla-norjassa-kotiinpaluu">
+Matkaenduroilla Norjassa, kotiinpaluu</a></div>
+
+<div>&nbsp;</div>
 
 <i>
-Tämä on ensimmäinen kirjoitus blogisarjasta, joka kertoo
-moottoripyörämatkasta Norjaan elokuun alussa 2016. Lähetä sähköpostiosoitteesi minulle,
-mikäli haluat ilmoituksen seuraavista julkaisuista. Osoitteeni on
-<a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+Tämä on viimeinen kirjoitus blogisarjasta, joka kertoo
+moottoripyörämatkasta Norjaan elokuun alussa 2016. Sivun lopussa
+olevalla lomakkeella voit tilata itsellesi ilmoituksen
+sähköpostiisi uusista blogin kirjoituksista.
 </i>
+
