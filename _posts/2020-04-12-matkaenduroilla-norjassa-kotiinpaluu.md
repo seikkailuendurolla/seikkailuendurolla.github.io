@@ -10,7 +10,9 @@ description: Perjantaina palasimme Suomen puolelle. Pitkästä aikaa pääsimme 
 excerpt_separator: <!--more-->
 ---
 
-Heräilimme hyvin nukutun yön jälkeen Arjeplogissa. Tässä vaiheessa 
+Heräilimme hyvin nukutun yön jälkeen
+[Arjeplogissa.](https://goo.gl/maps/x29rt5hMEmJMN5Vd9){:target="_blank"}
+Tässä vaiheessa 
 porukka oli hajaantunut, koska kaikilla ei ollut mahdollista venyttää 
 reissua lauantaille asti. Heikin ja Eskon kanssa ajattelimme kuitenkin 
 ajella Ouluun mahdollisimman pieniä teitä kierrellen.
@@ -19,6 +21,8 @@ Norjan jylhät vuoristomaisemat olivat nyt takanapäin ja fiilis vähän
 haikea reissun lähetessä loppuaan. Toisaalta oli mukava päästä ajelemaan 
 taas kunnolla sorateitä, koska Norjassa jouduimme liikkumaan pääasiassa 
 asfalttiteitä pitkin.
+
+<!--more-->
 
 <img src="/assets/norja21.jpg" style="float: right; padding: 5px;" />
 
