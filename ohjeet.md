@@ -13,7 +13,7 @@ header_image_style: "background-image: url('/assets/about-me.jpg'); background-p
 # Missä matkaendurolla saa ajaa?
 
 <b>Maastoajo</b> moottorikäyttöisellä ajoneuvolla on sallittua vain 
-maanomistajan luvalla. Maastoliikennelain neljännessä pykäkässä todetaan 
+maanomistajan luvalla. Maastoliikennelain neljännessä pykälässä todetaan 
 seuraavaa:
 
 > Moottorikäyttöisellä ajoneuvolla ei saa liikkua eikä sitä saa 
@@ -42,7 +42,7 @@ ajelusta aiheudu liikaa häiriötä tai esimerkiksi metsänhoidollista
 vahinkoa, niin sinulla on hyvät mahdollisuudet saada lupa ajeluun. 
 Taajamien läheisyydessä ei kannata maastoajoa harrastaa. Tästä seuraa 
 helposti tilanne, että alueella asuvat ihmiset häiriintyvät melusta ja 
-siitä seuraa negatiivista huomiota lajiin. Kevyillä enduropyörillä, 
+siitä seuraa negatiivista huomiota lajille. Kevyillä enduropyörillä, 
 joilla on tarkoitus ajaa pääasiassa maastossa, kannattaa hakeutua 
 seurojen kautta enduroratojen käyttäjiksi.
 
@@ -56,7 +56,7 @@ yksityisteillä, saa lähtökohtaisesti ajaa matkaendurolla, kun sitä ei
 ole liikennemerkein erikseen kielletty ja käyttö on satunnaista.
 
 Yksityistien omistaja voi kieltää tien satunnaisen käytön, mikäli kunta 
-tai valtion ei vastaa tien kunnossapidosta tai tien rakentamiseen tai 
+tai valtio ei vastaa tien kunnossapidosta tai tien rakentamiseen tai 
 ylläpitoon ei ole saatu avustusta viimeisen kymmenen vuoden aikana. 
 Tien ulkoisista seikoista et voi tätä asiaa päätellä. Näin ollen, 
 vaikka tien 
@@ -65,7 +65,7 @@ voidaan kieltää. Vapautta kannattaakin käyttää
 vastuullisesti!
 
 Lisäksi on hyvä huomioida, että ajokieltomerkin lisääminen vaatii luvan. 
-Tämän takia osasta 
+Tämän takia osassa 
 yksityisteitä ei ajokieltomerkkiä ole, vaikka omistajat eivät läpiajoa 
 haluaisi sallia. Luvan hankkiminen on oma prosessinsa ja liikennemerkki 
 on joidenkin mielestä esteettinen haitta.
@@ -79,13 +79,13 @@ seuraavia periaatteita:
 satunnaista käyttöä.
 * Pihapiirin läpi ajettaessa <b>aja ohi mahdollisimman 
 hitaasti</b>, matalilla kierroksilla ja 
-pienellä vaihteella. Sinun pitää ehtiä pysäyttämään pyöräsi vaikka 
+pienellä vaihteella. Sinun pitää ehtiä pysäyttämään pyöräsi, vaikka
 nurkan tai pensaan takaa juoksee koira tai lapsi tiellesi. 
 Turha kaasuttelu aiheuttaa tarpeetonta meluhäiriötä pihapiirissä 
 asuville.
 * <b>Huomioi tien välittömässä läheisyydessä oleva asutus</b>. 
 Asukkaita häiritsee ääni ja kovavauhtiset ohitukset, jotka koetaan 
-potentiaaliseksi vaaratilanteeksi.
+potentiaalisiksi vaaratilanteiksi.
 * <b>Toimi kohteliaasti kohdatessasi tien omistajia.</b> 
 Mikäli sinut pysäytetään yksityistiellä ajaessasi ja tässä 
 yhteydessä saat suusanallista palautetta, toimi kohteliaasti ja 
@@ -96,7 +96,7 @@ käyttöä.
 Kypärän poistaminen ja 
 kasvojen näyttäminen yleensä rauhoittaa kiivasta keskustelua.
 Näin ylläpidämme hyvää mainetta harrastajista ja vältymme 
-tarpeettomilta tiekäyttöoikeuksien estämisiltä.
+tarpeettomilta tienkäyttöoikeuksien estämisiltä.
 
 Muista, että sorateitä Suomessa riittää, vaikka niillä kaikilla ei 
 saisikaan ajaa.
