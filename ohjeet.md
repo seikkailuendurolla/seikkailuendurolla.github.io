@@ -6,7 +6,7 @@ header_slogan_class: white
 header_image_style: "background-image: url('/assets/about-me.jpg'); background-position: center bottom;"
 image: /assets/ktm-790-adventure-2.jpg
 keywords: "ohjeita, vinkkejä, laki, maastoajo, maastoliikennelaki, moottoripyöräily, matkaenduro, seikkailu endurolla"
-description: Ohjeita ja vinkkejä matkaendurolla seikkailuun. Missä matkaendurolla saa ajaa?
+description: Missä matkaendurolla saa ajaa? Mitä sinun pitää ottaa huomioon käyttäessäsi yksityisteitä?
 ---
 
 <!--
