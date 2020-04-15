@@ -47,6 +47,46 @@ Lähde:
 
 <b>Sorateitä</b> on Suomessa yli 300 000 km. Sorateillä, myös 
 yksityisteillä, saa lähtökohtaisesti ajaa matkaendurolla, kun sitä ei 
-ole liikennemerkein kielletty.
+ole liikennemerkein erikseen kielletty ja käyttö on satunnaista.
+
+Yksityistien omistaja voi kieltää tie satunnaisen käytön, mikäli kunta 
+tai valtion ei vastaa tien kunnossapidosta tai tien rakentamiseen tai 
+ylläpitoon ei ole saatu avustusta viimeisen kymmenen vuoden aikana. 
+Tietä käyttäessäsi, et voi tätä asiaa päätellä. Näin ollen, vaikka tien 
+käyttöä ei tällä hetkellä olisi kielletty, on mahdollista, että se 
+voidaan kieltää. Näin ollen vapauttaa kannattaa hyödyntää 
+vastuullisesti!
+
+Ajokieltomerkin lisääminen vaatii luvan. Tämän takia osasta 
+yksityisteitä ei ajokieltomerkkiä löydy, vaikka omistajat eivät läpiajoa 
+haluaisi sallia. Luvan hankkiminen on oma prosessinsa ja liikennemerkki 
+on myös joidenkin asukkaiden näkökulmasta esteettinen haitta.
+
+Yksityisteiden käytössä on hyvä noudattaa seuraavia periaatteita
+
+* Älä käytä tietä, jonka päässä on ajokieltomerkki.
+* <b>Vältä tien toistuvaa käyttöä</b>. Yleinen käyttöoikeus koskee vain 
+satunnaista käyttöä. Mikäli yksityistien läpi ajelee satunnaisesti 
+vaikka joka toinen viikko yksi moottoripyörä, niin asukkaita tämä tuskin 
+häiritsee. Jos taas aja hana auki tien läpi säännöllisesti useita 
+kertoja päivässä, vaaratilanteita aiheuttaen, kielto merkit ilmestyvät 
+nopeasti tien päihin.
+* Mikäli tie kulkee pihapiirin läpi, <b>aja ohi mahdollisimma 
+hitaasti</b>, matalilla kierroksilla ja 
+pienellä vaihteella. Sinun pitää ehtiä pysäyttämään pyöräsi vaikka 
+nurkan tai pensaan takaa hyppää koira tai lapsi tiellesi. Kaasuttelu 
+aiheuttaa tarpeetonta meluhäiriötä asukkaille.
+* <b>Huomioi tien välittömässä läheisyydessä oleva asutus</b>. 
+Asukkaita häiritsee ääni ja kovavauhtiset ohitukset, jotka koetaan 
+potenttiaalisiksi vaaratilanteiksi.
+* Mikäli sinut pysäytetään yksityistiellä ajaessasi ja annetaan 
+suusanallista palautetta, ettei tietä saisi käyttää. Tässä tilanteessa 
+käyttäydy rauhallisesti ja älä ryhdy väittelemään keskustelukumppanin 
+kanssa tai käymään läpi pykälie tieliikenne laista. Helpointa on myöntää 
+virheensä ja antaa lupaus välttää tien käyttöä. Näin ylläpidämme hyvää 
+mainetta harrastajista ja vältymme tarpeettomilta tiekäyttöoikeuksien 
+estämisiltä.
+
+[Yksityistielaki](https://www.finlex.fi/fi/laki/alkup/2018/20180560)
 
 
