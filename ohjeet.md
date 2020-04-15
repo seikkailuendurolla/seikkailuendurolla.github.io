@@ -13,7 +13,10 @@ description: Ohjeita ja vinkkejä matkaendurolla seikkailuun. Missä matkaenduro
 <div style="color: red;">Tämän sivun sisältö on vielä kesken</div>
 -->
 
+<a name="missa_matkaendurolla_saa_ajaa"></a>
+
 # Missä matkaendurolla saa ajaa?
+
 
 <b>Maastoajo</b> moottorikäyttöisellä ajoneuvolla on sallittua vain 
 maanomistajan luvalla. Maastoliikennelain neljännessä pykälässä todetaan 
