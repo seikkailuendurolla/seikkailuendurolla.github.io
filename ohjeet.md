@@ -26,9 +26,13 @@ Kolmannessa pykälässä maasto on määritetty seuraavasti:
 > 2) maastolla maa-aluetta ja jääpeitteistä vesialuetta, joka ei ole tie 
 ja jota ei ole tarkoitettu moottoriajoneuvo-, kisko- tai ilmaliikenteeseen.
 
-Käytännössä, jos polku tai ura ei ole tavallisella henkilöautolla 
-ajettavissa, niin kyse on maastoajosta. Lapissa voi autollakin 
-ajettavissa oleva ura kuulua maastoajon piiriin.
+Maastoajon piiriin kuuluvat urat ja polut eroitat tiestä helpoiten 
+[peruskartan](https://asiointi.maanmittauslaitos.fi/karttapaikka/) 
+merkinnöistä. Mikäli ura on merkitty karttaan 
+katkoviivalla, uralla ajaminen luetaan maastoajoksi. Vastaavasti 
+yhtenäinen viiva tarkoitaa tietä, eikä sitä lueta maastoksi. 
+Moottorikelkkareiteillä ajaminen muilla moottoriajoneuvoilla on 
+kiellettyä.
 
 Maastoajosta pääset kuitenkin nauttimaan helposti, kun kysyt ajeluun 
 luvan maanomistajalta. Kun huomioit maanomistajan näkökulman, ettei 
