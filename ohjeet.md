@@ -6,7 +6,9 @@ header_slogan_class: white
 header_image_style: "background-image: url('/assets/about-me.jpg'); background-position: center bottom;"
 ---
 
+<!--
 <div style="color: red;">Tämän sivun sisältö on vielä kesken</div>
+-->
 
 # Missä matkaendurolla saa ajaa?
 
