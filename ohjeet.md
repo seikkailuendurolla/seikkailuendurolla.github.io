@@ -30,7 +30,7 @@ Maastoajon piiriin kuuluvat urat ja polut eroitat tiestä helpoiten
 [peruskartan](https://asiointi.maanmittauslaitos.fi/karttapaikka/) 
 merkinnöistä. Mikäli ura on merkitty karttaan 
 katkoviivalla, uralla ajaminen luetaan maastoajoksi. Vastaavasti 
-yhtenäinen viiva tarkoitaa tietä, eikä sitä lueta maastoksi. 
+yhtenäinen viiva tarkoittaa tietä, eikä sitä lueta maastoksi. 
 Moottorikelkkareiteillä ajaminen muilla moottoriajoneuvoilla on 
 kiellettyä.
 
@@ -41,7 +41,7 @@ vahinkoa, niin sinulla on hyvät mahdollisuudet saada lupa ajeluun.
 Taajamien läheisyydessä ei kannata maastoajoa harrastaa. Tästä seuraa 
 helposti tilanne, että alueella asuvat ihmiset häiriintyvät melusta ja 
 siitä seuraa negatiivista huomiota lajiin. Kevyillä enduropyörillä, 
-joilla on taroitus ajaa pääasiassa maastossa, kannattaa hakeutua 
+joilla on tarkoitus ajaa pääasiassa maastossa, kannattaa hakeutua 
 seurojen kautta enduroratojen käyttäjiksi.
 
 <i>
@@ -68,7 +68,7 @@ yksityisteitä ei ajokieltomerkkiä ole, vaikka omistajat eivät läpiajoa
 haluaisi sallia. Luvan hankkiminen on oma prosessinsa ja liikennemerkki 
 on joidenkin mielestä esteettinen haitta.
 
-Me kaikki voimme käytöksellämme vaikutaa siihen, kielletäänkö teiden 
+Me kaikki voimme käytöksellämme vaikuttaa siihen, kielletäänkö teiden 
 käyttöä vai ei. Yksityisteiden käytössä onkin hyvä noudattaa 
 seuraavia periaatteita:
 
