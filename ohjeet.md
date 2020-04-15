@@ -27,7 +27,7 @@ Kolmannessa pykälässä maasto on määritetty seuraavasti:
 ja jota ei ole tarkoitettu moottoriajoneuvo-, kisko- tai ilmaliikenteeseen.
 
 Käytännössä, jos polku tai ura ei ole tavallisella henkilöautolla 
-ajettavissa, niin on kyse maastoajosta. Lapissa voi autollakin 
+ajettavissa, niin kyse on maastoajosta. Lapissa voi autollakin 
 ajettavissa oleva ura kuulua maastoajon piiriin.
 
 Maastoajosta pääset kuitenkin nauttimaan helposti, kun kysyt ajeluun 
@@ -49,44 +49,52 @@ Lähde:
 yksityisteillä, saa lähtökohtaisesti ajaa matkaendurolla, kun sitä ei 
 ole liikennemerkein erikseen kielletty ja käyttö on satunnaista.
 
-Yksityistien omistaja voi kieltää tie satunnaisen käytön, mikäli kunta 
+Yksityistien omistaja voi kieltää tien satunnaisen käytön, mikäli kunta 
 tai valtion ei vastaa tien kunnossapidosta tai tien rakentamiseen tai 
 ylläpitoon ei ole saatu avustusta viimeisen kymmenen vuoden aikana. 
-Tietä käyttäessäsi, et voi tätä asiaa päätellä. Näin ollen, vaikka tien 
+Tien ulkoisista seikoista, et voi tätä asiaa päätellä. Näin ollen, 
+vaikka tien 
 käyttöä ei tällä hetkellä olisi kielletty, on mahdollista, että se 
-voidaan kieltää. Näin ollen vapauttaa kannattaa hyödyntää 
+voidaan kieltää. Vapauttaa kannattaakin käyttää 
 vastuullisesti!
 
-Ajokieltomerkin lisääminen vaatii luvan. Tämän takia osasta 
-yksityisteitä ei ajokieltomerkkiä löydy, vaikka omistajat eivät läpiajoa 
+Lisäksi on hyvä huomioida, että ajokieltomerkin lisääminen vaatii luvan. 
+Tämän takia osasta 
+yksityisteitä ei ajokieltomerkkiä ole, vaikka omistajat eivät läpiajoa 
 haluaisi sallia. Luvan hankkiminen on oma prosessinsa ja liikennemerkki 
-on myös joidenkin asukkaiden näkökulmasta esteettinen haitta.
+on joidenkin mielestä esteettinen haitta.
 
-Yksityisteiden käytössä on hyvä noudattaa seuraavia periaatteita
+Me kaikki voimme käytöksellämme vaikutaa siihen, kielletäänkö teiden 
+käyttöä vai ei. Yksityisteiden käytössä onkin hyvä noudattaa 
+seuraavia periaatteita:
 
-* Älä käytä tietä, jonka päässä on ajokieltomerkki.
+* <b>Älä käytä tietä, jonka päässä on ajokieltomerkki.</b>
 * <b>Vältä tien toistuvaa käyttöä</b>. Yleinen käyttöoikeus koskee vain 
-satunnaista käyttöä. Mikäli yksityistien läpi ajelee satunnaisesti 
-vaikka joka toinen viikko yksi moottoripyörä, niin asukkaita tämä tuskin 
-häiritsee. Jos taas aja hana auki tien läpi säännöllisesti useita 
-kertoja päivässä, vaaratilanteita aiheuttaen, kielto merkit ilmestyvät 
-nopeasti tien päihin.
-* Mikäli tie kulkee pihapiirin läpi, <b>aja ohi mahdollisimma 
+satunnaista käyttöä.
+* Pihapiirin läpi ajatteassa <b>aja ohi mahdollisimma 
 hitaasti</b>, matalilla kierroksilla ja 
 pienellä vaihteella. Sinun pitää ehtiä pysäyttämään pyöräsi vaikka 
-nurkan tai pensaan takaa hyppää koira tai lapsi tiellesi. Kaasuttelu 
-aiheuttaa tarpeetonta meluhäiriötä asukkaille.
+nurkan tai pensaan takaa hyppää koira tai lapsi tiellesi. 
+Turha kaasuttelu aiheuttaa tarpeetonta meluhäiriötä pihapiirissä 
+asuville.
 * <b>Huomioi tien välittömässä läheisyydessä oleva asutus</b>. 
 Asukkaita häiritsee ääni ja kovavauhtiset ohitukset, jotka koetaan 
 potenttiaalisiksi vaaratilanteiksi.
-* Mikäli sinut pysäytetään yksityistiellä ajaessasi ja annetaan 
-suusanallista palautetta, ettei tietä saisi käyttää. Tässä tilanteessa 
-käyttäydy rauhallisesti ja älä ryhdy väittelemään keskustelukumppanin 
-kanssa tai käymään läpi pykälie tieliikenne laista. Helpointa on myöntää 
-virheensä ja antaa lupaus välttää tien käyttöä. Näin ylläpidämme hyvää 
-mainetta harrastajista ja vältymme tarpeettomilta tiekäyttöoikeuksien 
-estämisiltä.
+* <b>Toimi kohteliaasti kohdatessasi tien omistajia.</b> 
+Mikäli sinut pysäytetään yksityistiellä ajaessasi ja tässä 
+yhteydessä saat suusanallista palautetta, toimi kohteliaasti ja 
+kuuntele palaute rauhallisesti. Älä ryhdy väittelemään 
+keskustelukumppanin kanssa tai käymään läpi tieliikennelain pykäliä. 
+Helpointa on myöntää virheensä ja antaa tarvittaessa lupaus välttää tien 
+käyttöä. Näin ylläpidämme hyvää mainetta harrastajista ja vältymme 
+tarpeettomilta tiekäyttöoikeuksien estämisiltä. Kypärän poistaminen ja 
+kasvojen näyttäminen yleensä rauhoittaa kiivasta keskustelua.
 
+Muista, että sorateitä Suomessa riittää, vaikka niillä kaikilla ei 
+saisikaan ajaa.
+
+<i>
+Lähde: 
 [Yksityistielaki](https://www.finlex.fi/fi/laki/alkup/2018/20180560)
-
+</i>
 
