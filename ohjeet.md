@@ -42,7 +42,7 @@ Taajamien läheisyydessä ei kannata maastoajoa harrastaa. Tästä seuraa
 helposti tilanne, että alueella asuvat ihmiset häiriintyvät melusta ja 
 siitä seuraa negatiivista huomiota lajiin. Kevyillä enduropyörillä, 
 joilla on tarkoitus ajaa pääasiassa maastossa, kannattaa hakeutua 
-seurojen kautta enduro ratojen käyttäjiksi.
+seurojen kautta enduroratojen käyttäjiksi.
 
 <i>
 Lähde: 
@@ -56,7 +56,7 @@ ole liikennemerkein erikseen kielletty ja käyttö on satunnaista.
 Yksityistien omistaja voi kieltää tien satunnaisen käytön, mikäli kunta 
 tai valtion ei vastaa tien kunnossapidosta tai tien rakentamiseen tai 
 ylläpitoon ei ole saatu avustusta viimeisen kymmenen vuoden aikana. 
-Tien ulkoisista seikoista, et voi tätä asiaa päätellä. Näin ollen, 
+Tien ulkoisista seikoista et voi tätä asiaa päätellä. Näin ollen, 
 vaikka tien 
 käyttöä ei tällä hetkellä olisi kielletty, on mahdollista, että se 
 voidaan kieltää. Vapautta kannattaakin käyttää 
@@ -78,7 +78,7 @@ satunnaista käyttöä.
 * Pihapiirin läpi ajettaessa <b>aja ohi mahdollisimman 
 hitaasti</b>, matalilla kierroksilla ja 
 pienellä vaihteella. Sinun pitää ehtiä pysäyttämään pyöräsi vaikka 
-nurkan tai pensaan takaa hyppää koira tai lapsi tiellesi. 
+nurkan tai pensaan takaa juoksee koira tai lapsi tiellesi. 
 Turha kaasuttelu aiheuttaa tarpeetonta meluhäiriötä pihapiirissä 
 asuville.
 * <b>Huomioi tien välittömässä läheisyydessä oleva asutus</b>. 
@@ -90,9 +90,11 @@ yhteydessä saat suusanallista palautetta, toimi kohteliaasti ja
 kuuntele palaute rauhallisesti. Älä ryhdy väittelemään 
 keskustelukumppanin kanssa tai käymään läpi tieliikennelain pykäliä. 
 Helpointa on myöntää virheensä ja antaa tarvittaessa lupaus välttää tien 
-käyttöä. Näin ylläpidämme hyvää mainetta harrastajista ja vältymme 
-tarpeettomilta tie käyttöoikeuksien estämisiltä. Kypärän poistaminen ja 
+käyttöä.
+Kypärän poistaminen ja 
 kasvojen näyttäminen yleensä rauhoittaa kiivasta keskustelua.
+Näin ylläpidämme hyvää mainetta harrastajista ja vältymme 
+tarpeettomilta tiekäyttöoikeuksien estämisiltä.
 
 Muista, että sorateitä Suomessa riittää, vaikka niillä kaikilla ei 
 saisikaan ajaa.
