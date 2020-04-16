@@ -103,6 +103,9 @@ Kypärän poistaminen ja
 kasvojen näyttäminen yleensä rauhoittaa kiivasta keskustelua.
 Näin ylläpidämme hyvää mainetta harrastajista ja vältymme 
 tarpeettomilta tienkäyttöoikeuksien estämisiltä.
+* Kohdatessasi tiellä hevosen <b>hiljennä vauhti minimiin</b>, vältä 
+äkkinäisiä liikkeitä ja ääniä. Pysähdy, jos ratsastaja sitä pyytää 
+käsimerkillä. Nosta nopeutta vasta reilusti ohituksen jälkeen.
 
 Muista, että sorateitä Suomessa riittää, vaikka niillä kaikilla ei 
 saisikaan ajaa.
