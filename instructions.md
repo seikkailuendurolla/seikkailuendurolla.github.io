@@ -13,7 +13,7 @@ description: Where can you drive an adventure bike in Finland?
 
 # Where can you drive an adventure bike in Finland?
 
-#### Off-road
+#### Off-roads
 
 Driving by a motor powered vehicle outside of normal roads (in the 
 terrain or “off-road”) in Finland is allowed only by the permission of 
