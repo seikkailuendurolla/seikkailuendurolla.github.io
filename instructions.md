@@ -11,6 +11,8 @@ description: Where can you drive an adventure bike in Finland?
 
 <a name="missa_matkaendurolla_saa_ajaa"></a>
 
+<i style="font-size: 0.9em">Lue tämä teksti <a href="/ohjeet/">suomeksi (in finnish)</a></i>
+
 # Where can you drive an adventure bike in Finland?
 
 #### Off-roads

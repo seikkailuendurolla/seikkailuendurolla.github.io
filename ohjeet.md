@@ -15,8 +15,9 @@ description: Missä matkaendurolla saa ajaa? Mitä sinun pitää ottaa huomioon 
 
 <a name="missa_matkaendurolla_saa_ajaa"></a>
 
-# Missä matkaendurolla saa ajaa?
+<i style="font-size: 0.9em">Read this page in <a href="/instructions/">english (englanniksi)</a></i>
 
+# Missä matkaendurolla saa ajaa?
 
 <b>Maastoajo</b> moottorikäyttöisellä ajoneuvolla on sallittua vain 
 maanomistajan luvalla. Maastoliikennelain neljännessä pykälässä todetaan 
