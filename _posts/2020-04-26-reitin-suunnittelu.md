@@ -137,5 +137,98 @@ tiedostotyyppi. Garminin kanssa käytän gpx 1.1 muotoa.
 {:style="clear: both;"}
 
 
-<div style="clear: both">a</div>
+#### Maastoreitin sisällyttäminen reittiin
+{:style="clear: both;"}
+
+Perusohjeessa kävin läpi MRA:n käytön perusteet. Seuraavassa kerrotaan, 
+kuinka voit sisällyttää reittiin osia, joita sovelluksen tiekartat eivät 
+tunne. Näin ollen voit sisällyttää reittiin teidän lisäksi maastoajoa.
+
+![Lähtötilanne](/assets/lahtotilanne.png){:class="img-right"}
+1. Lähtötilanne. Reitti on tarkoitus ajaa numerojärjestyksessä. 
+Google Maps kartat eivät kuitenkaan tunne tietä pisteiden 2 ja 3 
+välillä. Tämän takia reitti kiertää pisteiden välillä alakautta.
+{:style="clear: both;"}
+
+![Tason vaihto](/assets/tasot-kuvake.png){:class="img-right"}
+2. Vie hiiri tasot-kuvakkeen päälle, jolloin voit valita mitä 
+karttoja taustalla näytetään.
+{:style="clear: both;"}
+
+![Valitse tastakartta](/assets/valitse-kartta.png){:class="img-right"}
+3. Valitse taustakartoiksi Google Maps Satellite.
+{:style="clear: both;"}
+
+![Muut asetukset](/assets/more-options.png){:class="img-right"}
+4. Nyt huomaat, että pisteiden 2 ja 3 välillä kulkee tie. 
+Valitse hiirellä reittipiste 3 ja paina painiketta, jossa on kolme 
+pistettä (More options).
+{:style="clear: both;"}
+
+![Offroad](/assets/skip.png){:class="img-right"}
+5. Paina maastoauto-painiketta (Skip) estääksesi tien mukainen 
+reittilaskenta pisteiden 2 ja 3 välillä.
+{:style="clear: both;"}
+
+![Linnuntietä](/assets/linnuntieta.png){:class="img-right"}
+6. Nyt pisteide 2 ja 3 välillä on suora viiva, koska ohjelma ei 
+pyrikkään piirtämään viivaa teiden mukaisesti. Monessa tilanteessa 
+tämä on jo riittävä taso.
+{:style="clear: both;"}
+
+![Reitin muokkaus](/assets/offroad-reitin-saato.gif){:class="img-right"}
+7. Halutessasi voit määrittää useita reittipisteitä ja siten 
+saada maastoreitin kulkemaan paremmin uraa noudattelevaksi. Ota 
+reittiviivasta kiinni ja raaha se parempaan kohtaan. Tämän jälkeen 
+määritä vielä uudelle pisteelle ns. offroad tila.
+{:style="clear: both;"}
+
+
+![Lopullinen reitti](/assets/viimeistelty.png){:class="img-right"}
+8. Halutessasi voit edellä kuvatulla tavalla piirtää reitin 
+noudattamaan hyvinkin tarkastin ajettavaa uraa.
+{:style="clear: both;"}
+
+Edelläkuvatulla tavalla voit mihin tahansa reittiin sisällyttää 
+maastopätkiä. Voit myös määrittää asetuksista, että koko reiti on ns. 
+offroad tilassa. Tällaisia pitkiä sisältävä reitti ei toimi kaikissa 
+navigattoreissa. Garmineissa, joissa reitin voi gpx tiedostosta ottaa 
+ns. jäljen avulla, voi hyödyntään tätä ominaisuutta. Muissa tapauksissa 
+navigaattori laskee reitin reittipisteiden mukaan ja Garmin ei tiedä 
+tunnista pistekohtaista asetusta, kuta MRA-sovellus. Gpx tiedosto 
+sisältää kuitenkin myös reitin ns. jälkilogina, jolloin navigaattori 
+voidaan tämän avulla saada noudattamaan orjallisesti reittiä, joka 
+sovelluksessa on suunniteltu.
+{:style="clear: both;"}
+
+#### Reittisuunnitelman jakaminen
+
+Kun olet suunnitellut reitit MRA:n avulla voit jakaa sen monella tapaa 
+ajokavereillesi. Mikäli ajokaverillasi on myös MRA käytössä, on 
+helpointa jakaa reitti sovelluksen avulla. Voi määrittää luomasi reitin 
+joko yksityiseksi, julkiseksi tai siten, että sovelluksessa kaveriksi 
+määritellyt käyttäjät näkevät sen.
+
+Voit ladata reitin tiedostoksi kaikilla yleisimmillä reittitiedosto 
+muodoilla. Lähettämällä tiedoston ajokaverillsi, hän voi ladata sen 
+omaan navigaattoriin. 
+
+Valitsemalla <b>Share</b> -> <b>Embed</b>, voit kopioida upotuskoodin 
+kotisivuillesi tai blogiin. Tällöin reitti on julkinen ja kuka tahansa 
+voi MRA:n käyttöliittymällä tutkia reittiä ja ladata halutessaan sen gpx 
+1.1. muodossa itselleen.
+
+Ohessa esimerkkinä perusohjeessa esittelemäni reitti Korpilahdelta 
+Keuruulle. Painamalla hiirve vasenta painiketta kartan päällä, pääset 
+näkemään tarkempia tietoja. Kun seuraavassa näkymässä valitset 
+"Use route", niin pääset selailemaan ja muokkaamaan reittiä MRA:n 
+käyttöliittymällä kaikilla ominaisuuksilla vaikka et olisi 
+rekisteröitynyt palveluun. 
+<div class="post-video">
+<iframe style="border:none;overflow:hidden" width="560" height="286" 
+scrolling="no" frameborder="0" 
+src="https://www.myrouteapp.com/embed/route/2964690?lang=en"></iframe>
+</div>
+<p></p>
+
 
