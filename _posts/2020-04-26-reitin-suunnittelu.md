@@ -64,29 +64,57 @@ Reitin suunnittelussa käytän työkaluna
 web-selaimella. Sen etuna on, että voit tehdä suunnittelua millä tahansa 
 tietokoneella ilman sovellusten asentamista ja karttojen latailua. 
 Reitin suunnittelu ja muokkaus onnistuu välttävästi myös 
-mobiililaitteella.
+mobiililaitteella. Suunnitelemasi reitit pysyvät pilvipalvelussa 
+tallessa ja pääset niihin käsiksi millä tahansa laitteella.
 
 # MyRoutep-app (MRA)
 
-* Sovellusta käytetään web-selaimella: https://myrouteapp.com/
-* Reitin suunnittelu, kohteita hakemalla tai hiirellä raahaamalla
-  * Reitin muuttaminen käänteiseksi
-  * Offroad osien sisällyttäminen reittiin
-  * Reittipisteiden automaattinen lisääminen, jolloin voidaan varmistaa, 
-että navigaattori menee suunniteltua reittiä pitkin
-  * 
-* Ilmainen versio ja maksulliset versiot: [a](https://www.myrouteapp.com/en/products/compare)
-* Ajetun reitin tallennus
-* Reitin laataaminen teidostona 14 eri muodossa
-* Kaikki reitit pysyvät pilvessä tallessa
-* Voit selailla mobiilisovelluksella reittejä ja ladata tiedostona
-* Voit tallentaa kulkemasi reitin mobiilisovelluksella
-* Voit valita kenen karttoja suunnittelussa käytät: Garmin (HERE), 
-TomTom, Google MAps tai OpenStreetMap
+MRA palvelun tärkeimmät ominaisuudet eri versioissa.
 
+* [Palvelu](https://myrouteapp.com){:target="_blank"} koostuu 
+tietokoneella 
+käytettävästä 
+web-sovelluksesta ja kahdesta mobiilisovelluksesta
+* Palvelusta on saatavissa rajoitettu ilmaisversio sekä erillaisilla 
+kokonaisuuksilla 
+[maksullisia](https://www.myrouteapp.com/en/products/compare){:target="_blank"}
+versioita
 
-* Ilmaisversiossa
-  * Vain OpenStreetMap kartat käytössä
+Tärkeimmät ominaisuudet, jotka ovat käytettävissä <b>kaikissa</b> 
+versioissa
+
+* Reitin suunnittelutyökalu
+  * Kohteiden ja reittipisteiden määrittäminen osoite ja paikkahaun 
+avulla
+  * Reittipisteiden määrittäminen raahaamalla olemassa olevaa reittiä 
+hiirellä uuteen paikkaan
+  * Offroad-osuuksien sisällyttäminen reittiin ts. automaattisen 
+reitityksen kytkeminen pois päältä kahden reittipisteen välillä
+  * Reitin lataaminen 14 eri tiedostomuodossa
+  * Muilla työkaluilla tehtyjen reittitiedostojen lähetys palveluun
+  * OpenStreetMap kartat
+* Mobiilisovellus
+  * Ajetun reitin tallennus matkalogiin
+  * Samat reitin suunnittelutyökalun ominaisuudet kuin tietokoneella. 
+Voit esimerkiksi helposti näyttää kaverille suunnittelemasi reitin.
+
+Tärkeimmät lisäominaisuudet, jotka ovat käytettävissä <b>Gold</b> ja 
+<b>all-in-one</b> versiossa
+
+* Reitin suunnittelutyökalu
+  * Lisäksi Google Maps, Here (Garmin) ja TomTom kartat käytettävissä
+  * Mahdollisuus verrata eri karttojen 
+automaattireititystä
+  * Reitin muuntamien käänteiseksi
+  * Reittipisteiden automaattinen lisääminen, jolloin voidaan 
+varmistaa, että navigaattori menee suunniteltua reittiä pitkin
+  * Satelliittikuvat
+ 
+Tärkeimmät lisäominaisuudet, jotka ovat käytettävissä <b>all-in-one</b> 
+ja <b>Navigation</b> versiossa
+
+* Käännösten opastuksen sisältävä navigaattori älypuhelimeen
+
 
 ## MRA käyttöohje ja vinkkejä työkalun käyttöön
 
