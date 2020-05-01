@@ -33,16 +33,19 @@ excerpt_separator: <!--more-->
 
 </div>
 
-Olen huomannut, että katupyöräilijöillä navigaattorin käyttö on aika 
-vähäistä. Lähinnä tarvetta ilmenee pidemmillä reissuilla ja lähiajelut 
-mennään muistin varaisesti. Tämä on ymmärrettävää, koska aika nopeasti 
-päälystetyt tiet ja reitit tulevat lähiseudulla tutuksi ja siten reitin 
+# Johdanto
+
+Moni kapupyöräilijä käyttää navigaattoria vain pidemmillä reissuilla ja 
+arkiajot sujuvat muistin varaisesti.
+Tämä on ymmärrettävää, koska aika nopeasti 
+päällystetyt tiet ja reitit tulevat lähiseudulla tutuksi ja siten reitin 
 suunnittelu ja navigointi tapahtuu päässä.
 
 Sorateillä ajaessa tämä ei onnistu. Tyypillisesti esim. vain tunnin 
 mittainen ajolenkki sisältää kymmeniä käännöksiä ja teitä, joita ei 
 ulkoa voi muistaa. Tämä johtuu siitä, että vaihtoehtoisia teitä ja 
-reittejä on huomattavasti enemmän, kuin asfalttiteitä. Ilman 
+reittejä on huomattavasti enemmän, kuin pelkästään asfalttiteitä 
+käytettäessä. Ilman 
 suunnittelua ja navigaattoria käykin niin, että tulee ajeltua samoja 
 teitä, joiden reitit muistaa. Suunnittelemalla aina reitin etukäteen on 
 reittiin helppo sisällyttää joko täysin tuntemattomia teitä tai teitä, 
@@ -51,7 +54,7 @@ kotoa. Näin lähiseudun moninainen maisema ja luonto tulee yhä
 tutummaksi.
 
 Reitin suunnitteluun ja hienosäätöön voi käyttää loputtomasti aikaa. 
-Helposti käykin niin, että suunnittelu tuleekin niin työlääksi, ettei 
+Helposti käykin niin, että suunnittelu tulee niin työlääksi, ettei 
 sitä viitsi tehdä. Olen pyrkinyt löytämään mahdollisimman helpon ja 
 nopean tavan suunnitella reittejä ja esittelen omat ratkaisuni tässä 
 kirjoituksessa.
