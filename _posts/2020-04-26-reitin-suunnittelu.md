@@ -14,8 +14,9 @@ excerpt_separator: <!--more-->
 
 <div style="padding-left: 0px; background-color: #f9fbfb; margin-bottom: 1em; padding: 1em; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 
-<b>Sivun sisältö</b>
+<b>Sisältö</b>
 
+* [Johdanto](#)
 * [MyRoute-app (MRA)](#)
 * [MyRoute-app käyttöohje ja vinkkejä työkalun käyttöön](#)
   * [Perusohje, reitin suunnittelu](#)
@@ -120,7 +121,8 @@ ja <b>Navigation</b> versiossa
 
 <i style="font-size: 0.9em">
 Mikäli sinulla ei ole vielä tunnuksia MyRoute-app palveluu, 
-rekisteröidy palveluun seuraavasta osoitteesta: [https://www.myrouteapp.com/en/register](https://www.myrouteapp.com/en/register)
+rekisteröidy palveluun 
+ilmaiseksi [tästä](https://www.myrouteapp.com/en/register)
 </i>
 
 #### Perusohje, reitin suunnittelu
@@ -128,13 +130,11 @@ rekisteröidy palveluun seuraavasta osoitteesta: [https://www.myrouteapp.com/en/
 Seuraavassa käydään läpi perusreitin suunnittelu Korpilahdelta 
 Keuruulle.
 
-1\. Kirjaudu sisään palveluun: 
-[https://www.myrouteapp.com/en/user/login](https://www.myrouteapp.com/en/user/login)
+1\. Kirjaudu sisään [palveluun](https://www.myrouteapp.com/en/user/login)
 
 ![Aloitus](/assets/aloitus-routes.png)
 {:class="img-right"}
-2\. Valitse asdf adf asdf asdfasd fasdf asdf asdf adadf asd fasd fasdf 
-asdfad fasd fads fadf
+2\. Valitse <b>Routes</b>
 {:class="img-text"}
 
 &nbsp;
@@ -142,7 +142,7 @@ asdfad fasd fads fadf
 
 ![Uusi reitti](/assets/new-route.png)
 {:class="img-right"}
-3\. Valitse "New" -> <b>"Route"</b>
+3\. Valitse <b>"New"</b> -> <b>"Route"</b>
 {:class="img-text"}
 
 &nbsp;
