@@ -573,15 +573,20 @@ button {
 }
 
 .img-right {
-    float: right;
-    margin-bottom: 2em;
-    width: 400px;
+    float: left;
+    clear: both;
+    margin-right: 1em;
+    max-width: 400px;
     box-shadow: 0 0 8px 1px rgba(0,0,0,0.5);
-    border: 1px solid red;
 }
 
 .img-text {
-   //float: left;
-   border: 1px solid red;
-   width: 50px;
+    margin-bottom: 2em;
+}
+
+.clear-and-empty {
+    clear: both;
+    margin: 0;
+    padding: 0;
+    height: 0px;
 }
