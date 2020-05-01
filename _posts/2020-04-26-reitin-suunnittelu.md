@@ -183,11 +183,11 @@ Keuruu
 &nbsp;
 {:class="clear-and-empty"}
 
-Tässä esimerkissä olen käyttänyt Google Maps karttoja. Näin ollen reitti 
-on laskettu Googlen avulla oletusasetuksilla ja se on järkevin 
-reitti esimerkiksi autolle.
+Tässä esimerkissä olen käyttänyt Google Maps karttoja (Gold versiossa). 
+Näin ollen reitti on laskettu Googlen avulla oletusasetuksilla ja se on 
+järkevin reitti esimerkiksi autolle.
 
-Automaattisesti laskettu reitti seurailee isoja teitä. Haluamme mehän 
+Automaattisesti laskettu reitti seurailee isoja teitä. Mehän taas 
 haluamme mielenkiintoisemman reitin, joka menee pieniä teitä pitkin. 
 Seuraavissa vaiheissa käydään läpi, kuinka valmiista reitistä saadaan 
 mielenkintoisempi.
@@ -235,7 +235,7 @@ tietä.
 11\. Zoomaa kartta lähtöpisteeseen (1.) niin lähelle, että näät tien 
 leveänä. Valiste hiirellä reittipiste, jolloin saat näkyviin valikon. 
 Oikeasta nuoli-painikeesta pääset seuraavaan reittipisteeseen samalla 
-Zoomaus-tasolla. Mikäli reittipiste ei ole keskellä tietä, raahaa piste 
+zoomaus-tasolla. Mikäli reittipiste ei ole keskellä tietä, raahaa piste 
 tielle. Valitse jälleen ko. reittipiste, jolloin voit siirtyä seuraavaan 
 reittipisteeseen nuolen avulla. Voit käyttää seuraavaan reittipisteesee 
 siirtymiseen myös nuolinäppäimiä.
@@ -324,7 +324,7 @@ tämä on jo riittävä taso.
 7\. Halutessasi voit määrittää useita reittipisteitä ja siten 
 saada maastoreitin kulkemaan paremmin uraa noudattelevaksi. Ota 
 reittiviivasta kiinni ja raaha se parempaan kohtaan. Tämän jälkeen 
-määritä vielä uudelle pisteelle ns. offroad tila.
+määritä vielä uudelle pisteelle ns. offroad tila, kuten kohdassa 5.
 {:class="img-text"}
 
 &nbsp;
@@ -344,11 +344,11 @@ maastopätkiä. Voit myös määrittää asetuksista, että koko reiti on ns.
 offroad tilassa. Tällaisia pätkiä sisältävä reitti ei toimi kaikissa
 navigattoreissa. Garmineissa, joissa reitin voi gpx tiedostosta ottaa 
 ns. jäljen avulla, voi hyödyntään tätä ominaisuutta. Muissa tapauksissa 
-navigaattori laskee reitin reittipisteiden mukaan ja Garmin ei tiedä 
-tunnista pistekohtaista asetusta, kuta MRA-sovellus. Gpx tiedosto 
-sisältää kuitenkin myös reitin ns. jälkilogina, jolloin navigaattori 
-voidaan tämän avulla saada noudattamaan orjallisesti reittiä, joka 
-sovelluksessa on suunniteltu.
+navigaattori laskee reitin reittipisteiden mukaan ja se ei tunnista 
+MRA-sovelluksessa määritettyä pistekohtaista asetusta. 
+Gpx tiedosto sisältää kuitenkin myös reitin ns. jälkilogina, jolloin 
+navigaattori voidaan tämän avulla saada noudattamaan orjallisesti 
+reittiä, joka sovelluksessa on suunniteltu.
 
 
 #### Reittisuunnitelman jakaminen
