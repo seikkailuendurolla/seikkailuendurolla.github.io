@@ -313,7 +313,7 @@ noudattamaan hyvinkin tarkastin ajettavaa uraa.
 
 Edelläkuvatulla tavalla voit mihin tahansa reittiin sisällyttää 
 maastopätkiä. Voit myös määrittää asetuksista, että koko reiti on ns. 
-offroad tilassa. Tällaisia pitkiä sisältävä reitti ei toimi kaikissa 
+offroad tilassa. Tällaisia pätkiä sisältävä reitti ei toimi kaikissa
 navigattoreissa. Garmineissa, joissa reitin voi gpx tiedostosta ottaa 
 ns. jäljen avulla, voi hyödyntään tätä ominaisuutta. Muissa tapauksissa 
 navigaattori laskee reitin reittipisteiden mukaan ja Garmin ei tiedä 
