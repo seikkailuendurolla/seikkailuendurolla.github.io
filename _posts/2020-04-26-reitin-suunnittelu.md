@@ -63,6 +63,27 @@ tietokoneella ilman sovellusten asentamista ja karttojen latailua.
 Reitin suunnittelu ja muokkaus onnistuu välttävästi myös 
 mobiililaitteella.
 
+# MyRoutep-app (MRA)
+
+* Sovellusta käytetään web-selaimella: https://myrouteapp.com/
+* Reitin suunnittelu, kohteita hakemalla tai hiirellä raahaamalla
+  * Reitin muuttaminen käänteiseksi
+  * Offroad osien sisällyttäminen reittiin
+  * Reittipisteiden automaattinen lisääminen, jolloin voidaan varmistaa, 
+että navigaattori menee suunniteltua reittiä pitkin
+  * 
+* Ilmainen versio ja maksulliset versiot: [a](https://www.myrouteapp.com/en/products/compare)
+* Ajetun reitin tallennus
+* Reitin laataaminen teidostona 14 eri muodossa
+* Kaikki reitit pysyvät pilvessä tallessa
+* Voit selailla mobiilisovelluksella reittejä ja ladata tiedostona
+* Voit tallentaa kulkemasi reitin mobiilisovelluksella
+* Voit valita kenen karttoja suunnittelussa käytät: Garmin (HERE), 
+TomTom, Google MAps tai OpenStreetMap
+
+
+* Ilmaisversiossa
+  * Vain OpenStreetMap kartat käytössä
 
 ## MRA käyttöohje ja vinkkejä työkalun käyttöön
 
