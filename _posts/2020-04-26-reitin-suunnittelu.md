@@ -10,6 +10,29 @@ description: Miten suunnittelet helposti reitin moottoripyörä retkellesi.
 excerpt_separator: <!--more-->
 ---
 
+{::options parse_block_html="true" /}
+
+<div style="padding-left: 0px; background-color: #f9fbfb; margin-bottom: 1em; padding: 1em; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+
+<b>Sivun sisältö</b>
+
+* [MyRoute-app (MRA)](#)
+* [MyRoute-app käyttöohje ja vinkkejä työkalun käyttöön](#)
+  * [Perusohje, reitin suunnittelu](#)
+  * [Maastoreitin sisällyttäminen reittiin](#)
+  * [Reittisuunnitelman jakaminen](#)
+* [Reitin lataaminen navigaattoriin](#)
+  * [Garmin](#)
+    * Garmin, USB-kaapelilla
+    * Garmin, älypuhelimella langattomasti
+  * [TomTom](#)
+    * USB-kaapelilla
+    * Pilvipalvelun kautta
+  * [muut?](#)
+
+
+</div>
+
 Olen huomannut, että katupyöräilijöillä navigaattorin käyttö on aika 
 vähäistä. Lähinnä tarvetta ilmenee pidemmillä reissuilla ja lähiajelut 
 mennään muistin varaisesti. Tämä on ymmärrettävää, koska aika nopeasti 
