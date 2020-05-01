@@ -97,64 +97,72 @@ rekisteröidy palveluun seuraavasta osoitteesta: [https://www.myrouteapp.com/en/
 Seuraavassa käydään läpi perusreitin suunnittelu Korpilahdelta 
 Keuruulle.
 
-<span>
-1. Kirjaudu sisään palveluun: 
+1\. Kirjaudu sisään palveluun: 
 [https://www.myrouteapp.com/en/user/login](https://www.myrouteapp.com/en/user/login)
-</span>
 
-![Aloitus](/assets/aloitus-routes.png){:class="img-right"}
-2. Valitse <b>"Routes"</b>
-{:style="clear: both;"}
+2\. Valitse asdf adf asdf asdfasd fasdf asdf asdf adadf asd fasd fasdf 
+asdfad fasd fads fadf
+{:class="img-text"}
+![Aloitus](/assets/aloitus-routes.png)
+{:class="img-right"}
 
+<div style="clear: both;"></div>
+
+3\. Valitse "New" -> <b>"Route"</b>
+{:class="img-text"}
 ![Uusi reitti](/assets/new-route.png){:class="img-right"}
-3. Valitse "New" -> <b>"Route"</b>
-{:style="clear: both;"}
 
+4\. Aseta reitille nimi ja valitse OK
+{:class="img-text"}
 ![Reitin nimi](/assets/route-name.png){:class="img-right"}
-4. Aseta reitille nimi ja valitse OK
-{:style="clear: both;"}
 
-![Alkupisteen haku](/assets/hae-aloitus.png){:class="img-right"}
-5. Hae aloituspiste hakukentän avulla kirjoittamalla kenttään 
-<b>korp</b> ja valitse <b>Korpilahti FI-41860 Jyväskylä</b>
-{:style="clear: both;"}
+<div>
+5\. Hae aloituspiste hakukentän avulla kirjoittamalla kenttään 
+<b>korp</b> ja valitse <b>Korpilahti FI-41860 Jyväskylä</b> 
+{:class="img-text"}
+![Hae aloituspiste](/assets/hae-aloitus.png)
+{:class="img-right"}
+ </div>
+{:style="clear: both; border: 1px solid red;"}
 
-![Lopetuspisteen haku](/assets/hae-lopetus.png){:class="img-right"}
-6. Hae lopetuspiste hakukentän avulla kirjoittamalla kenttään 
+6\. Hae lopetuspiste hakukentän avulla kirjoittamalla kenttään 
 <b>keur</b> ja valitse <b>Keuruu Keski-Suomi</b>
-{:style="clear: both;"}
+{:class="img-text"}
+![Lopetuspisteen haku](/assets/hae-lopetus.png){:class="img-right"}
 
-![Valmis reitti](/assets/reitti.png){:class="img-right"}
-7. Nyt sinulla on automaattisesti laskettu reitti välillä Korpilahti - 
+7\. Nyt sinulla on automaattisesti laskettu reitti välillä Korpilahti - 
 Keuruu
-{:style="clear: both;"}
+{:class="img-text"}
+![Valmis reitti](/assets/reitti.png){:class="img-right"}
 
 Tässä esimerkissä olen käyttänyt Google Maps karttoja. Näin ollen reitti 
 on laskettu Googlen avulla oletusasetuksilla ja valmis ja järkevin 
-reitti esimerkiksi autolle. 
+reitti esimerkiksi autolle.
 {:style="clear: both;"}
 
 Tämä reitti seurailee isoja teitä. Haluamme mielenkiintoisemman reitin, 
 joka menee pieniä teitä pitkin. Seuraavissa vaiheissa käydään läpi, 
 kuinka valmiista reitistä saadaan mielenkintoisempi.
 
-![Zoomaus](/assets/zoom.png){:class="img-right"}
-8. Zoomaa kartta lähemmäksi alkupistettä hiiren rullalla tai 
+
+8\. Zoomaa kartta lähemmäksi alkupistettä hiiren rullalla tai 
 käyttöliittymän + -painikkeella siten, että näät kartassa myös pienemmät tiet.
-{:style="clear: both;"}
+{:class="img-text"}
+
+![Zoomaus](/assets/zoom.png){:class="img-right"}
 
 
-![Reitin muuttaminen](/assets/reitin-raahaus.gif){:class="img-right"}
-9. Vie hiiri reittiviivan pääle ja paina vasen nappi pohjaan. Raahaa 
+9\. Vie hiiri reittiviivan pääle ja paina vasen nappi pohjaan. Raahaa 
 reitti haluamasi tien päälle ja päästä nappi ylös. Ohjelma laskee reitin 
 uudelleen siten, että se kiertää juuri määrittämäsi reittipisteen 
 kautta.
-{:style="clear: both;"}
+{:class="img-text"}
+![Reitin muuttaminen](/assets/reitin-raahaus.gif){:class="img-right"}
 
-![](/assets/reitin-korjaus.gif){:class="img-right"}
-10. Käy läpi koko reitti edellä mainitulla tavalla. Näin sinulla on 
+10\. Käy läpi koko reitti edellä mainitulla tavalla. Näin sinulla on 
 mielenkiintoinen reitti välillä Korpilahti - Keuruu.
-{:style="clear: both;"}
+{:class="img-text"}
+![](/assets/reitin-korjaus.gif){:class="img-right"}
 
 Lopuksi reitti pitää viimeistellä. Raahatessasi reittiä 
 uuteen kohtaan reittipiste tulee tarkalleen siihen kohtaa, johon sen 
@@ -164,21 +172,21 @@ ollen on hyvä käydä kaikki pisteet läpi ja siirtää ne keskelle
 tietä.
 {:style="clear: both;"}
 
-![Reitin viimeistely](/assets/reitin-viimeistely.gif){:class="img-right"}
-11. Zoomaa kartta lähtöpisteeseen (1.) niin lähelle, että näät tien 
+11\. Zoomaa kartta lähtöpisteeseen (1.) niin lähelle, että näät tien 
 leveänä. Valiste hiirellä reittipiste, jolloin saat näkyviin valikon. 
 Oikeasta nuoli-painikeesta pääset seuraavaan reittipisteeseen samalla 
 Zoomaus-tasolla. Mikäli reittipiste ei ole keskellä tietä, raahaa piste 
 tielle. Valitse jälleen ko. reittipiste, jolloin voit siirtyä seuraavaan 
 reittipisteeseen nuolen avulla. Voit käyttää seuraavaan reittipisteesee 
 siirtymiseen myös nuolinäppäimiä.
-{:style="clear: both;"}
+{:class="img-text"}
+![Reitin viimeistely](/assets/reitin-viimeistely.gif){:class="img-right"}
 
-![Reigin lataus](/assets/reitin-lataus.png){:class="img-right"}
-12. Lopuksi lataa reitti tietokoneellesi, jonka jälkeen voi siirtää 
+12\. Lopuksi lataa reitti tietokoneellesi, jonka jälkeen voi siirtää 
 sen navigaattoriisi. Valitse <b>"Save as"</b> ja haluamasi 
 tiedostotyyppi. Garminin kanssa käytän gpx 1.1 muotoa.
-{:style="clear: both;"}
+{:class="img-text"}
+![Reigin lataus](/assets/reitin-lataus.png){:class="img-right"}
 
 
 #### Maastoreitin sisällyttäminen reittiin
@@ -188,50 +196,50 @@ Perusohjeessa kävin läpi MRA:n käytön perusteet. Seuraavassa kerrotaan,
 kuinka voit sisällyttää reittiin osia, joita sovelluksen tiekartat eivät 
 tunne. Näin ollen voit sisällyttää reittiin teidän lisäksi maastoajoa.
 
-![Lähtötilanne](/assets/lahtotilanne.png){:class="img-right"}
-1. Lähtötilanne. Reitti on tarkoitus ajaa numerojärjestyksessä. 
+1\. Lähtötilanne. Reitti on tarkoitus ajaa numerojärjestyksessä. 
 Google Maps kartat eivät kuitenkaan tunne tietä pisteiden 2 ja 3 
 välillä. Tämän takia reitti kiertää pisteiden välillä alakautta.
-{:style="clear: both;"}
+{:class="img-text"}
+![Lähtötilanne](/assets/lahtotilanne.png){:class="img-right"}
 
-![Tason vaihto](/assets/tasot-kuvake.png){:class="img-right"}
-2. Vie hiiri tasot-kuvakkeen päälle, jolloin voit valita mitä 
+2\. Vie hiiri tasot-kuvakkeen päälle, jolloin voit valita mitä 
 karttoja taustalla näytetään.
-{:style="clear: both;"}
+{:class="img-text"}
+![Tason vaihto](/assets/tasot-kuvake.png){:class="img-right"}
 
+3\. Valitse taustakartoiksi Google Maps Satellite.
+{:class="img-text"}
 ![Valitse tastakartta](/assets/valitse-kartta.png){:class="img-right"}
-3. Valitse taustakartoiksi Google Maps Satellite.
-{:style="clear: both;"}
 
-![Muut asetukset](/assets/more-options.png){:class="img-right"}
-4. Nyt huomaat, että pisteiden 2 ja 3 välillä kulkee tie. 
+4\. Nyt huomaat, että pisteiden 2 ja 3 välillä kulkee tie. 
 Valitse hiirellä reittipiste 3 ja paina painiketta, jossa on kolme 
 pistettä (More options).
-{:style="clear: both;"}
+{:class="img-text"}
+![Muut asetukset](/assets/more-options.png){:class="img-right"}
 
-![Offroad](/assets/skip.png){:class="img-right"}
-5. Paina maastoauto-painiketta (Skip) estääksesi tien mukainen 
+5\. Paina maastoauto-painiketta (Skip) estääksesi tien mukainen 
 reittilaskenta pisteiden 2 ja 3 välillä.
-{:style="clear: both;"}
+{:class="img-text"}
+![Offroad](/assets/skip.png){:class="img-right"}
 
-![Linnuntietä](/assets/linnuntieta.png){:class="img-right"}
-6. Nyt pisteide 2 ja 3 välillä on suora viiva, koska ohjelma ei 
+6\. Nyt pisteide 2 ja 3 välillä on suora viiva, koska ohjelma ei 
 pyrikkään piirtämään viivaa teiden mukaisesti. Monessa tilanteessa 
 tämä on jo riittävä taso.
-{:style="clear: both;"}
+{:class="img-text"}
+![Linnuntietä](/assets/linnuntieta.png){:class="img-right"}
 
-![Reitin muokkaus](/assets/offroad-reitin-saato.gif){:class="img-right"}
-7. Halutessasi voit määrittää useita reittipisteitä ja siten 
+7\. Halutessasi voit määrittää useita reittipisteitä ja siten 
 saada maastoreitin kulkemaan paremmin uraa noudattelevaksi. Ota 
 reittiviivasta kiinni ja raaha se parempaan kohtaan. Tämän jälkeen 
 määritä vielä uudelle pisteelle ns. offroad tila.
-{:style="clear: both;"}
+{:class="img-text"}
+![Reitin muokkaus](/assets/offroad-reitin-saato.gif){:class="img-right"}
 
 
-![Lopullinen reitti](/assets/viimeistelty.png){:class="img-right"}
-8. Halutessasi voit edellä kuvatulla tavalla piirtää reitin 
+8\. Halutessasi voit edellä kuvatulla tavalla piirtää reitin 
 noudattamaan hyvinkin tarkastin ajettavaa uraa.
-{:style="clear: both;"}
+{:class="img-text"}
+![Lopullinen reitti](/assets/viimeistelty.png){:class="img-right"}
 
 Edelläkuvatulla tavalla voit mihin tahansa reittiin sisällyttää 
 maastopätkiä. Voit myös määrittää asetuksista, että koko reiti on ns. 
