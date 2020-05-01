@@ -106,15 +106,24 @@ Keuruulle.
 asdfad fasd fads fadf
 {:class="img-text"}
 
+&nbsp;
+{:style="clear: both;"}
+
 ![Uusi reitti](/assets/new-route.png)
 {:class="img-right"}
 3\. Valitse "New" -> <b>"Route"</b>
 {:class="img-text"}
 
+&nbsp;
+{:style="clear: both;"}
+
 ![Reitin nimi](/assets/route-name.png)
 {:class="img-right"}
 4\. Aseta reitille nimi ja valitse OK
 {:class="img-text"}
+
+&nbsp;
+{:style="clear: both;"}
 
 ![Hae aloituspiste](/assets/hae-aloitus.png)
 {:class="img-right"}
@@ -122,11 +131,17 @@ asdfad fasd fads fadf
 <b>korp</b> ja valitse <b>Korpilahti FI-41860 Jyväskylä</b> 
 {:class="img-text"}
 
+&nbsp;
+{:style="clear: both;"}
+
 ![Lopetuspisteen haku](/assets/hae-lopetus.png)
 {:class="img-right"}
 6\. Hae lopetuspiste hakukentän avulla kirjoittamalla kenttään 
 <b>keur</b> ja valitse <b>Keuruu Keski-Suomi</b>
 {:class="img-text"}
+
+&nbsp;
+{:style="clear: both;"}
 
 ![Valmis reitti](/assets/reitti.png)
 {:class="img-right"}
@@ -149,6 +164,9 @@ kuinka valmiista reitistä saadaan mielenkintoisempi.
 käyttöliittymän + -painikkeella siten, että näät kartassa myös pienemmät tiet.
 {:class="img-text"}
 
+&nbsp;
+{:style="clear: both;"}
+
 ![Reitin muuttaminen](/assets/reitin-raahaus.gif){:class="img-right"}
 9\. Vie hiiri reittiviivan pääle ja paina vasen nappi pohjaan. Raahaa 
 reitti haluamasi tien päälle ja päästä nappi ylös. Ohjelma laskee reitin 
@@ -156,10 +174,16 @@ uudelleen siten, että se kiertää juuri määrittämäsi reittipisteen
 kautta.
 {:class="img-text"}
 
+&nbsp;
+{:style="clear: both;"}
+
 ![Reitin korjaus](/assets/reitin-korjaus.gif){:class="img-right"}
 10\. Käy läpi koko reitti edellä mainitulla tavalla. Näin sinulla on 
 mielenkiintoinen reitti välillä Korpilahti - Keuruu.
 {:class="img-text"}
+
+&nbsp;
+{:style="clear: both;"}
 
 Lopuksi reitti pitää viimeistellä. Raahatessasi reittiä 
 uuteen kohtaan reittipiste tulee tarkalleen siihen kohtaa, johon sen 
@@ -179,11 +203,17 @@ reittipisteeseen nuolen avulla. Voit käyttää seuraavaan reittipisteesee
 siirtymiseen myös nuolinäppäimiä.
 {:class="img-text"}
 
+&nbsp;
+{:style="clear: both;"}
+
 ![Reigin lataus](/assets/reitin-lataus.png){:class="img-right"}
 12\. Lopuksi lataa reitti tietokoneellesi, jonka jälkeen voi siirtää 
 sen navigaattoriisi. Valitse <b>"Save as"</b> ja haluamasi 
 tiedostotyyppi. Garminin kanssa käytän gpx 1.1 muotoa.
 {:class="img-text"}
+
+&nbsp;
+{:style="clear: both;"}
 
 
 #### Maastoreitin sisällyttäminen reittiin
@@ -193,50 +223,81 @@ Perusohjeessa kävin läpi MRA:n käytön perusteet. Seuraavassa kerrotaan,
 kuinka voit sisällyttää reittiin osia, joita sovelluksen tiekartat eivät 
 tunne. Näin ollen voit sisällyttää reittiin teidän lisäksi maastoajoa.
 
+![Lähtötilanne](/assets/lahtotilanne.png)
+{:class="img-right"}
 1\. Lähtötilanne. Reitti on tarkoitus ajaa numerojärjestyksessä. 
 Google Maps kartat eivät kuitenkaan tunne tietä pisteiden 2 ja 3 
 välillä. Tämän takia reitti kiertää pisteiden välillä alakautta.
 {:class="img-text"}
-![Lähtötilanne](/assets/lahtotilanne.png){:class="img-right"}
 
+&nbsp;
+{:style="clear: both;"}
+
+![Tason vaihto](/assets/tasot-kuvake.png)
+{:class="img-right"}
 2\. Vie hiiri tasot-kuvakkeen päälle, jolloin voit valita mitä 
 karttoja taustalla näytetään.
 {:class="img-text"}
-![Tason vaihto](/assets/tasot-kuvake.png){:class="img-right"}
 
+&nbsp;
+{:style="clear: both;"}
+
+![Valitse tastakartta](/assets/valitse-kartta.png)
+{:class="img-right"}
 3\. Valitse taustakartoiksi Google Maps Satellite.
 {:class="img-text"}
-![Valitse tastakartta](/assets/valitse-kartta.png){:class="img-right"}
 
+&nbsp;
+{:style="clear: both;"}
+
+![Muut asetukset](/assets/more-options.png)
+{:class="img-right"}
 4\. Nyt huomaat, että pisteiden 2 ja 3 välillä kulkee tie. 
 Valitse hiirellä reittipiste 3 ja paina painiketta, jossa on kolme 
 pistettä (More options).
 {:class="img-text"}
-![Muut asetukset](/assets/more-options.png){:class="img-right"}
 
+&nbsp;
+{:style="clear: both;"}
+
+![Offroad](/assets/skip.png)
+{:class="img-right"}
 5\. Paina maastoauto-painiketta (Skip) estääksesi tien mukainen 
 reittilaskenta pisteiden 2 ja 3 välillä.
 {:class="img-text"}
-![Offroad](/assets/skip.png){:class="img-right"}
 
+&nbsp;
+{:style="clear: both;"}
+
+![Linnuntietä](/assets/linnuntieta.png)
+{:class="img-right"}
 6\. Nyt pisteide 2 ja 3 välillä on suora viiva, koska ohjelma ei 
 pyrikkään piirtämään viivaa teiden mukaisesti. Monessa tilanteessa 
 tämä on jo riittävä taso.
 {:class="img-text"}
-![Linnuntietä](/assets/linnuntieta.png){:class="img-right"}
 
+&nbsp;
+{:style="clear: both;"}
+
+![Reitin muokkaus](/assets/offroad-reitin-saato.gif)
+{:class="img-right"}
 7\. Halutessasi voit määrittää useita reittipisteitä ja siten 
 saada maastoreitin kulkemaan paremmin uraa noudattelevaksi. Ota 
 reittiviivasta kiinni ja raaha se parempaan kohtaan. Tämän jälkeen 
 määritä vielä uudelle pisteelle ns. offroad tila.
 {:class="img-text"}
-![Reitin muokkaus](/assets/offroad-reitin-saato.gif){:class="img-right"}
 
+&nbsp;
+{:style="clear: both;"}
 
+![Lopullinen reitti](/assets/viimeistelty.png)
+{:class="img-right"}
 8\. Halutessasi voit edellä kuvatulla tavalla piirtää reitin 
 noudattamaan hyvinkin tarkastin ajettavaa uraa.
 {:class="img-text"}
-![Lopullinen reitti](/assets/viimeistelty.png){:class="img-right"}
+
+&nbsp;
+{:style="clear: both;"}
 
 Edelläkuvatulla tavalla voit mihin tahansa reittiin sisällyttää 
 maastopätkiä. Voit myös määrittää asetuksista, että koko reiti on ns. 
