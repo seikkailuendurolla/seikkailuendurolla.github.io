@@ -16,12 +16,12 @@ excerpt_separator: <!--more-->
 
 <b>Sisältö</b>
 
-* [Johdanto](#)
-* [MyRoute-app (MRA)](#)
-* [MyRoute-app käyttöohje ja vinkkejä työkalun käyttöön](#)
-  * [Perusohje, reitin suunnittelu](#)
-  * [Maastoreitin sisällyttäminen reittiin](#)
-  * [Reittisuunnitelman jakaminen](#)
+* [Johdanto](#johdanto)
+* [MyRoute-app (MRA)](#myroute-app-mra)
+* [MyRoute-app käyttöohje ja vinkkejä työkalun käyttöön](#mra-kyttohje-ja-vinkkej-tykalun-kyttn)
+  * [Perusohje, reitin suunnittelu](#perusohje-reitin-suunnittelu)
+  * [Maastoreitin sisällyttäminen reittiin](#maastoreitin-sisllyttminen-reittiin)
+  * [Reittisuunnitelman jakaminen](#reittisuunnitelman-jakaminen)
 * [Reitin lataaminen navigaattoriin](#)
   * [Garmin](#)
     * Garmin, USB-kaapelilla
@@ -68,7 +68,7 @@ Reitin suunnittelu ja muokkaus onnistuu välttävästi myös
 mobiililaitteella. Suunnitelemasi reitit pysyvät pilvipalvelussa 
 tallessa ja pääset niihin käsiksi millä tahansa laitteella.
 
-# MyRoutep-app (MRA)
+# MyRoute-app (MRA)
 
 MRA palvelun tärkeimmät ominaisuudet eri versioissa.
 
