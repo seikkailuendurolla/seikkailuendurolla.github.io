@@ -110,7 +110,7 @@ asdfad fasd fads fadf
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
 ![Uusi reitti](/assets/new-route.png)
 {:class="img-right"}
@@ -118,7 +118,7 @@ asdfad fasd fads fadf
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
 ![Reitin nimi](/assets/route-name.png)
 {:class="img-right"}
@@ -126,7 +126,7 @@ asdfad fasd fads fadf
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
 ![Hae aloituspiste](/assets/hae-aloitus.png)
 {:class="img-right"}
@@ -135,7 +135,7 @@ asdfad fasd fads fadf
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
 ![Lopetuspisteen haku](/assets/hae-lopetus.png)
 {:class="img-right"}
@@ -144,7 +144,7 @@ asdfad fasd fads fadf
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
 ![Valmis reitti](/assets/reitti.png)
 {:class="img-right"}
@@ -152,25 +152,30 @@ asdfad fasd fads fadf
 Keuruu
 {:class="img-text"}
 
+&nbsp;
+{:class="clear-and-empty"}
+
 Tässä esimerkissä olen käyttänyt Google Maps karttoja. Näin ollen reitti 
-on laskettu Googlen avulla oletusasetuksilla ja valmis ja järkevin 
+on laskettu Googlen avulla oletusasetuksilla ja se on järkevin 
 reitti esimerkiksi autolle.
-{:style="clear: both;"}
 
-Tämä reitti seurailee isoja teitä. Haluamme mielenkiintoisemman reitin, 
-joka menee pieniä teitä pitkin. Seuraavissa vaiheissa käydään läpi, 
-kuinka valmiista reitistä saadaan mielenkintoisempi.
+Automaattisesti laskettu reitti seurailee isoja teitä. Haluamme mehän 
+haluamme mielenkiintoisemman reitin, joka menee pieniä teitä pitkin. 
+Seuraavissa vaiheissa käydään läpi, kuinka valmiista reitistä saadaan 
+mielenkintoisempi.
 
 
-![Zoomaus](/assets/zoom.png){:class="img-right"}
+![Zoomaus](/assets/zoom.png)
+{:class="img-right"}
 8\. Zoomaa kartta lähemmäksi alkupistettä hiiren rullalla tai 
 käyttöliittymän + -painikkeella siten, että näät kartassa myös pienemmät tiet.
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
-![Reitin muuttaminen](/assets/reitin-raahaus.gif){:class="img-right"}
+![Reitin muuttaminen](/assets/reitin-raahaus.gif)
+{:class="img-right"}
 9\. Vie hiiri reittiviivan pääle ja paina vasen nappi pohjaan. Raahaa 
 reitti haluamasi tien päälle ja päästä nappi ylös. Ohjelma laskee reitin 
 uudelleen siten, että se kiertää juuri määrittämäsi reittipisteen 
@@ -178,15 +183,16 @@ kautta.
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
-![Reitin korjaus](/assets/reitin-korjaus.gif){:class="img-right"}
+![Reitin korjaus](/assets/reitin-korjaus.gif)
+{:class="img-right"}
 10\. Käy läpi koko reitti edellä mainitulla tavalla. Näin sinulla on 
 mielenkiintoinen reitti välillä Korpilahti - Keuruu.
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
 Lopuksi reitti pitää viimeistellä. Raahatessasi reittiä 
 uuteen kohtaan reittipiste tulee tarkalleen siihen kohtaa, johon sen 
@@ -194,9 +200,10 @@ hiirellä päästät. Siten ne eivät ole tarkasti tien kohdalla. Tästä
 voi seurata, että navigaattori opastaa sinua tien sivuun. Näin 
 ollen on hyvä käydä kaikki pisteet läpi ja siirtää ne keskelle 
 tietä.
-{:style="clear: both;"}
 
-![Reitin viimeistely](/assets/reitin-viimeistely.gif){:class="img-right"}
+
+![Reitin viimeistely](/assets/reitin-viimeistely.gif)
+{:class="img-right"}
 11\. Zoomaa kartta lähtöpisteeseen (1.) niin lähelle, että näät tien 
 leveänä. Valiste hiirellä reittipiste, jolloin saat näkyviin valikon. 
 Oikeasta nuoli-painikeesta pääset seuraavaan reittipisteeseen samalla 
@@ -207,20 +214,22 @@ siirtymiseen myös nuolinäppäimiä.
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
-![Reigin lataus](/assets/reitin-lataus.png){:class="img-right"}
-12\. Lopuksi lataa reitti tietokoneellesi, jonka jälkeen voi siirtää 
+![Reigin lataus](/assets/reitin-lataus.png)
+{:class="img-right"}
+12\. Lopuksi lataa reitti tietokoneellesi, jonka jälkeen voit siirtää 
 sen navigaattoriisi. Valitse <b>"Save as"</b> ja haluamasi 
-tiedostotyyppi. Garminin kanssa käytän gpx 1.1 muotoa.
+tiedostotyyppi. Garminin kanssa käytän gpx 1.1 (route, track, POI) 
+muotoa.
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
+<p>&nbsp;</p>
 
 #### Maastoreitin sisällyttäminen reittiin
-{:style="clear: both;"}
 
 Perusohjeessa kävin läpi MRA:n käytön perusteet. Seuraavassa kerrotaan, 
 kuinka voit sisällyttää reittiin osia, joita sovelluksen tiekartat eivät 
@@ -234,7 +243,7 @@ välillä. Tämän takia reitti kiertää pisteiden välillä alakautta.
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
 ![Tason vaihto](/assets/tasot-kuvake.png)
 {:class="img-right"}
@@ -243,7 +252,7 @@ karttoja taustalla näytetään.
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
 ![Valitse tastakartta](/assets/valitse-kartta.png)
 {:class="img-right"}
@@ -251,7 +260,7 @@ karttoja taustalla näytetään.
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
 ![Muut asetukset](/assets/more-options.png)
 {:class="img-right"}
@@ -261,7 +270,7 @@ pistettä (More options).
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
 ![Offroad](/assets/skip.png)
 {:class="img-right"}
@@ -270,7 +279,7 @@ reittilaskenta pisteiden 2 ja 3 välillä.
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
 ![Linnuntietä](/assets/linnuntieta.png)
 {:class="img-right"}
@@ -280,7 +289,7 @@ tämä on jo riittävä taso.
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
 ![Reitin muokkaus](/assets/offroad-reitin-saato.gif)
 {:class="img-right"}
@@ -291,7 +300,7 @@ määritä vielä uudelle pisteelle ns. offroad tila.
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
 ![Lopullinen reitti](/assets/viimeistelty.png)
 {:class="img-right"}
@@ -300,7 +309,7 @@ noudattamaan hyvinkin tarkastin ajettavaa uraa.
 {:class="img-text"}
 
 &nbsp;
-{:style="clear: both;"}
+{:class="clear-and-empty"}
 
 Edelläkuvatulla tavalla voit mihin tahansa reittiin sisällyttää 
 maastopätkiä. Voit myös määrittää asetuksista, että koko reiti on ns. 
@@ -312,7 +321,7 @@ tunnista pistekohtaista asetusta, kuta MRA-sovellus. Gpx tiedosto
 sisältää kuitenkin myös reitin ns. jälkilogina, jolloin navigaattori 
 voidaan tämän avulla saada noudattamaan orjallisesti reittiä, joka 
 sovelluksessa on suunniteltu.
-{:style="clear: both;"}
+
 
 #### Reittisuunnitelman jakaminen
 
