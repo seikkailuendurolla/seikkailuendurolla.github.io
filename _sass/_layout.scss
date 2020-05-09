@@ -586,7 +586,28 @@ button {
 
 .clear-and-empty {
     clear: both;
-    margin: 0;
+    margin: 1em;
     padding: 0;
     height: 0px;
+}
+
+h4.ohje {
+    font-weight: bold;
+}
+
+h1.ohje {
+    padding-left: 0.3em;
+    color: #1a83a2;
+    font-weight: bold;
+    background-color: #c0ecfd;
+    // box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    box-shadow: 0 0px 6px rgb(81, 147, 173);
+}
+
+.sisalto {
+    padding-left: 0px;
+    background-color: #f9fbfb;
+    margin-bottom: 1em;
+    padding: 1em;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }

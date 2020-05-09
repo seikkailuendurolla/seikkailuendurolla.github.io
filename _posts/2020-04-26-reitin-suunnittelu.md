@@ -12,29 +12,30 @@ excerpt_separator: <!--more-->
 
 {::options parse_block_html="true" /}
 
-<div style="padding-left: 0px; background-color: #f9fbfb; margin-bottom: 1em; padding: 1em; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
 
-<b>Sisältö</b>
+<div>
+
+**Sisältö**
 
 * [Johdanto](#johdanto)
-* [MyRoute-app (MRA)](#myroute-app-mra)
-* [MyRoute-app käyttöohje ja vinkkejä työkalun käyttöön](#mra-kyttohje-ja-vinkkej-tykalun-kyttn)
-  * [Perusohje, reitin suunnittelu](#perusohje-reitin-suunnittelu)
-  * [Maastoreitin sisällyttäminen reittiin](#maastoreitin-sisllyttminen-reittiin)
+* [MyRoute-app (MRA)](#myroute-app)
+* [MRA käyttöohje ja vinkkejä työkalun käyttöön](#mra-kayttoohje-ja-vinkkeja)
+  * [Perusohje, reitin suunnittelu](#reitin-suunnittelu)
+  * [Maastoreitin sisällyttäminen reittiin](#maastoreitin-sisallyttaminen-reittiin)
   * [Reittisuunnitelman jakaminen](#reittisuunnitelman-jakaminen)
-* [Reitin lataaminen navigaattoriin](#)
-  * [Garmin](#)
-    * Garmin, USB-kaapelilla
-    * Garmin, älypuhelimella langattomasti
-  * [TomTom](#)
-    * USB-kaapelilla
-    * Pilvipalvelun kautta
-  * [muut?](#)
-
+* [Reitin lataaminen navigaattoriin](#reitin-lataaminen-navigaattoriin)
+  * [Garmin](#reitin-langaton-lataaminen-garmin-zumo-navigaattoriin)
+    * [Reitin langaton lataaminen Garmin Zumo 346/396 navigaattoriin](#reitin-langaton-lataaminen-garmin-zumo-navigaattoriin)
+    * [Reitin lataaminen USB-kaapelin avulla Garmin Zumo navigaattoriin](#reitin-lataaminen-usb-kaapelin-avulla-garmin-zumo-navigaattoriin)
 
 </div>
+{:.sisalto}
+
+<a name="johdanto">&nbsp;</a>
 
 # Johdanto
+{:.ohje}
+{:id="title-johdanto"}
 
 Moni kapupyöräilijä käyttää navigaattoria vain pidemmillä reissuilla ja 
 arkiajot sujuvat muistin varaisesti.
@@ -68,7 +69,10 @@ Reitin suunnittelu ja muokkaus onnistuu välttävästi myös
 mobiililaitteella. Suunnitelemasi reitit pysyvät pilvipalvelussa 
 tallessa ja pääset niihin käsiksi millä tahansa laitteella.
 
+<a name="myroute-app">&nbsp;</a>
+
 # MyRoute-app (MRA)
+{:.ohje}
 
 MRA palvelun tärkeimmät ominaisuudet eri versioissa.
 
@@ -81,7 +85,7 @@ kokonaisuuksilla
 [maksullisia](https://www.myrouteapp.com/en/products/compare){:target="_blank"}
 versioita
 
-Tärkeimmät ominaisuudet, jotka ovat käytettävissä <b>kaikissa</b> 
+Tärkeimmät ominaisuudet, jotka ovat käytettävissä **kaikissa** 
 versioissa
 
 * Reitin suunnittelutyökalu
@@ -116,16 +120,31 @@ ja <b>Navigation</b> versiossa
 
 * Käännösten opastuksen sisältävä navigaattori älypuhelimeen
 
+<a name="mra-kayttoohje-ja-vinkkeja">&nbsp;</a>
 
-## MRA käyttöohje ja vinkkejä työkalun käyttöön
+# MRA käyttöohje ja vinkkejä työkalun käyttöön
+{:.ohje}
+
+<div>
+
+* [Perusohje, reitin suunnittelu](#reitin-suunnittelu)
+* [Maastoreitin sisällyttäminen reittiin](#maastoreitin-sisallyttaminen-reittiin)
+* [Reittisuunnitelman jakaminen](#reittisuunnitelman-jakaminen)
+
+</div>
+{:.sisalto}
+
 
 <i style="font-size: 0.9em">
 Mikäli sinulla ei ole vielä tunnuksia MyRoute-app palveluu, 
 rekisteröidy palveluun 
-ilmaiseksi [tästä](https://www.myrouteapp.com/en/register)
+ilmaiseksi [tästä.](https://www.myrouteapp.com/en/register)
 </i>
 
+<a name="reitin-suunnittelu">&nbsp;</a>
+
 #### Perusohje, reitin suunnittelu
+{:.ohje}
 
 Seuraavassa käydään läpi perusreitin suunnittelu Korpilahdelta 
 Keuruulle.
@@ -257,7 +276,11 @@ muotoa.
 
 <p>&nbsp;</p>
 
+<a name="maastoreitin-sisallyttaminen-reittiin">&nbsp;</a>
+
 #### Maastoreitin sisällyttäminen reittiin
+{:.ohje}
+
 
 Perusohjeessa kävin läpi MRA:n käytön perusteet. Seuraavassa kerrotaan, 
 kuinka voit sisällyttää reittiin osia, joita sovelluksen tiekartat eivät 
@@ -350,8 +373,11 @@ Gpx tiedosto sisältää kuitenkin myös reitin ns. jälkilogina, jolloin
 navigaattori voidaan tämän avulla saada noudattamaan orjallisesti 
 reittiä, joka sovelluksessa on suunniteltu.
 
+<a name="reittisuunnitelman-jakaminen">&nbsp;</a>
 
 #### Reittisuunnitelman jakaminen
+{:.ohje}
+{:id="title-reittisuunnitelman-jakaminen"}
 
 Kun olet suunnitellut reitit MRA:n avulla voit jakaa sen monella tapaa 
 ajokavereillesi. Mikäli ajokaverillasi on myös MRA käytössä, on 
@@ -365,13 +391,12 @@ omaan navigaattoriin.
 
 Valitsemalla <b>Share</b> -> <b>Embed</b>, voit kopioida upotuskoodin 
 kotisivuillesi tai blogiin. Tällöin reitti on julkinen ja kuka tahansa 
-voi MRA:n käyttöliittymällä tutkia reittiä ja ladata halutessaan sen gpx 
-1.1. muodossa itselleen.
+voi MRA:n käyttöliittymällä tutkia reittiä ja ladata halutessaan sen GPX muodossa itselleen.
 
 Ohessa esimerkkinä perusohjeessa esittelemäni reitti Korpilahdelta 
 Keuruulle. Painamalla hiirve vasenta painiketta kartan päällä, pääset 
 näkemään tarkempia tietoja. Kun seuraavassa näkymässä valitset 
-"Use route", niin pääset selailemaan ja muokkaamaan reittiä MRA:n 
+**Use route**, niin pääset selailemaan ja muokkaamaan reittiä MRA:n 
 käyttöliittymällä kaikilla ominaisuuksilla vaikka et olisi 
 rekisteröitynyt palveluun. 
 <div class="post-video">
@@ -381,4 +406,124 @@ src="https://www.myrouteapp.com/embed/route/2964690?lang=en"></iframe>
 </div>
 <p></p>
 
+<a name="reitin-lataaminen-navigaattoriin">&nbsp;</a>
 
+# Reitin lataaminen navigaattoriin
+{:.ohje}
+{:id="title-reitin-lataaminen-navigaattoriin"}
+
+<div>
+
+* [Reitin langaton lataaminen Garmin Zumo 346/396 navigaattoriin](#reitin-langaton-lataaminen-garmin-zumo-navigaattoriin)
+* [Reitin lataaminen USB-kaapelin avulla Garmin Zumo navigaattoriin](#reitin-lataaminen-usb-kaapelin-avulla-garmin-zumo-navigaattoriin)
+
+</div>
+{:.sisalto}
+
+
+<a name="reitin-langaton-lataaminen-garmin-zumo-navigaattoriin">&nbsp;</a>
+
+#### Reitin langaton lataaminen Garmin Zumo 346/396 navigaattoriin  
+{:.ohje}
+
+
+Puhelimessasi pitää olla asennettuna kaksi sovellusta: 
+[MyRoute-app 
+Mobile](https://play.google.com/store/apps/details?id=com.cloudmax.myrouteapp&hl=fi){:target="_blank"}
+ja [Garmin Smartphone 
+Link.](https://play.google.com/store/apps/details?id=com.garmin.android.apps.phonelink&hl=fi){:target="_blank"}
+
+
+![](/assets/garmin-bt-1.jpg)
+{:class="img-right"}
+1\. Käynnistä Myroute-app sovellus älypuhelimessa ja valitse pääsivulta 
+**My Routes**
+{:class="img-text"}
+
+&nbsp;
+{:class="clear-and-empty"}
+
+![](/assets/garmin-bt-2.jpg)
+{:class="img-right"}
+2\. Paina reittilistasta haluamasi reitin kohdalta oikeassa 
+laidassa olevaa painiketta (kolme pistettä).
+{:class="img-text"}
+
+&nbsp;
+{:class="clear-and-empty"}
+
+![](/assets/garmin-bt-3.jpg)
+{:class="img-right"}
+3\. Valitse **Save as**
+{:class="img-text"}
+
+&nbsp;
+{:class="clear-and-empty"}
+
+![](/assets/garmin-bt-4.jpg)
+{:class="img-right"}
+4\. Vaihda tiedostotyypiksi gpx 1.0 (route, track, POI) ja valitse 
+sitten **Save**
+{:class="img-text"}
+
+&nbsp;
+{:class="clear-and-empty"}
+
+![](/assets/garmin-bt-5.jpg)
+{:class="img-right"}
+5\. Pyyhkäisen näytön ylälaidasta alaspäin, jolloin saat ilmoitukset 
+näkyviin. Valitse juuri lataamasi reittitiedosto, 
+tässä tapauksessa **Korpilahti-Keuruu.gpx.**
+{:class="img-text"}
+
+&nbsp;
+{:class="clear-and-empty"}
+
+![](/assets/garmin-bt-6.jpg)
+{:class="img-right"}
+6\. Valitse sovellukseksi **Smartphone Link**, jolla tiedosto avataan.
+{:class="img-text"}
+
+&nbsp;
+{:class="clear-and-empty"}
+
+![](/assets/garmin-bt-7.jpg)
+{:class="img-right"}
+7\. Valitse **Lähetä Zumo-laitteeseen**
+{:class="img-text"}
+
+&nbsp;
+{:class="clear-and-empty"}
+
+![](/assets/garmin-bt-8.jpg)
+{:class="img-right"}
+8\. Tämän jälkeen navigaattorissasi pitäisi näkyä kaksi ilmoitusta: 
+"Uusia jälkiä vastaanotettiin, ja ne lisättiin jälkiin", sekä "Uusia 
+matkoja vastaanotettiin, ja ne lisättiin matkasuunnitteluun".
+{:class="img-text"}
+
+&nbsp;
+{:class="clear-and-empty"}
+
+Lataamasi reitti löytyy nyt navigaattoristasi sekä **Jäljet**, että **Matkasuunnittelu** sovelluksista. Mikäli reittisi sisältää maasto-osia, et voi käyttää suoraan Matkasuunnitelusta löytyvää reittiä. Tällaisessa tilanteessa saat toimivan reitin, kun menet lataamasi reittiin **Jäljet** sovelluksessa ja valitset **Muunna matkaksi**. Lisäksi sinun pitää kytkeä navigaattoristasi pois reitin automaattinen uudelleenlaskenta.
+
+<a name="reitin-lataaminen-usb-kaapelin-avulla-garmin-zumo-navigaattoriin">&nbsp;</a>
+
+#### Reitin lataaminen USB-kaapelin avulla Garmin Zumo navigaattoriin
+{:.ohje}
+{:id="title-reitin-lataaminen-usb-kaapelin-avulla"}
+
+![Save as](/assets/save_as.png)
+{:class="img-right"}
+1\. Mene haluamasi reitin tietoihin MRA-sovelluksessa ja valitse **Save as** ja **gpx 1.0 (route, track, POI)**
+{:class="img-text"}
+
+&nbsp;
+{:class="clear-and-empty"}
+
+Kytke navigaattorisi tietokoneen USB-porttiin. Kopioi lataamasi tiedosto navigaattorin muistiin GPX-kansioon.
+
+Irrota navigaattori tietokoneesta hallitusti ja valitse navigaattorin käyttöliittymästä **Tuo reitti tiedostosta**
+
+
+<iframe style="border:none;overflow:hidden" width="100%" height="500px" scrolling="no" frameborder="0" allow="geolocation" src="https://www.myrouteapp.com/embed/map?lang=en&group=6013&fitmarkers=true"></iframe>
