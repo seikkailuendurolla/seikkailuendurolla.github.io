@@ -16,6 +16,8 @@ Twiniin. Ehdin jo pitkään odottaa pyörälle seuraajaa, joka olisi ikään
 kuin päivitetty versio n. 30 vuotta vanhasta pyörästä siten, että nyky 
 teknologiasta olisi otettu kaikki hyöty irti.
 
+<!--more-->
+
 Moottoripyörien tekniikka on mennyt paljon eteenpäin ja eri valmistajat 
 ovat tuoneet ilahduttavan paljon uusia malleja markkinoille. Jostain 
 syystä kehitys matkaenduroissa on kuitenkin painottunut pitkään muihin 
