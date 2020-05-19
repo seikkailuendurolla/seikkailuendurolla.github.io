@@ -4,7 +4,7 @@ title: Markkinoiden maastokelpoisin matkapyörä?
 header_slogan_class: white
 header_image_style: "background-image: url('/assets/ktm790adventure.jpg');"
 post_image: /assets/ktm790adventure.jpg
-image: /assets/ktm790adventure.jpg
+image: /assets/ktm790adventure2.jpg
 keywords: "moottoripyöräily, matkaenduro, seikkailu endurolla, ktm, adventure, 790"
 description: Mikä moottoripyörä on mielestäsi markkinoiden maastokelpoisin matkapyörä? Lue minun ajatukseni aiheesta!
 excerpt_separator: <!--more-->
