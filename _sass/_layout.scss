@@ -483,6 +483,12 @@ tr:nth-child(even) {
     border: 0;
 }
 
+@include media-query($on-palm) {
+    table, th, td {
+        font-size: 0.8em;
+    }
+}
+
 button {
     font-size: 4em;
     margin: 0px;
@@ -556,4 +562,12 @@ button {
     text-align: center;
     margin: 0 auto;
     max-width: 400px;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
 }
