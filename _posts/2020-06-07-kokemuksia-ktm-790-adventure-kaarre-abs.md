@@ -26,11 +26,11 @@ jarrut.
 
 790 Adventuressa on perinteisten ABS jarrujen sijaan MSC-järjestelmä 
 (Motorcycle Stability Control). Teknologia on Bosch:n ja 
-KTM yhteistyössä kehittämä ja se tuli käyttöön ensimmäisen kerran 2014. 
+KTM yhteistyössä kehittämä, ja se tuli käyttöön ensimmäisen kerran 2014. 
 Nykyisin tekniikka on käytössä muissakin merkeissä.
 
 MSC, tuttavallisemmin kaarre-ABS, sisältää sensoseita ja antureita, 
-jotka tunnistavan pyörän kallistuskulman ja nopeuden. Tämä mahdollistaa 
+jotka tunnistavat pyörän kallistuskulman ja nopeuden. Tämä mahdollistaa 
 voimakkaan jarrutuksen mutkassa siten, että pyörä pysyy kallellaan ja 
 ohjattavuus tien suuntaisesti säilyy. Perinteistä tekniikkaa 
 hyödyntäviä jarruja käytettäessä pyörä pyrkii nousemaan pystyyn ja siten 
@@ -51,52 +51,48 @@ hyvin.
 
 Ensimmäinen kokemukseni ABS-jarruista on kymmenen vuoden takaa. Olin 
 vuokrannut matkaenduron ja ajelin lähiseudun sorateitä. En hoksannut 
-erityisesti kiinnittää huomiota jarruihin saatika että olisin testannut 
+erityisesti kiinnittää huomiota jarruihin, saati että olisin testannut 
 jarrujen toimivuutta soralla. Minulle meinasikin käydä köpelösti, kun 
-jarruttaessani ennen mutkaa ei jarrukahvan painamisella ollut mitään 
+jarruttaessani ennen mutkaa, ei jarrukahvan painamisella ollut mitään 
 vaikutusta. Onneksi vauhtini ei ollut kova ja jotenkin hoksasin 
 vaistomaisesti pienentää vaihdetta ja hyödyntää moottorijarrun voimaa. 
 Taisinpa sen jälkeen kytkeä ABS-jarrut pois ajaessani ko. 
 pyörällä sorateillä.
 
-Ensikokemukseni 790 jarruista on ollut, että ne toimivat hyvin myös 
+Ensikokemukseni 790:n jarruista on ollut, että ne toimivat hyvin myös 
 soralla. 
 Olikin kiinnostavaa lähteä testaamaan jarruja vähän tarkemmin. 
 Ilman etukäteisharjoittelua suoritin viisi jarrutusta kullakin 
-asetuksilla. Road 
-tilassa ABS-jarrut on päällä sekä etu, että takarenkaassa. Offroad 
-tilassa ABS ei ole päällä takarenkaassa. ABS-jarrut saa myös kokonaan 
+asetuksella. Road-tilassa ABS-jarrut on päällä sekä etu-, että takarenkaassa. Offroad-tilassa ABS ei ole päällä takarenkaassa. ABS-jarrut saa myös kokonaan 
 kytkettyä pois päältä, mutta seuraavan käynnistyksen yhteydessä ne 
 palautuvat automaattisesti takaisin päälle.
 
 Ilman ABS-jarruja sain pyörän pysähtymään noin metrin lyhyemmällä 
-matkalla verrattuna road tilaan, jossa ABS on aktiivisena molemmilla 
+matkalla verrattuna road-tilaan, jossa ABS on aktiivisena molemmilla 
 renkailla.
 Ilman ABS:iä jarrutusmatka 
 oli aluksi 
-pidempi, koska hain rauhassa tuntumaan, kuinka paljon etujarrua kärsii 
+pidempi; hain rauhassa tuntumaa, kuinka paljon etujarrua kärsii 
 painaa. Useamman vedon jälkeen sain matkan lyhentymään, mutta lopetin 
-yrittämisen siinä vaiheessa, kun eturengas meinasi lähteä alta ja sitä 
-mukaa pyörä kaatua.
+yrittämisen siinä vaiheessa, kun eturengas meinasi lähteä alta.
 
-Lyhimmän jarrutusmatkan sain, kun ABS-jarrut olivat Offroad tilassa, 
+Lyhimmän jarrutusmatkan sain, kun ABS-jarrut olivat Offroad-tilassa, 
 jolloin takajarrulla ei ollut ABS-päällä. Pidin takarenkaan jarrutuksen 
 aikana lukossa ja tämän seurauksena jarrutusmatka lyheni n. kaksi metriä 
-road tilaan verrattuna.
+road-tilaan verrattuna.
 
 Testissä oli käytössä renkaana vähän käytetty Avon Trailrider. 
-Mielenkiintoista on myöhemmin uusia testi, kun saan alle karkemmat 
-renkaat. Pystynkö silloin voittamaan ABS-jarrut vai pystyykö teknologia 
+Mielenkiintoista on myöhemmin uusia testi karkeammilla renkailla; pystynkö silloin voittamaan ABS-jarrut vai pystyykö teknologia 
 hyödyntämään yhtälailla renkaiden paremman pidon.
 
 Tämän testin perusteella aion toistaiseksi jatkaa ajamista siten, että 
-ABS-jarrut on road tilassa. Katsotaan myöhempien kokemusten ja testien 
-perusteella, että siirrynkö käyttämmään offroad tilaa. Erityisesti 
-paniikki tilanteessa uskon teknologiasta olevan minulle kovasti hyötyä. 
+ABS-jarrut on road-tilassa. Katsotaan myöhempien kokemusten ja testien 
+perusteella, että siirrynkö käyttämmään offroad-tilaa. Erityisesti 
+paniikkitilanteessa uskon teknologiasta olevan minulle kovasti hyötyä. 
 Pyörän hallittavuus säilyy vaikka painankin molemmat jarrut 
 hätätilanteessa pohjaan.
 
-Ohessa vielä KTM Tech video, jossa käydään esimerkkien kautta läpi MSC:n 
+Ohessa vielä KTM Tech -video, jossa käydään esimerkkien kautta läpi MSC:n 
 toimintaa käytännössä.
 
 <div class="post-video">
