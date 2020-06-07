@@ -4,7 +4,7 @@ title: "Kokemuksia: KTM 790 Adventure, kaarre-ABS"
 header_slogan_class: white
 header_image_style: "background-image: url('/assets/ktm-790-adventure-5.jpg');"
 post_image: /assets/ktm-790-adventure-5.jpg
-image: /assets/ktm790adventure2.jpg
+image: /assets/ktm-790-adventure-4.jpg
 keywords: "moottoripyöräily, matkaenduro, seikkailu endurolla, ktm, adventure, 790"
 description: 
 excerpt_separator: <!--more-->
