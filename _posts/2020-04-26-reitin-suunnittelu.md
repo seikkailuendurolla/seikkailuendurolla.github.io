@@ -107,7 +107,7 @@ Tärkeimmät lisäominaisuudet, jotka ovat käytettävissä <b>Gold</b> ja
 <b>all-in-one</b> versiossa
 
 * Reitin suunnittelutyökalu
-  * Lisäksi Google Maps, Here (Garmin) ja TomTom kartat käytettävissä
+  * Lisäksi Here (Garmin) ja TomTom kartat käytettävissä
   * Mahdollisuus verrata eri karttojen 
 automaattireititystä
   * Reitin muuntamien käänteiseksi
@@ -202,9 +202,10 @@ Keuruu
 &nbsp;
 {:class="clear-and-empty"}
 
-Tässä esimerkissä olen käyttänyt Google Maps karttoja (Gold versiossa). 
-Näin ollen reitti on laskettu Googlen avulla oletusasetuksilla ja se on 
-järkevin reitti esimerkiksi autolle.
+Tässä esimerkissä olen käyttänyt HERE karttoja (Gold versiossa). 
+Näin ollen reitti on laskettu HERE (Garmin) algoritmin avulla 
+oletusasetuksilla ja se on järkevin reitti esimerkiksi autolle. Tausta 
+karttana olen käyttänyt Google Maps:n karttoja.
 
 Automaattisesti laskettu reitti seurailee isoja teitä. Mehän taas 
 haluamme mielenkiintoisemman reitin, joka menee pieniä teitä pitkin. 
@@ -253,11 +254,12 @@ tietä.
 {:class="img-right"}
 11\. Zoomaa kartta lähtöpisteeseen (1.) niin lähelle, että näät tien 
 leveänä. Valiste hiirellä reittipiste, jolloin saat näkyviin valikon. 
-Oikeasta nuoli-painikeesta pääset seuraavaan reittipisteeseen samalla 
+Oikeasta nuoli-painikeesta pääset seuraavaan 
+reittipisteeseen samalla 
 zoomaus-tasolla. Mikäli reittipiste ei ole keskellä tietä, raahaa piste 
 tielle. Valitse jälleen ko. reittipiste, jolloin voit siirtyä seuraavaan 
 reittipisteeseen nuolen avulla. Voit käyttää seuraavaan reittipisteesee 
-siirtymiseen myös nuolinäppäimiä.
+siirtymiseen myös tietokoneen nuolinäppäimiä.
 {:class="img-text"}
 
 &nbsp;
@@ -267,7 +269,7 @@ siirtymiseen myös nuolinäppäimiä.
 {:class="img-right"}
 12\. Lopuksi lataa reitti tietokoneellesi, jonka jälkeen voit siirtää 
 sen navigaattoriisi. Valitse <b>"Save as"</b> ja haluamasi 
-tiedostotyyppi. Garminin kanssa käytän gpx 1.1 (route, track, POI) 
+tiedostotyyppi. Garminin kanssa käytän gpx 1.0 (route, track, POI) 
 muotoa.
 {:class="img-text"}
 
@@ -289,7 +291,7 @@ tunne. Näin ollen voit sisällyttää reittiin teidän lisäksi maastoajoa.
 ![Lähtötilanne](/assets/lahtotilanne.png)
 {:class="img-right"}
 1\. Lähtötilanne. Reitti on tarkoitus ajaa numerojärjestyksessä. 
-Google Maps kartat eivät kuitenkaan tunne tietä pisteiden 2 ja 3 
+Kartat eivät kuitenkaan tunne tietä pisteiden 2 ja 3 
 välillä. Tämän takia reitti kiertää pisteiden välillä alakautta.
 {:class="img-text"}
 
@@ -524,6 +526,3 @@ Lataamasi reitti löytyy nyt navigaattoristasi sekä **Jäljet**, että **Matkas
 Kytke navigaattorisi tietokoneen USB-porttiin. Kopioi lataamasi tiedosto navigaattorin muistiin GPX-kansioon.
 
 Irrota navigaattori tietokoneesta hallitusti ja valitse navigaattorin käyttöliittymästä **Tuo reitti tiedostosta**
-
-
-<iframe style="border:none;overflow:hidden" width="100%" height="500px" scrolling="no" frameborder="0" allow="geolocation" src="https://www.myrouteapp.com/embed/map?lang=en&group=6013&fitmarkers=true"></iframe>
