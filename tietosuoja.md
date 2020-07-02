@@ -37,4 +37,8 @@ tarkoittaa sitä, ettei sinua seurata mitenkään tunnistettavasti, mutta
 vierailemalla sivustolla, voi sosiaalisessa mediassa näkyvät mainokset 
 muuttua enemmän moottoripyöriin liittyväksi. Mikäli estät selaimen 
 asetuksista evästeiden käytön tällä sivustolla, sivut toimivat täysin 
-normaalisti, mutta tämä mainonnan kohdentaminen ei ole enää mahdollista.
+normaalisti, mutta tämä mainonnan kohdentaminen ei ole enää mahdollista. 
+Yhteistyö kaupallisten toimijoiden kanssa mahdollistaa matkaenduroiden 
+perusteellisen testaamisen ja siten niistä kirjoittamisen. Kirjoitukseni 
+ovat kuitenkin omia subjektiivisia näkemyksiäni ja siten pyrin 
+riippumattomaan tarinointiin.
