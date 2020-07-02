@@ -3,7 +3,7 @@ layout: page
 title: Sivuston tietosuojakäytäntö
 permalink: /tietosuoja/
 header_slogan_class: white
-header_image_style: "background-image: url('/assets/about-me.jpg'); background-position: center bottom;"
+header_image_style: "background-image: url('/assets/ktm-790-adventure-5.jpg');"
 ---
 
 Sivun lopussa on lomake, jossa voit ilmoittaa minulle 
