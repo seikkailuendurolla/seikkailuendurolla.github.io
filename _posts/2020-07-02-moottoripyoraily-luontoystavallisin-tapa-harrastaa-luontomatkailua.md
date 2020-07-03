@@ -55,6 +55,6 @@ lähimatkailu tuottaa tosin vain murto-osan, verrattuna lentomatkailuun.
 Esimerkiksi yksi edestakainen lentomatka Thaimaaseen vastaan 20 000km 
 ajomatkaa moottoripyörälläni.
 
-Otsikon kysymykseen vastaus on kyllä, moottoripyöräily on 
+Otsikon kysymykseen vastaukseni on kyllä, moottoripyöräily on 
 ympäristöystävällisin tapa harrastaa luontomatkailua!
 
