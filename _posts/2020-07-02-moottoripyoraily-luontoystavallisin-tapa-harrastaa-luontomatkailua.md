@@ -35,7 +35,15 @@ matkat tulevat helposti liian pitkiksi. Moottoripyörä on tähän
 ympäristöystävällisin ratkaisu. Nykyaikaisen matkaenduron päästöt ovat 
 puolet pienemmät omaan autooni verrattuna.
 
-<img src="/assets/luonto-1.jpg" style="float: right; padding: 5px;" />
+<div style="float: right; padding: 5px;">
+  <img src="/assets/luonto-1.jpg" />
+  <div style="font-size: 0.9em; color: gray; max-width: 400px">
+    Esimerkiksi Orivedeltä löytyy hieno riippukallio ja luola, jossa 
+    voi yöpyä taivasalla kallion kieleke suojana.
+     <a href="https://goo.gl/maps/uGsUw3XZMc2sVdwcA">Sijainti 
+       kartalla</a>
+  </div>
+</div>
 
 Yleisessä keskustelussa kohtaa helposti väitteen, että moottoripyöräily 
 aiheuttaa turhia päästöjä. Tyypillisesti näiden väitteiden esittäjät 
