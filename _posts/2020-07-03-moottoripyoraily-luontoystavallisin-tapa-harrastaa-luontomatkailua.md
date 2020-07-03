@@ -2,9 +2,9 @@
 layout: post
 title: "Moottoripyöräily, luontoystävällisin tapa harrastaa luontomatkailua?"
 header_slogan_class: white
-header_image_style: "background-image: url('/assets/ktm-790-adventure-5.jpg');"
-post_image: /assets/ktm-790-adventure-5.jpg
-image: /assets/ktm-790-adventure-4.jpg
+header_image_style: "background-image: url('/assets/luonto-2.jpg');"
+post_image: /assets/luonto-2.jpg
+image: /assets/luonto-1.jpg
 keywords: "moottoripyöräily, matkaenduro, seikkailu endurolla, ktm, adventure, 790"
 description: Moottoripyöräily on minulle matkailua. Toistaiseksi pisin matka on yltänyt Norjaan asti, mutta pääasiassa olen matkaillut Suomessa, eritoten Keski-Suomessa.
 excerpt_separator: <!--more-->
