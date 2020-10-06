@@ -33,17 +33,17 @@ Ajokokemukseni kisaenduroista oli hyvin vähäistä ja se monikertaistuikin
 parituntisen aikana, kun testasin eri malleja.
 
 Koeajoa varten oli rakennettu rata, joka oli monipuolinen, mutta 
-aloittelijankin helposti lähestyttävä. Ennakkoasenteeni vaarallisesta ja 
+aloittelijallekin helposti lähestyttävä. Ennakkoasenteeni vaarallisesta ja 
 aloittelijalle huonosti sopivasta lajista vaihtui turvalliseen ja 
 hauskaan urheilulajiin. Jos ei juoksulenkillä oikein kiinnosta käydä, 
 niin tässä toisenlainen vaihtoehto urheiluun. Pyörät olivat 
-ajettavuudeltaan helppoja vaikka ne ovat suoraan valmiita myös 
+ajettavuudeltaan helppoja, vaikka ne ovat suoraan valmiita myös 
 kilpailukäyttöön.
 
 Testasin pyörät pienemmästä isompaan. Ensimmäisenä pääsin ajamaan KTM 
-150 EXC TPI pyörällä, joka on malliston pienin, 2-tahtinen ja 150 
+150 EXC TPI pyörällä, joka on malliston pienin; 2-tahtinen ja 150 
 kuutioinen enduro. Muistan, kun ensimmäisen kerran testasin 2-tahtista 
-crossipyörää josku 90-luvulla. Ajaminen alkoi sillä, että yritettiin 
+crossipyörää joskus 90-luvulla. Ajaminen alkoi sillä, että yritettiin 
 saada pyörä käyntiin. Kun ei ollut mitään tietoa, miten pyörä pitää 
 käynnistää, niin yrittämiseksihän se jäikin. Saimme vinkin, että piti 
 antaa sopivasti kaasua ja polkaisun piti olla terävä. No, kun sitä 
@@ -57,10 +57,10 @@ jälkeen pieniltä, vaikka ne ovatkin aikuisten mitoituksella tehty ja
 suurinpiirtein fyysisiltä mitoiltaan saman kokoisia pyöriä.
 
 Aiempi kokemus ja mielikuva 2-tahdeista oli, että pyörä ei väännä 
-matalilla kierroksia ja isoilla kierroksilla se meinaa lähteä käsistä. 
+matalilla kierroksilla, ja isoilla kierroksilla se meinaa lähteä käsistä. 
 Yllätyin, miten hyvin 150:n väänsi matalillakin kierroksilla. 
 Aloittelijan ajoa helpotti, kun pystyi ajamaan myös isolla vaihteella, 
-eikä kokoaikaa tarvinnut olla huipputehoilla.
+eikä koko aikaa tarvinnut olla huipputehoilla.
 
 250:ssä oli pykälän verran enemmän voimaa. 4-tahdin jälkeen sai vähän 
 totutella siihen, että 2-tahdin moottori ei jarruta vastaavalla tavalla, 
@@ -80,7 +80,7 @@ haastavien paikkojen yli.
 <img src="/assets/enduro2.jpg" style="float: right; padding-right: 15px;" />
 
 4-tahti (EXC-F) pyörillä ajaminen oli vähän tutumpaa. Mallistosta löytyi 
-neljä eri kokoluokkaa. 250 kuutoinen oli kevyt käsitellä. Toisaalta 
+neljä eri kokoluokkaa. 250-kuutoinen oli kevyt käsitellä. Toisaalta 
 tällaisella helpolla radalla isommatkaan mallit eivät tuntuneet 
 raskailta ja niiden moottorin luonne tuntui yllättäen aloittelijalle 
 jopa helpommalta. Osassa malleista oli valittavissa kaksi eri karttaa 
@@ -96,7 +96,7 @@ hakemista. Pikkuhiljaa vauhtia uskalsi nostaa sen verran, että ajo oli
 sujuvampaa. Paikalla olleelta kisakuskilta sain vinkin siirtää 
 painopistettä mutkissa eteen, jolloin eturenkaan pito on parempi. Loppua 
 kohden alkoi ajoon löytyä vähän rentoutta sitä myöten hauskuuskerroin 
-kasvoi. Adventure miehelle renkaiden pito ja jousitus oli pyörissä 
+kasvoi. Adventuremiehelle renkaiden pito ja jousitus oli pyörissä 
 jotain käsittämätöntä. Tuntui, että rengas pysyi tiukasti pidossa 
 paikassa kuin paikassa ja mitkään töyssyt ja hypyt eivät tuntuneet 
 missään, niin pehmeästi alusta nuoli epätasaisuudet.
@@ -104,7 +104,7 @@ missään, niin pehmeästi alusta nuoli epätasaisuudet.
 Päivän kokemuksen jälkeen koen, että lajia voi hyvin myös aloittelija 
 harrastaa turvallisesti. Vauhti ja rata pitää vain valita taitotason 
 mukaisesti. Laji ei mielestäni ole extreme laji, koska sitä voi hyvin 
-harrasta ilman isojen riskien ottamista.
+harrastaa ilman isojen riskien ottamista.
 
 KTM:n 2021 mallistosta minulle mieluisin olisi 450 EXC-F. Välttäisin 
 menemästä pahimpiin kivikoihin ja trial-taitoja vaativiin ratoihin, 
