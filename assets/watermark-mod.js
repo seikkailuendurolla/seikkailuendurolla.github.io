@@ -12,7 +12,7 @@ $(document).ready(function() {
     watermarkImage.value = Cookies.get("watermarkImage");
 
     if (watermarkImage.value === "undefined") {
-        watermarkImage.value = "https://seikkailuendurol.la/assets/big-logo.png";
+        watermarkImage.value = "/assets/marine-logo-slogan-white.png";
     }
 
     var options = {

@@ -23,7 +23,18 @@ $(document).ready(function() {
 <div class="home">
   <form>
     <h2>Valokuvan vesileimaus logolla</h2>
-    <div>Logo <input type="text" name="watermark" id="watermark" /></div>
+    <!-- <div>Logo <input type="text" name="watermark" id="watermark" /></div> -->
+    <div>Logo 
+      <select name="watermark" id="watermark">
+        <option value="/assets/MARINE.FI.png">MARINE.FI</option>
+        <option value="/assets/marine-logo.png">marine logo</option>
+        <option value="/assets/marine-logo-white.png">marine logo white</option>
+        <option value="/assets/marine-logo-slogan.png">marine logo slogan</option>
+        <option value="/assets/marine-logo-slogan-white.png">marine logo slogan white</option>
+        <option value="/assets/marine-logo-verical.png">marine logo verical</option>
+        <option value="/assets/marine-logo-verical-white.png">marine logo verical white</option>
+      </select>
+    </div>
     <div>Kuva <input type="file" id="image"></div>
     <div>Logon läpinäkyvyys
       <select name="optacity" id="opacity">
