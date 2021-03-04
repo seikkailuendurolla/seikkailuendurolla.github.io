@@ -107,13 +107,14 @@ Tärkeimmät lisäominaisuudet, jotka ovat käytettävissä <b>Gold</b> ja
 <b>all-in-one</b> versiossa
 
 * Reitin suunnittelutyökalu
-  * Lisäksi Here (Garmin) ja TomTom kartat käytettävissä
+  * Lisäksi Here (Garmin) ja TomTom kartat käytettävissä reititykseen
   * Mahdollisuus verrata eri karttojen 
 automaattireititystä
   * Reitin muuntamien käänteiseksi
   * Reittipisteiden automaattinen lisääminen, jolloin voidaan 
 varmistaa, että navigaattori menee suunniteltua reittiä pitkin
-  * Satelliittikuvat
+  * Satelliittikuvat sekä mahdollisuus vaihtaa taustakartaksi mm. Google 
+Maps:n karttoja
  
 Tärkeimmät lisäominaisuudet, jotka ovat käytettävissä <b>all-in-one</b> 
 ja <b>Navigation</b> versiossa
