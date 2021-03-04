@@ -2,9 +2,9 @@
 layout: post
 title: Reitin suunnittelu soratieseikkailuun
 header_slogan_class: white
-header_image_style: "background-image: url('/assets/norja20.jpg');"
-post_image: /assets/norja2.jpg
-image: /assets/norja20.jpg
+header_image_style: "background-image: url('/assets/ktm790adventure.jpg');"
+post_image: /assets/soratieseikkailu.jpg
+image: /assets/soratieseikkailu.jpg
 keywords: "moottoripyöräily, matkaenduro, seikkailu endurolla, MRA, navigaattori, garmin, reitti, MyRoute-app, soratie"
 description: Miten suunnittelet helposti reitin soratieseikkailuun?
 excerpt_separator: <!--more-->
