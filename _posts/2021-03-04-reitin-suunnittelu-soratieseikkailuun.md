@@ -8,7 +8,7 @@ image: /assets/soratieseikkailu.jpg
 keywords: "moottoripyöräily, matkaenduro, seikkailu endurolla, MRA, navigaattori, garmin, reitti, MyRoute-app, soratie"
 description: Miten suunnittelet helposti reitin soratieseikkailuun?
 excerpt_separator: <!--more-->
-excerpt: Moni kapupyöräilijä käyttää navigaattoria vain pidemmillä reissuilla ja arkiajot sujuvat muistin varaisesti. Tämä on ymmärrettävää, koska aika nopeasti päällystetyt tiet ja reitit tulevat lähiseudulla tutuksi ja siten reitin suunnittelu ja navigointi tapahtuu päässä. Sorateillä ajaessa tämä ei onnistu, koska käännöksiä tulee niin paljon. 
+excerpt: Moni katupyöräilijä käyttää navigaattoria vain pidemmillä reissuilla ja arkiajot sujuvat muistin varaisesti. Tämä on ymmärrettävää, koska aika nopeasti päällystetyt tiet ja reitit tulevat lähiseudulla tutuksi ja siten reitin suunnittelu ja navigointi tapahtuu päässä. Sorateillä ajaessa tämä ei onnistu, koska käännöksiä tulee niin paljon. 
 ---
 
 {::options parse_block_html="true" /}
@@ -38,7 +38,7 @@ excerpt: Moni kapupyöräilijä käyttää navigaattoria vain pidemmillä reissu
 {:.ohje}
 {:id="title-johdanto"}
 
-Moni kapupyöräilijä käyttää navigaattoria vain pidemmillä reissuilla ja 
+Moni katupyöräilijä käyttää navigaattoria vain pidemmillä reissuilla ja 
 arkiajot sujuvat muistin varaisesti.
 Tämä on ymmärrettävää, koska aika nopeasti 
 päällystetyt tiet ja reitit tulevat lähiseudulla tutuksi ja siten reitin 
