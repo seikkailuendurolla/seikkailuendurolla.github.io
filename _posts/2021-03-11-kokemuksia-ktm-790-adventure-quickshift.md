@@ -19,7 +19,7 @@ toimintaperiaate on hyvin yksinkertainen. Vaihdepolkimessa on sensori,
 joka tunnistaa vaihteen vaihtamisen. Vaihdettaessa vaihdetta 
 ohjausjärjestelmä katkaisee hetkellisesti moottorin sytytyksen, jolloin 
 veto on hetken aikaa pois päältä ja vaihde vaihtuu pehmeästi vaikka 
-kaasua ei olekaan löysätty. Plus, tarkoittaa sitä, että ominaisuus 
+kaasua ei olekkaan löysätty. Plus (+) tarkoittaa sitä, että ominaisuus 
 toimii sekä isommalle, että pienemmälle vaihdettaessa.
 
 <!--more-->
@@ -44,7 +44,7 @@ käyttää.
 Tämä on minulle yksi tärkeimmistä lisävarusteista pyörässäni. Avustin 
 tekee vaihteenvaihdosta helpompaa, joka on mukavaa erityisesti 
 maastoajossa tapeilta ajettaessa. Tällöin kytkimen käyttö on 
-haasteellisempaa. Samoin kyyyytiläisen kanssa ei tarvitse 
+haasteellisempaa. Samoin kyytiläisen kanssa ei tarvitse 
 vaihteenvaihtoa pehmennellä, kun avustimen avulla vaihto on 
 automaattisesti sulavaa.
 
@@ -72,7 +72,7 @@ riittävästi ja seuraava vaihde olisi ollut liian iso ko. nopeuteen. Näin
 ollen avustin ei aktivoitunut. Ongelma poistui, kun muutin ajotyyliäni 
 ja pykälsin isommalle vasta kun vauhti oli kiihtynyt riittävästi. 
 Vanhassa pyörässäni oli niin paljon vähemmän tehoja, että sillä opittu 
-korvakuulolla ajo ei toimikaan tehokkaamman pyörän kanssa. 
+korvakuulolla ajo ei toimikkaan tehokkaamman pyörän kanssa. 
 Tyhjäkäynnillä pienemmälle vaihdettaessa pyörä on yhden kerran sammunut, 
 muuten pykältäminen alaspäin on toiminut moitteetta.
 
