@@ -16,13 +16,11 @@ kytkintä.
 
 Vaihdelaatikko on normaali manuaalikäyttöinen vaihteisto. Avustimen 
 toimintaperiaate on hyvin yksinkertainen. Vaihdepolkimessa on sensori, 
-joka tunnistaa vaihteen vaihtamisen. Vaihdettaessa vaihdetta 
+joka tunnistaa vaihteen vaihtamisen.<!--more--> Vaihdettaessa vaihdetta 
 ohjausjärjestelmä katkaisee hetkellisesti moottorin sytytyksen, jolloin 
 veto on hetken aikaa pois päältä ja vaihde vaihtuu pehmeästi vaikka 
 kaasua ei olekkaan löysätty. Plus (+) tarkoittaa sitä, että ominaisuus 
 toimii sekä isommalle, että pienemmälle vaihdettaessa.
-
-<!--more-->
 
 Vaikka toimintaperiaate on yksinkertainen, niin hyvin toimiva avustin 
 vaatii älykästä elektroniikkaa. Ajoitukset pitää olla juuri kyseiselle 
