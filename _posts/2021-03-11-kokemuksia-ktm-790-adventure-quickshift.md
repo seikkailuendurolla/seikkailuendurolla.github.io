@@ -83,3 +83,17 @@ pykällellä vaihteita, kun tarkoituksena oli kiihdyttää mahdollisimman
 nopeasti. Vaihteen vaihtoon ei tuhrautunut ylimääräistä aikaa ja avustin 
 toimi hyvin isoilla kierroksilla.
 
+<div><b>Lue myös muut blogisarjan kirjoitukset:</b></div>
+
+<div><a href="/2020/06/07/kokemuksia-ktm-790-adventure-kaarre-abs">
+Kokemuksia: KTM 790 Adventure, kaarre-ABS</a></div>
+
+<div>&nbsp;</div>
+
+<i>
+Hankin KTM 790 Adventuren keväällä 2020. Blogisarjassa kerron 
+kokemuksistani kyseisestä pyörästä. Ensimmäisen kesän aikana 
+kilometrejä kertyi yhteensä n. 10 000 km. Aiemmat pyöräni ovat olleet 
+Honda XRV 750, Suzuki DR 350, Suzuki DR 800 ja Kawasaki KDX 125
+</i>
+
