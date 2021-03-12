@@ -6,7 +6,7 @@ header_image_style: "background-image: url('/assets/ktm-790-adventure-7.jpg');"
 post_image: /assets/ktm-790-adventure-7.jpg
 image: /assets/ktm-790-adventure-8.jpg
 keywords: "moottoripyöräily, matkaenduro, seikkailu endurolla, ktm, adventure, 790"
-description: 
+description: Quickshift+ eli vaihteenvaihtoavustin on KTM moottoripyöriin saatava lisävaruste, jonka avulla moottoripyörän vaihteen voi vaihtaa ilman kytkintä. 
 excerpt_separator: <!--more-->
 ---
 
