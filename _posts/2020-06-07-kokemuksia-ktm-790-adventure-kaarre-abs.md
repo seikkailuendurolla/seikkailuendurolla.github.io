@@ -101,3 +101,19 @@ src="https://www.youtube.com/embed/ji5S5Syeqa0" frameborder="0"
 allowfullscreen></iframe>
 </div>
 <div>&nbsp;</div>
+
+<div><b>Lue myös muut blogisarjan kirjoitukset:</b></div>
+
+<div><a href="/2021/03/12/kokemuksia-ktm-790-adventure-quickshift">
+Kokemuksia: KTM 790 Adventure, Quickshift+
+</a></div>
+
+<div>&nbsp;</div>
+
+<i>
+Hankin KTM 790 Adventuren keväällä 2020. Blogisarjassa kerron
+kokemuksistani kyseisestä pyörästä. Ensimmäisen kesän aikana
+kilometrejä kertyi yhteensä n. 10 000 km. Aiemmat pyöräni ovat olleet
+Honda XRV 750, Suzuki DR 350, Suzuki DR 800 ja Kawasaki KDX 125
+</i>
+
