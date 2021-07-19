@@ -8,6 +8,7 @@ $(document).ready(function() {
     var scale;
     var body = $('body');
     var spinner;
+    var downloadButton = document.getElementById('download');
 
     watermarkImage.value = Cookies.get("watermarkImage");
 
@@ -111,6 +112,8 @@ $(document).ready(function() {
                 preview.style.width = "100%";
                 preview.style.display = "block";
                 previewLabel.style.display = "block";
+		downloadButton.style.display = "block";
+		
                 stopSpinner();
             });
 
