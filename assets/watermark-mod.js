@@ -50,9 +50,12 @@ $(document).ready(function() {
     });
 
     $('#download').on("click", function(b) {
-      var img = preview.querySelector('img');
-      saveAs(img, "somekuva.png");
-    }
+        var img = preview.querySelector('img');
+        var download = document.createElement('a');
+        download.href = img.src;
+        download.download = 'kuvasomeen.png';
+        download.click();
+    });
 
     $('button.scale').on("click", function(b) {
         var scale_html = parseInt($('#scale').html())
