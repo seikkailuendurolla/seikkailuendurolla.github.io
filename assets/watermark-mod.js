@@ -49,6 +49,11 @@ $(document).ready(function() {
         updatePreview(position);
     });
 
+    $('#download').on("click", function(b) {
+      var img = preview.querySelector('img');
+      saveAs(img, "somekuva.png");
+    }
+
     $('button.scale').on("click", function(b) {
         var scale_html = parseInt($('#scale').html())
 
