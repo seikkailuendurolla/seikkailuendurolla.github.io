@@ -15,27 +15,27 @@ Kaluston vaihtumisen myötä lyhyt esittely pyörästäni sekä mietteitä mikä
 tämän pyörän parissa.
 
 Honda palasi maastokelpoisiin matkaenduroihin 2016, kun legendaarinen Arfica Twin sai jatkoa täysin uuden pyörän muodossa.
-Testasin tuolloin pyörää ja kirjoitin siitä myös jutun tähän blogiin: Africa Twinin paluu.
+Testasin tuolloin pyörää ja kirjoitin siitä myös jutun tähän blogiin: [Africa Twinin paluu.](/2016/07/14/africa-twinin-paluu){:target="_blank"}
 
 Nyt on aika testata perusteellisemmin mihin Hondan kehitystyö on johtanut<!--more--> joten kalustona minulla on Honda CRF1100L Africa
 Twin DCT. Pyörä on ulkoisesti hyvin samannäköinen, kuin 2016 vuoden versio, mutta se on kehittynyt monella osa-alueella.
 
 Africa Twin on isoimpien kokoluokkaan kuuluva matkaenduro joka on varustettu 1084 kuutioisella moottorilla ja isoilla 21” ja
-18” tuumaisilla vanteilla. Tehoja pyörästä löytyy 75kw ja vääntöä 105Nm. Moottori on luonteelta matalilla kierroksilla hyvin
+18” tuumaisilla renkailla. Tehoja pyörästä löytyy 75kw ja vääntöä 105Nm. Moottori on luonteelta matalilla kierroksilla hyvin
 vääntävä ja voiman kasvu tulee kierrosten noustessa lineaarisesti. Tällainen moottori on maastossa ja soratiellä helppo hallita.
 
 Pyörä sisältää uusille pyörille nykyään jo tutut ominaisuudet, kuten luistoneston ja kaarre-ABS jarrut. Käytössä on
 sähköinen kaasu, joten luistonesto hyödyntää sytytyksen katkaisun lisäksi kaasun asennon säätöä. Tämä tekee luistonestosta
 tarkemman ja paremin reagoivan. Honda käyttääkin termiä väännön hallinta, joka kuvaa paremmin moottoripyörän “luistonestoa”.
 Kysehän on vain siitä, että rajoitetaan takapyörälle välittyvää voimaa riippuen datasta, jota useat sensorit tuottaa, kuten
-ajoneuvon asento kaikilla eri akseleilla, vauhti, ajopinnan liukkaus, etu ja takapyörän nopeuden ero jne. Asetusten avulla
+ajoneuvon asento kaikilla eri akseleilla, vauhti, ajopinnan liukkaus, etu ja takarenkaan pyörimisnopeuden ero jne. Asetusten avulla
 voi määrittää rajat, kuinka paljon takarenkaalle tuotetaan voimaa eri tilanteissa. Näin ollen voit turvallisesti luistattaa
 takarengasta ja saada sitä kautta lisää hauskuuskerrointa ajamiseen.
 
 Yksi mielenkiintoisimmista ominaisuuksista pyörässä on tuki Android Autolle / Apple CarPlay:lle. Tämä mahdollistaa
 älypuhelimien navigointisovellusten käytön pyörän näytöllä ja hallintalaitteilla ilman, että moottoripyörän valmistajan
 tarvitsee tukea millään tavalla kyseistä sovellusta. Tällä hetkellä testaan OsmAnd sovellusta, joka mahdollistaa mm.
-maastokarttojen käytön näytöllä. <tähän kuva näytöstä, maastokartat päällä>
+maastokarttojen käytön näytöllä.
 
 Ylivoimaisesti suurin mielenkiintoni kuitenkin kohdistuu Africa Twinin kaksoiskytkin automaattivaihteistoon, joka muuttaa
 eniten ajotyyliäni ja vaatii totuttujen tapojen vaihtamista. Suurin mullistus kohdistuu maastoajoon, joka on koko-ajan ollut
@@ -59,7 +59,7 @@ sekä tarinaa siitä, kun hän
 [käytännössä kokeilee (3 sivua)](https://global.honda/innovation/technology/motorcycle/tech-views/vol09_g-switch_stc/impression.html){:target="_blank"}
 kyseisiä ominaisuuksia 2019 malliversiolla.
 
-Ensi viikolla osallistun Moto Adventure Days -tapahtumaan ja toimin siellä MAD-vetäjänä punaisessa (tekniset) ryhmässä.
+Ensi viikolla osallistun [Moto Adventure Days](https://motoadventuredays.fi){:target="_blank"} -tapahtumaan ja toimin siellä MAD-vetäjänä punaisessa (tekniset) ryhmässä.
 Eturenkaaksi olen hommannut Mitas C-17 ja takarenkaana käytän Mitas E-09:iä, joten renkaiden puolesta pitäisi selvitä hyvin
 haastavammistakin paikoista. Mielenkiintoinen tapahtuma tulossa ja varmasti paljon uuden oppimista tällä pyörällä. Nykäise
 hihasta, jos satut olemaan tapahtumassa mukana.
