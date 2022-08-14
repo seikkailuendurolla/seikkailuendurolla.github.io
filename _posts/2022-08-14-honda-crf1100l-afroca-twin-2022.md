@@ -17,6 +17,8 @@ tämän pyörän parissa.
 Honda palasi maastokelpoisiin matkaenduroihin 2016, kun legendaarinen Arfica Twin sai jatkoa täysin uuden pyörän muodossa.
 Testasin tuolloin pyörää ja kirjoitin siitä myös jutun tähän blogiin: [Africa Twinin paluu.](/2016/07/14/africa-twinin-paluu){:target="_blank"}
 
+<img src="/assets/honda-crf-1100-3.jpg" style="float: right; padding: 5px; width: 300px;" />
+
 Nyt on aika testata perusteellisemmin mihin Hondan kehitystyö on johtanut<!--more--> joten kalustona minulla on Honda CRF1100L Africa
 Twin DCT. Pyörä on ulkoisesti hyvin samannäköinen, kuin 2016 vuoden versio, mutta se on kehittynyt monella osa-alueella.
 
@@ -43,6 +45,8 @@ tärkeä osa harrastustani. Pyörä on selvästi painavampi, kuin aiempi pyörä
 merkittävästi hidasajoa. Mielenkiintoista on nähdä, kumoaako nämä ominaisuudet toisensa, kun pääsen vaihtamaan karkeammat
 renkaat pyörääni ja kokemusta maastoajosta kertyy enemmän.
 
+<img src="/assets/honda-crf-1100-2.jpg" style="float: right; padding: 5px;" />
+
 Automaattivaihteiston (DCT) kehitystiimi on panostanut paljon nimenomaan maastoajo ominaisuuksiin. Tähän liittyen kuski voi
 asetuksista vaikuttaa kytkimen toimintaan hitailla nopeuksilla. Asetuksesta käytetään nimitystä G-kytkin.
 Ajonhallintajärjestelmä hakee jokaiseen tilanteeseen juuri siihen hetkeen sopivan vaihteen tai tarvittaessa kytkimen
@@ -59,10 +63,20 @@ sekä tarinaa siitä, kun hän
 [käytännössä kokeilee (3 sivua)](https://global.honda/innovation/technology/motorcycle/tech-views/vol09_g-switch_stc/impression.html){:target="_blank"}
 kyseisiä ominaisuuksia 2019 malliversiolla.
 
-Ensi viikolla osallistun [Moto Adventure Days](https://motoadventuredays.fi){:target="_blank"} -tapahtumaan ja toimin siellä MAD-vetäjänä punaisessa (tekniset) ryhmässä.
-Eturenkaaksi olen hommannut Mitas C-17 ja takarenkaana käytän Mitas E-09:iä, joten renkaiden puolesta pitäisi selvitä hyvin
-haastavammistakin paikoista. Mielenkiintoinen tapahtuma tulossa ja varmasti paljon uuden oppimista tällä pyörällä. Nykäise
-hihasta, jos satut olemaan tapahtumassa mukana.
+<img src="/assets/honda-crf-1100-4.jpg" style="float: right; padding: 5px; width: 380px;" />
+
+Ensi viikolla osallistun [Moto Adventure Days](https://motoadventuredays.fi){:target="_blank"} -tapahtumaan ja toimin
+siellä MAD-vetäjänä punaisessa (tekniset) ryhmässä. Eturenkaaksi olen hommannut Mitas C-17 ja takarenkaana käytän
+Mitas E-09:iä, joten renkaiden puolesta pitäisi selvitä hyvin haastavammistakin paikoista. Mielenkiintoinen tapahtuma
+tulossa ja varmasti paljon uuden oppimista tällä pyörällä. Nykäise hihasta, jos satut olemaan tapahtumassa mukana.
+
+Paikalla on myös [Marinen](https://marine.fi){:target="_blank"} ja [Hondan](https://www.hondabikes.fi/){:target="_blank"}
+edustus, joten halutessasi pääset testamaan näitä pyörämalleja. Marinelta löytyy vielä kaksi Africa Twiniä varastosta, jotka
+ehtii käyttöön syksyn ajeluihin.
+
+&nbsp;
+{:class="clear-and-empty"}
+
 
 # Tekniset tiedot
 
