@@ -4,7 +4,7 @@ title: "Honda CRF1100L Africa Twin 2022"
 header_slogan_class: white
 header_image_style: "background-image: url('/assets/honda-crf-1100.jpg');"
 post_image: /assets/honda-crf-1100.jpg
-image: /assets/honda-crf-1100-3.jpg
+image: /assets/honda-crf-1100-2.jpg
 keywords: "moottoripyöräily, matkaenduro, seikkailu endurolla, honda, adventure, africa twin, CRF1100L, tekniset tiedot"
 description: Hondan Africa Twin koki täydellisen päivityksen mallivuodelle 2020. Tästä alkaa tutkimusmatka, mihin isoimpien kokoluokkaan kuuluva pyörä pystyy kaksoiskytkin vaihteistolla meikäläisen näpeissä.
 excerpt_separator: <!--more-->
