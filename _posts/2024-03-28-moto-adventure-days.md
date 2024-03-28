@@ -6,7 +6,7 @@ header_image_style: "background-image: url('/assets/mad-bg2.jpg');"
 post_image: /assets/mad.jpg
 image: /assets/mad.jpg
 keywords: "moottoripyöräily, matkaenduro, seikkailu endurolla, honda, adventure, mad, tapahtuma, koulutus"
-description: Hondan Africa Twin koki täydellisen päivityksen mallivuodelle 2020. Tästä alkaa tutkimusmatka, mihin isoimpien kokoluokkaan kuuluva pyörä pystyy kaksoiskytkin vaihteistolla meikäläisen näpeissä.
+description: Syksyisin järjestettävä Moto Adventure Days tapahtuma kerää seikkailumotoristeja ajo ja koulutustapahtumaan ympäri Suomen. Tapahtuma on tarkoitettu motoristeille, joilla on sekä maasto, että maantiekäyttöön soveltuva moottoripyörä.
 excerpt_separator: <!--more-->
 bg_image_copyright: '<a href="https://www.instagram.com/petro_moto/" target="_blank" style="color: white;">Petro Hämäläinen</a>'
 bg_image_copyright_style: "color: white; position: absolute; bottom: 0px; right: 1em; font-size: 0.8em;"
