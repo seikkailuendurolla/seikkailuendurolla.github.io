@@ -170,16 +170,18 @@ asetuksia:
 * Aktivoi G-kytkin
 * Automaatilla ajettaessa laita päälle S-tilan taso 2
 
-# Mihin moottoripyörä markkina on menossa näiltä osin?
+# Mihin moottoripyörämarkkina on menossa näiltä osin?
 
 Mielenkiintoista nähdä, mihin moottoripyörämarkkina kehittyy näiltä osin. Honda julkaisi
-tulevalle kaudelle E-Clutch järjestelmän, jossa tavalliseen manuaalivaihteiseen
+tulevalle kaudelle [E-Clutch](https://global.honda/en/tech/Honda_E-Clutch/){:target="_blank"}
+järjestelmän, jossa tavalliseen manuaalivaihteiseen
 yksikytkimiseen pyörään saadaan automaattikytkin. Tästä puuttuu vaihteen automaattinen
 vaihtaminen ja toiminnon voi myös kytkeä täysin pois päältä, jolloin pyörä vastaa täysin
 manuaalista vaihteistoa. Manuaalista kytkintä voit myös käyttää milloin vain vaikka
-automaattikytkin olisi aktivoituna. Ominaisuus tulee aluksi vain katupyörään, mutta voisi
+automaattikytkin olisi aktivoituna. Ominaisuus tulee aluksi vain yhteen katupyörämalliin, mutta voisi
 olla aika mielenkiintoinen lisävaruste Transalppiin. E-Clutch ei vaikuta pyörän painoon ja
-on käsittääkseni lisättävissä mihin tahansa Hondan pyörämalliin. Myös Kawasakin uudessa
+käsittääkseni halutessaan Honda voisi lisätä ominaisuuden mihin tahansa pyörämalliin.
+Myös Kawasakin uudessa
 Ninja 7 Hybrid pyörässä on automaattikytkin. Eteneekö tämä muutos muihinkin merkkeihin
 sähköistä voimalinjaa kohti mentäessä? Sähkökäyttöisessä moottoripyörässähän ei ole
 kytkimelle tarvetta.
