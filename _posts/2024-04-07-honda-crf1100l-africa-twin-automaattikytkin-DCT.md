@@ -2,7 +2,7 @@
 layout: post
 title: "Honda CRF1100L Africa Twin automaattikytkin DCT"
 header_slogan_class: white
-header_image_style: "background-image: url('/assets/mad-bg2.jpg');"
+header_image_style: "background-image: url('/assets/honda-crf-1100-6.jpg');"
 post_image: /assets/mad.jpg
 image: /assets/mad.jpg
 keywords: "moottoripyöräily, matkaenduro, seikkailu endurolla, honda, adventure, mad, tapahtuma, koulutus"
