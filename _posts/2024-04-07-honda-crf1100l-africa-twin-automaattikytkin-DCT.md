@@ -6,7 +6,7 @@ header_image_style: "background-image: url('/assets/honda-crf-1100-6.jpg');"
 post_image: /assets/honda-crf-1100-6.jpg
 image: /assets/honda-crf-1100-8.jpg
 keywords: "moottoripyöräily, matkaenduro, seikkailu endurolla, honda, adventure, mad, tapahtuma, koulutus"
-description: Honda Africa Twinin DCT vaihteisto tärkein ominaisuus on automaattikytkin. Perustelen asian tässä kirjoituksessa.
+description: Honda Africa Twinin DCT vaihteiston tärkein ominaisuus on automaattikytkin. Kirjoituksessa kokemuksiani kyseisestä teknologiasta.
 excerpt_separator: <!--more-->
 bg_image_copyright: '<a href="https://www.instagram.com/petro_moto/" target="_blank" style="color: white;">Petro Hämäläinen</a>'
 bg_image_copyright_style: "color: white; position: absolute; bottom: 0px; right: 1em; font-size: 0.8em;"
