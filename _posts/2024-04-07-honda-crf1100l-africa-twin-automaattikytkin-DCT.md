@@ -34,7 +34,7 @@ katupyörissä, mutta ei sovellu maastoajoon millään tavalla. Siinä menetetä
 ja vaihteisto ns. “joustaa”. Tämä on luonnollisesti ongelmallista maastoajossa, jossa
 esim. keulaa keventäessä tarvitset terävyyttä voimantuottoon takarenkaalle.
 
-<img src="/assets/honda-crf-1100-5.jpg" style="float: right; padding: 5px; width: 300px;" />
+<img src="/assets/honda-crf-1100-7.jpg" style="float: left; padding: 5px; width: 300px;" />
 
 Perehtyessäni asiaan vähän syvällisemmin selvisi, että Honda on kehittänyt Africa Twiniin 
 DCT vaihteistoa myös maastoajoa silmällä pitäen. Kuitenkin takaraivossa takoi ajatus, että
@@ -94,6 +94,8 @@ nousemaan ylös ja käännös loivenee. Pyörä ei sammu vaikka painaisit takaja
 Automatiikka seuraa pyörän asentoa kuudella eri akselilla, jonka lisäksi seurataan mm.
 renkaiden pyörimisnopeutta. Esimerkiksi jyrkässä ylämäessä vaihdetta ei vaihdeta isommalle
 niin helposti kuin tasaisella ajettaessa.
+
+<img src="/assets/honda-crf-1100-8.jpg" style="float: right; padding: 5px; width: 300px;" />
 
 Manuaaliasetuksella ajettaessa kiinnostus kohdistuu erityisesti kytkimen toimintaan.
 Kytkimen toiminnan optimoimiseksi maastoajoon Honda on lisännyt Africa Twiniin G-kytkimen,
